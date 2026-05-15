@@ -66,7 +66,7 @@ LAYER 12 ── Steps 591–610  · Days 251–262 ── Portfolio · Open Sour
 
 | # | Platform | Domain | Stack | Status |
 |---|----------|--------|-------|--------|
-| P1 | **AAROGYA v1** | Healthcare AI — Patient mgmt + News + PDF | Python · Streamlit · FastAPI · GitHub Actions | 📋 Planned |
+| P1 | **AAROGYA v1** | Healthcare AI — Patient mgmt + News + PDF | Python · Streamlit · FastAPI · GitHub Actions | certified |
 | P2 | **AAROGYA v2** | Healthcare — Live feeds + OOP auth + CI/CD | Python · BeautifulSoup · NewsAPI · Pytest | 📋 Planned |
 | P3 | **SURAKSHA v1** | Cybersecurity — Threat Intelligence platform | Python · DSA (Trie, HashMap, Heap, Graph) | 📋 Planned |
 | P4 | **SURAKSHA v2** | Cyber — 4 data structures · OTX · AbuseIPDB | Python · NetworkX · Docker | 📋 Planned |
