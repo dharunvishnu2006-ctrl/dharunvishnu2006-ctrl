@@ -150,7 +150,7 @@ GOAL   ►  255 days from now — all 18 platforms deployed, job-ready
 
 | # | Course | Platform | Layer | Status |
 |---|--------|----------|-------|--------|
-| C1 | **Python for Everybody** | University of Michigan | L1 | 📋 Planned |
+| C1 | **Python for Everybody** | University of Michigan | L1 | 📋 Processing |
 | C2 | **DSA Specialization** | UC San Diego | L2 | 📋 Planned |
 | C3 | **SQL for Data Science** | UC Davis | L3 | 📋 Planned |
 | C4 | **Mathematics for ML** | DeepLearning.AI | L4+5 | 📋 Planned |
