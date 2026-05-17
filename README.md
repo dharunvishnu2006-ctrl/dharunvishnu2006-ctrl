@@ -58,49 +58,67 @@ LAYER 12 ── Steps 591–610  · Days 251–262 ── Portfolio · Open Sour
 
 ---
 
-## 🏗️ THE ECOSYSTEM — 18 Platforms + 8 Extensions
+## 🏗️ THE ECOSYSTEM — 18 Projects + 8 Standalone Projects
 
-> Every platform is part of one unified AI command centre. None of these are tutorial clones.
+> Every project is part of one unified AI + Cybersecurity command centre. None of these are tutorial clones.
 
 ### 🔵 CORE PROJECTS (18)
 
-| # | Platform | Domain | Stack | Status |
-|---|----------|--------|-------|--------|
-| P1 | **AAROGYA v1** | Healthcare AI — Patient mgmt + News + PDF | Python · Streamlit · FastAPI · GitHub Actions |📋planned |
-| P2 | **AAROGYA v2** | Healthcare — Live feeds + OOP auth + CI/CD | Python · BeautifulSoup · NewsAPI · Pytest | 📋 Planned |
-| P3 | **SURAKSHA v1** | Cybersecurity — Threat Intelligence platform | Python · DSA (Trie, HashMap, Heap, Graph) | 📋 Planned |
-| P4 | **SURAKSHA v2** | Cyber — 4 data structures · OTX · AbuseIPDB | Python · NetworkX · Docker | 📋 Planned |
-| P5 | **ARTHIK v1** | Finance — Multi-user billing + SQL + Reports | Python · SQLite · OOP · PDF generation | 📋 Planned |
-| P6 | **ARTHIK v2** | Finance — UPI analytics + PostgreSQL + RBI | PostgreSQL · SQLAlchemy · Alembic | 📋 Planned |
-| P7 | **NIVESH v1** | Investment AI — Portfolio + NSE + yfinance | NumPy · scipy · yfinance · matplotlib | 📋 Planned |
-| P8 | **NIVESH v2** | Quant Finance — Bayesian + Monte Carlo + VaR | NumPy · PyMC · MCMC · Docker | 📋 Planned |
-| P9 | **KAVACH v1** | Fraud Detection — UPI fraud ML classifier | Scikit-learn · SHAP · Pandas · FastAPI | 📋 Planned |
-| P10 | **KAVACH v2** | Fraud — Ensemble + SHAP + production API | XGBoost · LightGBM · MLflow · Docker | 📋 Planned |
-| P11 | **DRISHTI v1** | Surveillance AI — Face recognition + CV | TensorFlow · OpenCV · CNNs | 📋 Planned |
-| P12 | **DRISHTI v2** | Deep Vision — CCTV + YOLO + alert system | PyTorch · YOLO · DeepFace | 📋 Planned |
-| P13 | **NYAYA v1** | Legal AI — DPDP Act compliance + NLP | Transformers · Hugging Face · FastAPI | 📋 Planned |
-| P14 | **SENTINEL v1** | Threat Intelligence — AI SIEM platform | LangChain · RAG · Pinecone · FastAPI | 📋 Planned |
-| P15 | **PRAHARI v1** | MLOps — SageMaker + CI/CD + monitoring | AWS · SageMaker · MLflow · GitHub Actions | 📋 Planned |
-| P16 | **PRAHARI v2** | Cloud Infra — K8s + GitOps + Chaos Engineering | AWS EKS · ArgoCD · Istio · Terraform · Feast | 📋 Planned |
-| P17 | **SentinelAI India v1** | Unified AI Command Centre — ALL 16 connected | FastAPI · K8s · All ML/DL/GenAI services | 📋 Planned |
-| P18 | **SentinelAI India OSS** | Open Source release on PyPI + Docs | Docusaurus · PyPI · GitHub Actions | 📋 Planned |
+> **v1 projects** = built in the assigned layer · **v2 projects** = future upgrades added layer-by-layer as new skills are learned
+
+| # | Project | What It Does | Stack | Layer | Status |
+|---|---------|--------------|-------|-------|--------|
+| P1 | **AAROGYA v1** | Health Data Platform — Apollo/AIIMS-style analytics + live deployment | Python · Pandas · Matplotlib · Streamlit · Pytest | L1 | 📋 Planned |
+| P2 | **AAROGYA v2** ⬆️ | AI Health Assistant — built in L1, then upgraded across 4 future layers | Python · FastAPI · PostgreSQL → AWS → K8s | L1 → L3 → L6 → L10 → L11 | 🔄 Future Upgrade |
+| | | └ v2.1 PostgreSQL Storage · v2.2 FastAPI + ML Disease Prediction · v2.3 JWT + AWS EC2 · v2.4 Docker + K8s + ArgoCD | | | |
+| P3 | **SURAKSHA v1** | Network Graph Analyzer — BFS + DFS + Dijkstra on corporate attack paths | Python · NetworkX · Matplotlib · Streamlit | L2 | 📋 Planned |
+| P4 | **SURAKSHA v2** ⬆️ | Threat Intelligence Pipeline — built in L2, upgraded as skills grow | Python · NetworkX · OTX · AbuseIPDB · Docker | L2 → L3 → L6 → L10 → L11 | 🔄 Future Upgrade |
+| | | └ v2.1 PostgreSQL IOC Storage · v2.2 FastAPI + ML Anomaly · v2.3 AWS GuardDuty · v2.4 K8s + Prometheus | | | |
+| P5 | **ARTHIK v1** | Financial Intelligence Platform — multi-user billing + SQL + PDF reports | Python · SQLite · OOP · PDF generation | L3 | 📋 Planned |
+| P6 | **ARTHIK v2** ⬆️ | BFSI Production DB — built in L3, upgraded with ML + GenAI + Cloud | PostgreSQL · SQLAlchemy · FastAPI → AWS → GenAI | L3 → L6 → L10 → L9 → L11 | 🔄 Future Upgrade |
+| | | └ v2.1 FastAPI + ML Fraud Endpoints · v2.2 AWS RDS Multi-AZ + KMS · v2.3 GenAI Customer Agent · v2.4 K8s + Vault | | | |
+| P7 | **NIVESH v1** | Quant Investment Engine — NSE portfolio + yfinance + statistical analysis | NumPy · scipy · yfinance · Matplotlib | L4+5 | 📋 Planned |
+| P8 | **NIVESH v2** ⬆️ | Bayesian Risk Platform — built in L4+5, upgraded with DL + Cloud + MLOps | NumPy · PyMC → XGBoost → LSTM → SageMaker | L4+5 → L6 → L7 → L10 → L11 | 🔄 Future Upgrade |
+| | | └ v2.1 XGBoost + SHAP · v2.2 LSTM Market Predictor · v2.3 SageMaker Real-Time · v2.4 K8s + MLflow Drift | | | |
+| P9 | **KAVACH v1** | Fraud Detection System — UPI fraud ML classifier + SHAP explainability | Scikit-learn · SHAP · Pandas · FastAPI | L6 | 📋 Planned |
+| P10 | **KAVACH v2** ⬆️ | Enterprise AI Platform — built in L6, upgraded with DL + GenAI + MLOps | XGBoost · LightGBM → CNN-LSTM → SageMaker | L6 → L7 → L10 → L9 → L11 | 🔄 Future Upgrade |
+| | | └ v2.1 CNN-LSTM Added · v2.2 SageMaker + Cognito · v2.3 GenAI Incident Summary · v2.4 K8s + Feast + MLflow | | | |
+| P11 | **DRISHTI v1** | Computer Vision Platform — face recognition + real-time CV pipeline | TensorFlow · OpenCV · CNNs · Streamlit | L7 | 📋 Planned |
+| P12 | **DRISHTI v2** ⬆️ | Multi-Modal AI Platform — built in L7, upgraded with GenAI + K8s + Edge | PyTorch · YOLO · DeepFace → GenAI → Triton | L7 → L10 → L9 → L11 | 🔄 Future Upgrade |
+| | | └ v2.1 AWS GPU + SageMaker · v2.2 GenAI Explainer RAG · v2.3 Triton + K8s GPU · v2.4 INT8 Edge Deploy | | | |
+| P13 | **NYAYA v1** ⬆️ | India Legal Compliance Agent — RAG on RBI + SEBI + Companies Act 2013 | LangChain · Claude API · ChromaDB · Pinecone · Streamlit | L9 (Day 197) | 📋 Planned |
+| | | └ *Living Project — upgrades after every layer* | | | 🔄 Future Upgrade |
+| | | └ v1.1 LangGraph multi-agent (Day 215) · v1.2 Hybrid Search BM25 + rerank (Day 220) · v1.3 K8s + Langfuse (Day 250) · v1.4 NeMo Guardrails (Day 260) | | | |
+| P14 | **SENTINEL** ⬆️ | Autonomous SOC — 5 LLM agents · alert to contained in 90 seconds | LangGraph · Claude API · CrewAI · FastAPI · Docker | L9 (Day 215) | 📋 Planned |
+| | | └ *Living Project — upgrades through MLOps + Cyber layers* | | | 🔄 Future Upgrade |
+| | | └ v1.1 CrewAI hierarchical sub-agents (Day 230) · v1.2 K8s + LangSmith (Day 250) · v1.3 NeMo Red-Team (Day 260) · v1.4 A2A Protocol (Day 261) | | | |
+| P15 | **PRAHARI v1** | ML Monitoring Platform — SageMaker + CI/CD + Evidently + Grafana | AWS · SageMaker · MLflow · GitHub Actions | L10 | 📋 Planned |
+| P16 | **PRAHARI v2** ⬆️ | K8s Platform — built in L11, upgraded with OPA + Falco + FinOps | AWS EKS · ArgoCD · Istio · Terraform · Feast | L11 | 🔄 Future Upgrade |
+| | | └ v2.1 OPA + Falco + FinOps dashboard | | | |
+| P17 | **SentinelAI India v1** | Unified AI Command Centre — ALL 16 projects in ONE Streamlit dashboard | FastAPI · K8s · All ML/DL/GenAI stacks | L12 | 📋 Planned |
+| P18 | **SentinelAI India OSS** | Open Source Release — PyPI package + full documentation site | Docusaurus · PyPI · GitHub Actions | L12 | 📋 Planned |
 
 ---
 
-### 🟠 EXTENSION MODULES (8)
+### 🟠 STANDALONE PROJECTS (8)
 
-> Advanced real-world extensions built on top of core projects.
+> 8 independent projects — each in its own GitHub repo — built after each Layer is complete. Real Indian data. No tutorials.
 
-| # | Extension | Built On | What It Does |
-|---|-----------|----------|--------------|
-| EXT-1 | **IPL Analytics Engine** | AAROGYA (P2) | Real cricket data · OOP · Plotly · Dream11-level stats |
-| EXT-2 | **IPL Data Model** | AAROGYA (P2) | ER diagram · 3NF normalization · 5 years IPL data |
-| EXT-3 | **India Road Network Router** | SURAKSHA (P4) | Dijkstra · BFS · Trie autocomplete · Google Maps mini |
-| EXT-4 | **NPCI UPI Analyzer** | ARTHIK (P6) | 1M synthetic transactions · Window functions · RBI PDF |
-| EXT-5 | **NSE Quantitative Trading System** | NIVESH (P8) | Markowitz · Monte Carlo · VaR · CVaR · Efficient frontier |
-| EXT-6 | **India Credit Risk Engine** | KAVACH (P10) | RBI CIBIL-style scoring · Explainability · Fairness audit |
-| EXT-7 | **Aadhaar Face Verification** | DRISHTI (P12) | UIDAI-scale face matching · Anti-spoofing · Privacy |
-| EXT-8 | **Flipkart Big Billion Day Load Simulator** | PRAHARI (P16) | k6 · 10x traffic · HPA · Chaos engineering · SLO |
+| # | Standalone Project | tagline | Built After | Status |
+|---|-------------------|---------|-------------|--------|
+| S1 | **IPL Analytics Engine** | Real cricket data + OOP + stats — Dream11 level thinking | Layer 1 (Day 36+) | 📋 Planned |
+| S2 | **India Road Network Router** | Google Maps Mini — Dijkstra on Indian cities — Ola/Rapido level | Layer 2 (Day 59+) | 📋 Planned |
+| S3 | **NPCI UPI Transaction Analyzer** | 1 million UPI rows — RBI compliance — PhonePe data team level | Layer 3 (Day 79+) | 📋 Planned |
+| S4 | **NSE Quantitative Trading System** | Markowitz + Monte Carlo + VaR — real quant desk system | Layer 4 (Day 108+) | 📋 Planned |
+| S5 | **Indian Credit Scoring Engine** | RBI Fair Lending — SHAP explanation — CIBIL replacement | Layer 5 ML (Day 139+) | 📋 Planned |
+| S6 | **Bharat Deepfake Detection** | Fake political video detector — Election Commission level AI | Layer 6 DL (Day 179+) | 📋 Planned |
+| S7 | **Indian Legal Due Diligence Agent** | Upload any contract — instant risk report — startup lawyer replacement | Layer 9 GenAI (Day 198+) | 📋 Planned |
+| S8 | **Flipkart Big Billion Day Load Simulator** | 10x traffic spike — chaos test — auto-scale — production validated | Layer 11 MLOps (Day 251+) | 📋 Planned |
+
+---
+
+> 🏆 **GOLDEN RULE from the Roadmap:**
+> *"Build Phase 1 first. Complete and deployed. Then one upgrade at a time."*
 
 ---
 
@@ -150,7 +168,7 @@ GOAL   ►  255 days from now — all 18 platforms deployed, job-ready
 
 | # | Course | Platform | Layer | Status |
 |---|--------|----------|-------|--------|
-| C1 | **Python for Everybody** | University of Michigan | L1 | 📋 Processing |
+| C1 | **Python for Everybody** | University of Michigan | L1 | 📋 Planned |
 | C2 | **DSA Specialization** | UC San Diego | L2 | 📋 Planned |
 | C3 | **SQL for Data Science** | UC Davis | L3 | 📋 Planned |
 | C4 | **Mathematics for ML** | DeepLearning.AI | L4+5 | 📋 Planned |
@@ -207,4 +225,3 @@ GOAL   ►  255 days from now — all 18 platforms deployed, job-ready
 ![Profile Views](https://komarev.com/ghpvc/?username=dharunvishnu2006-ctrl&color=00FF9C&style=for-the-badge&label=PROFILE+VIEWS)
 
 </div>
-
