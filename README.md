@@ -23,15 +23,15 @@
 ## ⚡ WHO AM I
 
 <table>
-<tr><td><h3>🪪 name</h3></td><td><h3>J. Dharun Vishnu</h3></td></tr>
-<tr><td><h3>🎓 degree</h3></td><td><h3>BSc Information Technology (2023 – 2026)</h3></td></tr>
-<tr><td><h3>🛤️ track</h3></td><td><h3>AI/ML Engineer → Cybersecurity Engineer → CISO</h3></td></tr>
-<tr><td><h3>📍 location</h3></td><td><h3>India 🇮🇳</h3></td></tr>
-<tr><td><h3>🎯 mission</h3></td><td><h3>Build AI systems that protect India's digital infrastructure</h3></td></tr>
-<tr><td><h3>🗺️ roadmap</h3></td><td><h3>610 steps · 255 days · 18 projects · 8 standalone projects</h3></td></tr>
-<tr><td><h3>⚡ currently</h3></td><td><h3>Layer 1 — Python + Streamlit + FastAPI + GitHub Actions</h3></td></tr>
-<tr><td><h3>🔄 upgrade plan</h3></td><td><h3>Every v2 project grows with each new layer — SQL → ML → DL → GenAI → MLOps</h3></td></tr>
-<tr><td><h3>🏆 target 2027</h3></td><td><h3>Production AI deployment + CISO-track certification</h3></td></tr>
+<tr><td><b>🪪 name</b></td><td><b>J. Dharun Vishnu</b></td></tr>
+<tr><td><b>🎓 degree</b></td><td><b>BSc Information Technology (2023 – 2026)</b></td></tr>
+<tr><td><b>🛤️ track</b></td><td><b>AI/ML Engineer → Cybersecurity Engineer → CISO</b></td></tr>
+<tr><td><b>📍 location</b></td><td><b>India 🇮🇳</b></td></tr>
+<tr><td><b>🎯 mission</b></td><td><b>Build AI systems that protect India's digital infrastructure</b></td></tr>
+<tr><td><b>🗺️ roadmap</b></td><td><b>610 steps · 255 days · 18 projects · 8 standalone projects</b></td></tr>
+<tr><td><b>⚡ currently</b></td><td><b>Layer 1 — Python + Streamlit + FastAPI + GitHub Actions</b></td></tr>
+<tr><td><b>🔄 upgrade plan</b></td><td><b>Every v2 project grows with each new layer — SQL → ML → DL → GenAI → MLOps</b></td></tr>
+<tr><td><b>🏆 target 2027</b></td><td><b>Production AI deployment + CISO-track certification</b></td></tr>
 </table>
 
 > I'm not following a bootcamp. I'm executing a 610-step engineering roadmap — building
@@ -47,59 +47,59 @@
 
 <table>
 <tr>
-  <td><h2>🔵 LAYER 1</h2></td>
-  <td><h3>Steps &nbsp;1 – 85 &nbsp;·&nbsp; Days 1 – 35</h3></td>
-  <td><h3>Python &nbsp;·&nbsp; OOP &nbsp;·&nbsp; APIs &nbsp;·&nbsp; GitHub &nbsp;·&nbsp; CI/CD</h3></td>
+  <td><b>🔵 LAYER 1</b></td>
+  <td>Steps 1 – 85 · Days 1 – 35</td>
+  <td>Python · OOP · APIs · GitHub · CI/CD</td>
 </tr>
 <tr>
-  <td><h2>🔵 LAYER 2</h2></td>
-  <td><h3>Steps 86 – 140 &nbsp;·&nbsp; Days 36 – 59</h3></td>
-  <td><h3>DSA &nbsp;·&nbsp; Algorithms &nbsp;·&nbsp; NetworkX &nbsp;·&nbsp; Docker</h3></td>
+  <td><b>🔵 LAYER 2</b></td>
+  <td>Steps 86 – 140 · Days 36 – 59</td>
+  <td>DSA · Algorithms · NetworkX · Docker</td>
 </tr>
 <tr>
-  <td><h2>🔵 LAYER 3</h2></td>
-  <td><h3>Steps 141 – 180 &nbsp;·&nbsp; Days 60 – 78</h3></td>
-  <td><h3>SQL &nbsp;·&nbsp; PostgreSQL &nbsp;·&nbsp; SQLAlchemy</h3></td>
+  <td><b>🔵 LAYER 3</b></td>
+  <td>Steps 141 – 180 · Days 60 – 78</td>
+  <td>SQL · PostgreSQL · SQLAlchemy</td>
 </tr>
 <tr>
-  <td><h2>🔵 LAYER 4+5</h2></td>
-  <td><h3>Steps 181 – 250 &nbsp;·&nbsp; Days 79 – 107</h3></td>
-  <td><h3>Mathematics for ML &nbsp;·&nbsp; NumPy &nbsp;·&nbsp; PyMC</h3></td>
+  <td><b>🔵 LAYER 4+5</b></td>
+  <td>Steps 181 – 250 · Days 79 – 107</td>
+  <td>Mathematics for ML · NumPy · PyMC</td>
 </tr>
 <tr>
-  <td><h2>🟡 LAYER 6</h2></td>
-  <td><h3>Steps 251 – 330 &nbsp;·&nbsp; Days 108 – 140</h3></td>
-  <td><h3>Machine Learning &nbsp;·&nbsp; Scikit-learn &nbsp;·&nbsp; SHAP</h3></td>
+  <td><b>🟡 LAYER 6</b></td>
+  <td>Steps 251 – 330 · Days 108 – 140</td>
+  <td>Machine Learning · Scikit-learn · SHAP</td>
 </tr>
 <tr>
-  <td><h2>🟡 LAYER 7</h2></td>
-  <td><h3>Steps 331 – 390 &nbsp;·&nbsp; Days 141 – 165</h3></td>
-  <td><h3>Deep Learning &nbsp;·&nbsp; TensorFlow &nbsp;·&nbsp; CNNs</h3></td>
+  <td><b>🟡 LAYER 7</b></td>
+  <td>Steps 331 – 390 · Days 141 – 165</td>
+  <td>Deep Learning · TensorFlow · CNNs</td>
 </tr>
 <tr>
-  <td><h2>🟡 LAYER 8</h2></td>
-  <td><h3>Steps 391 – 430 &nbsp;·&nbsp; Days 166 – 180</h3></td>
-  <td><h3>NLP &nbsp;·&nbsp; Transformers &nbsp;·&nbsp; Hugging Face</h3></td>
+  <td><b>🟡 LAYER 8</b></td>
+  <td>Steps 391 – 430 · Days 166 – 180</td>
+  <td>NLP · Transformers · Hugging Face</td>
 </tr>
 <tr>
-  <td><h2>🟠 LAYER 9</h2></td>
-  <td><h3>Steps 431 – 470 &nbsp;·&nbsp; Days 181 – 195</h3></td>
-  <td><h3>Generative AI &nbsp;·&nbsp; LangChain &nbsp;·&nbsp; RAG</h3></td>
+  <td><b>🟠 LAYER 9</b></td>
+  <td>Steps 431 – 470 · Days 181 – 195</td>
+  <td>Generative AI · LangChain · RAG</td>
 </tr>
 <tr>
-  <td><h2>🟠 LAYER 10</h2></td>
-  <td><h3>Steps 471 – 510 &nbsp;·&nbsp; Days 196 – 210</h3></td>
-  <td><h3>AWS Cloud &nbsp;·&nbsp; SageMaker &nbsp;·&nbsp; Certifications</h3></td>
+  <td><b>🟠 LAYER 10</b></td>
+  <td>Steps 471 – 510 · Days 196 – 210</td>
+  <td>AWS Cloud · SageMaker · Certifications</td>
 </tr>
 <tr>
-  <td><h2>🔴 LAYER 11</h2></td>
-  <td><h3>Steps 511 – 590 &nbsp;·&nbsp; Days 211 – 250</h3></td>
-  <td><h3>MLOps &nbsp;·&nbsp; Docker &nbsp;·&nbsp; K8s &nbsp;·&nbsp; ArgoCD</h3></td>
+  <td><b>🔴 LAYER 11</b></td>
+  <td>Steps 511 – 590 · Days 211 – 250</td>
+  <td>MLOps · Docker · K8s · ArgoCD</td>
 </tr>
 <tr>
-  <td><h2>🔴 LAYER 12</h2></td>
-  <td><h3>Steps 591 – 610 &nbsp;·&nbsp; Days 251 – 262</h3></td>
-  <td><h3>Portfolio &nbsp;·&nbsp; Open Source &nbsp;·&nbsp; Job Ready</h3></td>
+  <td><b>🔴 LAYER 12</b></td>
+  <td>Steps 591 – 610 · Days 251 – 262</td>
+  <td>Portfolio · Open Source · Job Ready</td>
 </tr>
 </table>
 
