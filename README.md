@@ -22,39 +22,86 @@
 
 ## ⚡ WHO AM I
 
-```python
-dharun = {
-    "name"        : "J. Dharun Vishnu",
-    "degree"      : "BSc Information Technology (2023 – 2026)",
-    "track"       : "AI/ML Engineer → Cybersecurity Engineer → CISO",
-    "location"    : "India 🇮🇳",
-    "mission"     : "Build AI systems that protect India's digital infrastructure",
-    "roadmap"     : "610 steps · 255 days · 18 platforms · 8 extension modules",
-    "currently"   : "Layer 1 — Python + Streamlit + FastAPI + GitHub Actions",
-    "target_2027" : "Production AI deployment + CISO-track certification",
-}
-```
+<table>
+<tr><td><h3>🪪 name</h3></td><td><h3>J. Dharun Vishnu</h3></td></tr>
+<tr><td><h3>🎓 degree</h3></td><td><h3>BSc Information Technology (2023 – 2026)</h3></td></tr>
+<tr><td><h3>🛤️ track</h3></td><td><h3>AI/ML Engineer → Cybersecurity Engineer → CISO</h3></td></tr>
+<tr><td><h3>📍 location</h3></td><td><h3>India 🇮🇳</h3></td></tr>
+<tr><td><h3>🎯 mission</h3></td><td><h3>Build AI systems that protect India's digital infrastructure</h3></td></tr>
+<tr><td><h3>🗺️ roadmap</h3></td><td><h3>610 steps · 255 days · 18 projects · 8 standalone projects</h3></td></tr>
+<tr><td><h3>⚡ currently</h3></td><td><h3>Layer 1 — Python + Streamlit + FastAPI + GitHub Actions</h3></td></tr>
+<tr><td><h3>🔄 upgrade plan</h3></td><td><h3>Every v2 project grows with each new layer — SQL → ML → DL → GenAI → MLOps</h3></td></tr>
+<tr><td><h3>🏆 target 2027</h3></td><td><h3>Production AI deployment + CISO-track certification</h3></td></tr>
+</table>
 
 > I'm not following a bootcamp. I'm executing a 610-step engineering roadmap — building
-> **18 production-grade AI + security platforms** from scratch before I graduate.
+> **18 production-grade AI + security projects** from scratch before I graduate.
+>
+> Every project that has a **v2 is a living project** — it starts simple and upgrades automatically
+> as each new layer (SQL, ML, Deep Learning, GenAI, AWS, MLOps) is completed.
+> **One codebase. Growing smarter with every layer.**
 
 ---
 
-## 🗺️ THE PLAN — 610 Steps · 255 Days
+# 🗺️ THE PLAN — 610 Steps · 255 Days
 
-```
-LAYER 1  ── Steps   1– 85  · Days  1– 35  ── Python · OOP · APIs · GitHub · CI/CD
-LAYER 2  ── Steps  86–140  · Days 36– 59  ── DSA · Algorithms · NetworkX · Docker
-LAYER 3  ── Steps 141–180  · Days 60– 78  ── SQL · PostgreSQL · SQLAlchemy
-LAYER 4+5── Steps 181–250  · Days 79–107  ── Mathematics for ML · NumPy · PyMC
-LAYER 6  ── Steps 251–330  · Days 108–140 ── Machine Learning · Scikit-learn · SHAP
-LAYER 7  ── Steps 331–390  · Days 141–165 ── Deep Learning · TensorFlow · CNNs
-LAYER 8  ── Steps 391–430  · Days 166–180 ── NLP · Transformers · Hugging Face
-LAYER 9  ── Steps 431–470  · Days 181–195 ── Generative AI · LangChain · RAG
-LAYER 10 ── Steps 471–510  · Days 196–210 ── AWS Cloud · SageMaker · Certifications
-LAYER 11 ── Steps 511–590  · Days 211–250 ── MLOps · Docker · K8s · ArgoCD
-LAYER 12 ── Steps 591–610  · Days 251–262 ── Portfolio · Open Source · Job Ready
-```
+<table>
+<tr>
+  <td><h2>🔵 LAYER 1</h2></td>
+  <td><h3>Steps &nbsp;1 – 85 &nbsp;·&nbsp; Days 1 – 35</h3></td>
+  <td><h3>Python &nbsp;·&nbsp; OOP &nbsp;·&nbsp; APIs &nbsp;·&nbsp; GitHub &nbsp;·&nbsp; CI/CD</h3></td>
+</tr>
+<tr>
+  <td><h2>🔵 LAYER 2</h2></td>
+  <td><h3>Steps 86 – 140 &nbsp;·&nbsp; Days 36 – 59</h3></td>
+  <td><h3>DSA &nbsp;·&nbsp; Algorithms &nbsp;·&nbsp; NetworkX &nbsp;·&nbsp; Docker</h3></td>
+</tr>
+<tr>
+  <td><h2>🔵 LAYER 3</h2></td>
+  <td><h3>Steps 141 – 180 &nbsp;·&nbsp; Days 60 – 78</h3></td>
+  <td><h3>SQL &nbsp;·&nbsp; PostgreSQL &nbsp;·&nbsp; SQLAlchemy</h3></td>
+</tr>
+<tr>
+  <td><h2>🔵 LAYER 4+5</h2></td>
+  <td><h3>Steps 181 – 250 &nbsp;·&nbsp; Days 79 – 107</h3></td>
+  <td><h3>Mathematics for ML &nbsp;·&nbsp; NumPy &nbsp;·&nbsp; PyMC</h3></td>
+</tr>
+<tr>
+  <td><h2>🟡 LAYER 6</h2></td>
+  <td><h3>Steps 251 – 330 &nbsp;·&nbsp; Days 108 – 140</h3></td>
+  <td><h3>Machine Learning &nbsp;·&nbsp; Scikit-learn &nbsp;·&nbsp; SHAP</h3></td>
+</tr>
+<tr>
+  <td><h2>🟡 LAYER 7</h2></td>
+  <td><h3>Steps 331 – 390 &nbsp;·&nbsp; Days 141 – 165</h3></td>
+  <td><h3>Deep Learning &nbsp;·&nbsp; TensorFlow &nbsp;·&nbsp; CNNs</h3></td>
+</tr>
+<tr>
+  <td><h2>🟡 LAYER 8</h2></td>
+  <td><h3>Steps 391 – 430 &nbsp;·&nbsp; Days 166 – 180</h3></td>
+  <td><h3>NLP &nbsp;·&nbsp; Transformers &nbsp;·&nbsp; Hugging Face</h3></td>
+</tr>
+<tr>
+  <td><h2>🟠 LAYER 9</h2></td>
+  <td><h3>Steps 431 – 470 &nbsp;·&nbsp; Days 181 – 195</h3></td>
+  <td><h3>Generative AI &nbsp;·&nbsp; LangChain &nbsp;·&nbsp; RAG</h3></td>
+</tr>
+<tr>
+  <td><h2>🟠 LAYER 10</h2></td>
+  <td><h3>Steps 471 – 510 &nbsp;·&nbsp; Days 196 – 210</h3></td>
+  <td><h3>AWS Cloud &nbsp;·&nbsp; SageMaker &nbsp;·&nbsp; Certifications</h3></td>
+</tr>
+<tr>
+  <td><h2>🔴 LAYER 11</h2></td>
+  <td><h3>Steps 511 – 590 &nbsp;·&nbsp; Days 211 – 250</h3></td>
+  <td><h3>MLOps &nbsp;·&nbsp; Docker &nbsp;·&nbsp; K8s &nbsp;·&nbsp; ArgoCD</h3></td>
+</tr>
+<tr>
+  <td><h2>🔴 LAYER 12</h2></td>
+  <td><h3>Steps 591 – 610 &nbsp;·&nbsp; Days 251 – 262</h3></td>
+  <td><h3>Portfolio &nbsp;·&nbsp; Open Source &nbsp;·&nbsp; Job Ready</h3></td>
+</tr>
+</table>
 
 ---
 
@@ -64,39 +111,30 @@ LAYER 12 ── Steps 591–610  · Days 251–262 ── Portfolio · Open Sour
 
 ### 🔵 CORE PROJECTS (18)
 
-> **v1 projects** = built in the assigned layer · **v2 projects** = future upgrades added layer-by-layer as new skills are learned
+> **v1 projects** = built in the assigned layer · **v2 projects** = 🔄 future upgrades, added layer-by-layer as new skills are learned
 
-| # | Project | What It Does | Stack | Layer | Status |
-|---|---------|--------------|-------|-------|--------|
-| P1 | **AAROGYA v1** | Health Data Platform — Apollo/AIIMS-style analytics + live deployment | Python · Pandas · Matplotlib · Streamlit · Pytest | L1 | 📋 Planned |
-| P2 | **AAROGYA v2** ⬆️ | AI Health Assistant — built in L1, then upgraded across 4 future layers | Python · FastAPI · PostgreSQL → AWS → K8s | L1 → L3 → L6 → L10 → L11 | 🔄 Future Upgrade |
-| | | └ v2.1 PostgreSQL Storage · v2.2 FastAPI + ML Disease Prediction · v2.3 JWT + AWS EC2 · v2.4 Docker + K8s + ArgoCD | | | |
-| P3 | **SURAKSHA v1** | Network Graph Analyzer — BFS + DFS + Dijkstra on corporate attack paths | Python · NetworkX · Matplotlib · Streamlit | L2 | 📋 Planned |
-| P4 | **SURAKSHA v2** ⬆️ | Threat Intelligence Pipeline — built in L2, upgraded as skills grow | Python · NetworkX · OTX · AbuseIPDB · Docker | L2 → L3 → L6 → L10 → L11 | 🔄 Future Upgrade |
-| | | └ v2.1 PostgreSQL IOC Storage · v2.2 FastAPI + ML Anomaly · v2.3 AWS GuardDuty · v2.4 K8s + Prometheus | | | |
-| P5 | **ARTHIK v1** | Financial Intelligence Platform — multi-user billing + SQL + PDF reports | Python · SQLite · OOP · PDF generation | L3 | 📋 Planned |
-| P6 | **ARTHIK v2** ⬆️ | BFSI Production DB — built in L3, upgraded with ML + GenAI + Cloud | PostgreSQL · SQLAlchemy · FastAPI → AWS → GenAI | L3 → L6 → L10 → L9 → L11 | 🔄 Future Upgrade |
-| | | └ v2.1 FastAPI + ML Fraud Endpoints · v2.2 AWS RDS Multi-AZ + KMS · v2.3 GenAI Customer Agent · v2.4 K8s + Vault | | | |
-| P7 | **NIVESH v1** | Quant Investment Engine — NSE portfolio + yfinance + statistical analysis | NumPy · scipy · yfinance · Matplotlib | L4+5 | 📋 Planned |
-| P8 | **NIVESH v2** ⬆️ | Bayesian Risk Platform — built in L4+5, upgraded with DL + Cloud + MLOps | NumPy · PyMC → XGBoost → LSTM → SageMaker | L4+5 → L6 → L7 → L10 → L11 | 🔄 Future Upgrade |
-| | | └ v2.1 XGBoost + SHAP · v2.2 LSTM Market Predictor · v2.3 SageMaker Real-Time · v2.4 K8s + MLflow Drift | | | |
-| P9 | **KAVACH v1** | Fraud Detection System — UPI fraud ML classifier + SHAP explainability | Scikit-learn · SHAP · Pandas · FastAPI | L6 | 📋 Planned |
-| P10 | **KAVACH v2** ⬆️ | Enterprise AI Platform — built in L6, upgraded with DL + GenAI + MLOps | XGBoost · LightGBM → CNN-LSTM → SageMaker | L6 → L7 → L10 → L9 → L11 | 🔄 Future Upgrade |
-| | | └ v2.1 CNN-LSTM Added · v2.2 SageMaker + Cognito · v2.3 GenAI Incident Summary · v2.4 K8s + Feast + MLflow | | | |
-| P11 | **DRISHTI v1** | Computer Vision Platform — face recognition + real-time CV pipeline | TensorFlow · OpenCV · CNNs · Streamlit | L7 | 📋 Planned |
-| P12 | **DRISHTI v2** ⬆️ | Multi-Modal AI Platform — built in L7, upgraded with GenAI + K8s + Edge | PyTorch · YOLO · DeepFace → GenAI → Triton | L7 → L10 → L9 → L11 | 🔄 Future Upgrade |
-| | | └ v2.1 AWS GPU + SageMaker · v2.2 GenAI Explainer RAG · v2.3 Triton + K8s GPU · v2.4 INT8 Edge Deploy | | | |
-| P13 | **NYAYA v1** ⬆️ | India Legal Compliance Agent — RAG on RBI + SEBI + Companies Act 2013 | LangChain · Claude API · ChromaDB · Pinecone · Streamlit | L9 (Day 197) | 📋 Planned |
-| | | └ *Living Project — upgrades after every layer* | | | 🔄 Future Upgrade |
-| | | └ v1.1 LangGraph multi-agent (Day 215) · v1.2 Hybrid Search BM25 + rerank (Day 220) · v1.3 K8s + Langfuse (Day 250) · v1.4 NeMo Guardrails (Day 260) | | | |
-| P14 | **SENTINEL** ⬆️ | Autonomous SOC — 5 LLM agents · alert to contained in 90 seconds | LangGraph · Claude API · CrewAI · FastAPI · Docker | L9 (Day 215) | 📋 Planned |
-| | | └ *Living Project — upgrades through MLOps + Cyber layers* | | | 🔄 Future Upgrade |
-| | | └ v1.1 CrewAI hierarchical sub-agents (Day 230) · v1.2 K8s + LangSmith (Day 250) · v1.3 NeMo Red-Team (Day 260) · v1.4 A2A Protocol (Day 261) | | | |
-| P15 | **PRAHARI v1** | ML Monitoring Platform — SageMaker + CI/CD + Evidently + Grafana | AWS · SageMaker · MLflow · GitHub Actions | L10 | 📋 Planned |
-| P16 | **PRAHARI v2** ⬆️ | K8s Platform — built in L11, upgraded with OPA + Falco + FinOps | AWS EKS · ArgoCD · Istio · Terraform · Feast | L11 | 🔄 Future Upgrade |
-| | | └ v2.1 OPA + Falco + FinOps dashboard | | | |
-| P17 | **SentinelAI India v1** | Unified AI Command Centre — ALL 16 projects in ONE Streamlit dashboard | FastAPI · K8s · All ML/DL/GenAI stacks | L12 | 📋 Planned |
-| P18 | **SentinelAI India OSS** | Open Source Release — PyPI package + full documentation site | Docusaurus · PyPI · GitHub Actions | L12 | 📋 Planned |
+| # | Project | What It Does | Layer | Status |
+|---|---------|--------------|-------|--------|
+| P1 | **AAROGYA v1** | Health Data Platform — Apollo/AIIMS-style analytics + live deployment | L1 | 📋 Planned |
+| P2 | **AAROGYA v2** | AI Health Assistant — v2.1 PostgreSQL · v2.2 FastAPI + ML · v2.3 AWS · v2.4 K8s | L1 → future | 🔄 Future Upgrade |
+| P3 | **SURAKSHA v1** | Network Graph Analyzer — BFS + DFS + Dijkstra on corporate attack paths | L2 | 📋 Planned |
+| P4 | **SURAKSHA v2** | Threat Intel Pipeline — v2.1 PostgreSQL IOC · v2.2 ML Anomaly · v2.3 AWS GuardDuty · v2.4 K8s | L2 → future | 🔄 Future Upgrade |
+| P5 | **ARTHIK v1** | Financial Intelligence Platform — multi-user billing + SQL + PDF reports | L3 | 📋 Planned |
+| P6 | **ARTHIK v2** | BFSI Production DB — v2.1 FastAPI + ML · v2.2 AWS RDS · v2.3 GenAI Agent · v2.4 K8s + Vault | L3 → future | 🔄 Future Upgrade |
+| P7 | **NIVESH v1** | Quant Investment Engine — NSE portfolio + yfinance + statistical analysis | L4+5 | 📋 Planned |
+| P8 | **NIVESH v2** | Bayesian Risk Platform — v2.1 XGBoost + SHAP · v2.2 LSTM · v2.3 SageMaker · v2.4 MLflow | L4+5 → future | 🔄 Future Upgrade |
+| P9 | **KAVACH v1** | Fraud Detection System — UPI fraud ML classifier + SHAP explainability | L6 | 📋 Planned |
+| P10 | **KAVACH v2** | Enterprise AI Platform — v2.1 CNN-LSTM · v2.2 SageMaker · v2.3 GenAI Summary · v2.4 K8s | L6 → future | 🔄 Future Upgrade |
+| P11 | **DRISHTI v1** | Computer Vision Platform — face recognition + real-time CV pipeline | L7 | 📋 Planned |
+| P12 | **DRISHTI v2** | Multi-Modal AI Platform — v2.1 AWS GPU · v2.2 GenAI RAG · v2.3 Triton K8s · v2.4 Edge | L7 → future | 🔄 Future Upgrade |
+| P13 | **NYAYA v1** | India Legal Compliance Agent — RAG on RBI + SEBI + Companies Act 2013 *(Living Project)* | L9 | 📋 Planned |
+| | **NYAYA upgrades** | v1.1 LangGraph multi-agent · v1.2 Hybrid Search · v1.3 K8s + Langfuse · v1.4 NeMo Guardrails | → future | 🔄 Future Upgrade |
+| P14 | **SENTINEL** | Autonomous SOC — 5 LLM agents, alert to contained in 90 seconds *(Living Project)* | L9 | 📋 Planned |
+| | **SENTINEL upgrades** | v1.1 CrewAI hierarchical · v1.2 K8s + LangSmith · v1.3 NeMo Red-Team · v1.4 A2A Protocol | → future | 🔄 Future Upgrade |
+| P15 | **PRAHARI v1** | ML Monitoring Platform — SageMaker + CI/CD + Evidently + Grafana | L10 | 📋 Planned |
+| P16 | **PRAHARI v2** | K8s Platform — GitOps + Chaos Engineering · v2.1 OPA + Falco + FinOps | L11 → future | 🔄 Future Upgrade |
+| P17 | **SentinelAI India v1** | Unified AI Command Centre — ALL 16 projects in ONE Streamlit dashboard | L12 | 📋 Planned |
+| P18 | **SentinelAI India OSS** | Open Source Release — PyPI package + full documentation site | L12 | 📋 Planned |
 
 ---
 
