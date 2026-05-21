@@ -4,14 +4,14 @@
 ═══════════════════════════════════════════════════════════════════ -->
 
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:8A2BE2,25:1E90FF,50:00CED1,75:FF69B4,100:FF8C42&height=220&section=header&text=J.%20DHARUN%20VISHNU&fontColor=ffffff&fontSize=55&fontAlignY=38&desc=BSc%20IT%20%E2%80%A2%20AI%2FML%20Engineer-in-Training%20%E2%80%A2%20Future%20CISO%20of%20India&descSize=18&descAlignY=60&animation=fadeIn" alt="Dharun Vishnu banner"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:8A2BE2,25:1E90FF,50:00CED1,75:FF69B4,100:FF8C42&height=220&section=header&text=J.%20DHARUN%20VISHNU&fontColor=ffffff&fontSize=55&fontAlignY=38&desc=BSc%20IT%20%E2%80%A2%20AI%2FML%20Engineer%20%E2%80%A2%20Cloud%20%2B%20Cybersecurity%20Engineer&descSize=18&descAlignY=60&animation=fadeIn" alt="Dharun Vishnu banner"/>
 </p>
 
 <div align="center">
 
 > *"While others copy tutorials — I build ecosystems."*
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=18&duration=3000&pause=500&color=00CED1&center=true&vCenter=true&multiline=false&width=750&height=45&lines=610+Steps+%E2%80%A2+20+Projects+%E2%80%A2+One+Mission;Building+India%E2%80%99s+AI+%2B+Cybersecurity+Ecosystem;%F0%9F%91%91+KING+%2B+QUEEN+%2B+18+Living+Projects;Future+CISO+%E2%80%94+Day+1+of+261)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=3000&pause=500&color=00CED1&center=true&vCenter=true&multiline=false&width=750&height=45&lines=610+Steps+%E2%80%A2+20+Projects+%E2%80%A2+One+Mission;Building+India%E2%80%99s+AI+%2B+Cybersecurity+Ecosystem;%F0%9F%91%91+KING+%2B+QUEEN+%2B+18+Living+Projects;AI+%2F+ML+%2F+Cloud+%2F+Cybersecurity+Engineer)](https://git.io/typing-svg)
 
 <br/>
 
@@ -28,13 +28,13 @@
 <table>
 <tr><td>🪪 <b>name</b></td><td><b>J. Dharun Vishnu</b></td></tr>
 <tr><td>🎓 <b>degree</b></td><td><b>BSc Information Technology (2023 – 2026)</b></td></tr>
-<tr><td>🛤️ <b>track</b></td><td><b>AI/ML Engineer → Cybersecurity Engineer → CISO</b></td></tr>
+<tr><td>🛤️ <b>track</b></td><td><b>AI/ML Engineer → Cloud Engineer → Cybersecurity Engineer</b></td></tr>
 <tr><td>📍 <b>location</b></td><td><b>India 🇮🇳</b></td></tr>
 <tr><td>🎯 <b>mission</b></td><td><b>Build AI systems that protect India's digital infrastructure</b></td></tr>
 <tr><td>🗺️ <b>roadmap</b></td><td><b>610 steps · 261 days · 20 projects · 3 AWS certifications</b></td></tr>
 <tr><td>⚡ <b>currently</b></td><td><b>Layer 1 — Python + Streamlit + FastAPI + GitHub Actions</b></td></tr>
 <tr><td>👑 <b>flagships</b></td><td><b>CloudShield AI (KING) + AutoPilot ML (QUEEN) — grow with every layer</b></td></tr>
-<tr><td>🏆 <b>target 2027</b></td><td><b>Production AI deployment + CISO-track certification</b></td></tr>
+<tr><td>🏆 <b>target 2027</b></td><td><b>Production AI + Cloud + Cybersecurity deployment</b></td></tr>
 </table>
 
 > I'm not following a bootcamp. I'm executing a **610-step engineering roadmap** — building
@@ -43,37 +43,6 @@
 > Every project that has a **v2 is a living project** — it starts simple and upgrades automatically
 > as each new layer (SQL → ML → DL → GenAI → AWS → MLOps) is completed.
 > **One codebase. Growing smarter with every layer.**
-
----
-
-## 🌟 WHY I'M DIFFERENT — Bootcamp vs Ecosystem
-
-<table>
-<tr>
-  <th>🤖 Typical Bootcamp Graduate</th>
-  <th>👑 Dharun's Ecosystem Approach</th>
-</tr>
-<tr>
-  <td>Builds 5–10 disconnected tutorial projects</td>
-  <td>Builds <b>20 connected production projects</b></td>
-</tr>
-<tr>
-  <td>One-off codebases that never grow</td>
-  <td><b>Living projects</b> that upgrade with every new skill</td>
-</tr>
-<tr>
-  <td>Generic todo lists, weather apps</td>
-  <td>Real Indian use cases — UPI fraud, RBI compliance, NSE quant</td>
-</tr>
-<tr>
-  <td>"I know Python, ML, AWS" (lists)</td>
-  <td>"I deployed 4 ML models on K8s with ArgoCD" (proof)</td>
-</tr>
-<tr>
-  <td>3-month sprint, then stuck</td>
-  <td>261-day systematic build with daily commits</td>
-</tr>
-</table>
 
 ---
 
@@ -97,7 +66,7 @@
 
 # 👑 THE FLAGSHIPS — 2 RAJA-RANI PROJECTS
 
-> Two enterprise-grade projects that **grow with every single layer**. By Day 261, these will be world-class showcases that rival Wiz, Prisma Cloud, and Netflix Metaflow.
+> Two enterprise-grade projects that **grow with every single layer**. By Day 261, these will be world-class showcases built from scratch.
 
 <br/>
 
@@ -106,7 +75,6 @@
 **🛡️ AI-Powered Cloud Security Posture Management (CSPM) Platform**
 
 > AWS infrastructure auto-scanner with LLM-driven Terraform remediation.
-> Open-source alternative to Wiz / Prisma Cloud / Lacework.
 
 ### 📈 Layer-by-Layer Upgrade Journey
 
@@ -122,8 +90,6 @@
 | **v1.7** | Day 250 | L10 MLOps    | AWS EKS + Helm Chart + PyPI package publish | Production Scale |
 | **v1.8** | Day 261 | L11 Final    | **Enterprise-grade open-source CSPM platform** 🏆 | **Step 610** |
 
-**🎯 Who hires for this:** Microsoft Security · Google Mandiant · AWS India · CERT-In companies · Every Indian bank CISO team
-
 ---
 
 ## 👑 QUEEN — AutoPilot ML
@@ -131,7 +97,6 @@
 **🤖 Self-Healing Level-4 MLOps Platform**
 
 > Auto train · evaluate · deploy · monitor · drift detect · retrain · redeploy — zero human intervention.
-> Open-source alternative to Netflix Metaflow / Uber Michelangelo.
 
 ### 📈 Layer-by-Layer Upgrade Journey
 
@@ -146,8 +111,6 @@
 | **v1.6** | Day 215 | L8 GenAI     | LLM MLOps Copilot → drift interpret + auto-trigger | Agentic AI |
 | **v1.7** | Day 250 | L10 MLOps    | MLflow + SageMaker + canary rollout + auto rollback | Production Scale |
 | **v1.8** | Day 261 | L11 Final    | **Level-4 autonomous self-healing ML platform** 🏆 | **Step 610** |
-
-**🎯 Who hires for this:** Google Cloud AI · Microsoft Azure ML · Razorpay · Flipkart · CRED · Amazon India
 
 ---
 
@@ -194,11 +157,11 @@
 
 # 🔗 ECOSYSTEM CONNECTIONS
 
-> Every project feeds into others. By Day 261, all 20 projects form ONE platform.
+> Every project feeds into others. By Day 261, all 20 projects form ONE unified platform.
 
 ```mermaid
 graph TB
-    subgraph FLAGSHIPS["👑 RAJA-RANI FLAGSHIPS"]
+    subgraph FLAGSHIPS["👑 KING + QUEEN FLAGSHIPS"]
         KING["👑 KING<br/>CloudShield AI<br/>(Cloud Security)"]
         QUEEN["👑 QUEEN<br/>AutoPilot ML<br/>(Self-Healing MLOps)"]
     end
@@ -252,7 +215,7 @@ NEXT   ►  P1: AAROGYA v1  (First Project — Day 17)
           Goal: Healthcare platform with CI/CD + 5 Pytest tests
           Bonus: KING v1.0 CLI + QUEEN v1.0 metric logger (Day 36)
 
-GOAL   ►  261 days from now — 20 platforms deployed, job-ready CISO-track
+GOAL   ►  261 days from now — 20 platforms deployed, job-ready engineer
 ```
 
 <div align="center">
@@ -394,10 +357,9 @@ GOAL   ►  261 days from now — 20 platforms deployed, job-ready CISO-track
 ```
 ╔══════════════════════════════════════════════════════════════════╗
 ║                                                                  ║
-║    "CISO-track engineers build this in Year 5.                  ║
-║     Dharun builds it in Year 1."                                ║
+║    "Code every day. Build real things. Let the work speak."     ║
 ║                                                                  ║
-║                          — 610 Step Roadmap, Day 254             ║
+║                          — J. Dharun Vishnu                     ║
 ║                                                                  ║
 ╚══════════════════════════════════════════════════════════════════╝
 ```
