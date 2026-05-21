@@ -11,7 +11,7 @@
 
 > *"While others copy tutorials — I build ecosystems."*
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=3000&pause=500&color=00CED1&center=true&vCenter=true&multiline=false&width=750&height=45&lines=610+Steps+%E2%80%A2+20+Projects+%E2%80%A2+One+Mission;Building+India%E2%80%99s+AI+%2B+Cybersecurity+Ecosystem;%F0%9F%91%91+KING+%2B+QUEEN+%2B+18+Living+Projects;AI+%2F+ML+%2F+Cloud+%2F+Cybersecurity+Engineer)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=28&duration=3000&pause=500&color=00CED1&center=true&vCenter=true&multiline=false&width=850&height=55&lines=610+Steps+%E2%80%A2+20+Projects+%E2%80%A2+One+Mission;Building+India%E2%80%99s+AI+%2B+Cybersecurity+Ecosystem;%F0%9F%91%91+KING+%2B+QUEEN+%2B+18+Living+Projects;AI+%2F+ML+%2F+Cloud+%2F+Cybersecurity+Engineer)](https://git.io/typing-svg)
 
 <br/>
 
@@ -64,7 +64,7 @@
 
 ---
 
-# 👑 THE FLAGSHIPS — 2 RAJA-RANI PROJECTS
+# 👑 THE FLAGSHIPS — 2 KING-QUEEN PROJECTS
 
 > Two enterprise-grade projects that **grow with every single layer**. By Day 261, these will be world-class showcases built from scratch.
 
@@ -354,15 +354,7 @@ GOAL   ►  261 days from now — 20 platforms deployed, job-ready engineer
 
 <div align="center">
 
-```
-╔══════════════════════════════════════════════════════════════════╗
-║                                                                  ║
-║    "Code every day. Build real things. Let the work speak."     ║
-║                                                                  ║
-║                          — J. Dharun Vishnu                     ║
-║                                                                  ║
-╚══════════════════════════════════════════════════════════════════╝
-```
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:8A2BE2,50:1E90FF,100:00CED1&height=120&text=Code%20every%20day.%20Build%20real%20things.%20Let%20the%20work%20speak.&fontColor=ffffff&fontSize=28&fontAlignY=45&desc=—%20J.%20Dharun%20Vishnu&descSize=20&descAlignY=72&animation=fadeIn" alt="quote banner"/>
 
 <br/>
 
