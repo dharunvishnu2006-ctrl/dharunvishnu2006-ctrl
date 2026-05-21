@@ -57,8 +57,8 @@
 <tr><td><b>🟡 LAYER 6</b></td><td>Steps 326 – 340</td><td>Days 139 – 145</td><td>FastAPI · Docker · AWS Cloud Practitioner</td></tr>
 <tr><td><b>🟡 LAYER 7</b></td><td>Steps 341 – 420</td><td>Days 146 – 178</td><td>Deep Learning · PyTorch · CNN · Transformers</td></tr>
 <tr><td><b>🟠 LAYER 8</b></td><td>Steps 421 – 510</td><td>Days 179 – 215</td><td>Generative AI · LangChain · RAG · Agentic AI</td></tr>
-<tr><td><b>🟠 LAYER 9</b></td><td>Steps 421 – 510</td><td>Days 179 – 215</td><td>AWS Solutions Architect · SageMaker</td></tr>
-<tr><td><b>🔴 LAYER 10</b></td><td>Steps 511 – 590</td><td>Days 216 – 250</td><td>MLOps · K8s · ArgoCD · Istio · Terraform</td></tr>
+<tr><td><b>🟠 LAYER 9</b></td><td>Steps 511 – 590</td><td>Days 216 – 250</td><td>AWS Solutions Architect · SageMaker</td></tr>
+<tr><td><b>🔴 LAYER 10</b></td><td>Steps 591 – 610</td><td>Days 251 – 261</td><td>MLOps · K8s · ArgoCD · Istio · Terraform</td></tr>
 <tr><td><b>🔴 LAYER 11</b></td><td>Steps 591 – 610</td><td>Days 251 – 261</td><td>Portfolio · Open Source · AWS ML Specialty · Job Ready</td></tr>
 </table>
 
@@ -311,6 +311,8 @@ GOAL   ►  261 days from now — 20 platforms deployed, job-ready engineer
 ---
 
 ## 💡 BUILD PHILOSOPHY
+
+> Small steps. One layer at a time. No rushing. No skipping foundations. Execution > hype.
 
 <table>
 <tr>
