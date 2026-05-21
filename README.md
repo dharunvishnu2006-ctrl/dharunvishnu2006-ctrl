@@ -49,17 +49,16 @@
 # 🗺️ THE PLAN — 610 Steps · 261 Days · 12 Layers
 
 <table>
-<tr><td><b>🔵 LAYER 1</b></td><td>Steps 1 – 85</td><td>Days 1 – 35</td><td>Python · OOP · APIs · GitHub · CI/CD</td></tr>
-<tr><td><b>🔵 LAYER 2</b></td><td>Steps 86 – 140</td><td>Days 36 – 59</td><td>DSA · Algorithms · NetworkX · Docker</td></tr>
-<tr><td><b>🔵 LAYER 3</b></td><td>Steps 141 – 180</td><td>Days 60 – 78</td><td>SQL · PostgreSQL · SQLAlchemy</td></tr>
-<tr><td><b>🟢 LAYER 4</b></td><td>Steps 181 – 250</td><td>Days 79 – 107</td><td>Mathematics for ML · NumPy · PyMC · Bayesian</td></tr>
-<tr><td><b>🟡 LAYER 5</b></td><td>Steps 251 – 325</td><td>Days 108 – 138</td><td>Machine Learning · sklearn · XGBoost · SHAP</td></tr>
-<tr><td><b>🟡 LAYER 6</b></td><td>Steps 326 – 340</td><td>Days 139 – 145</td><td>FastAPI · Docker · AWS Cloud Practitioner</td></tr>
-<tr><td><b>🟡 LAYER 7</b></td><td>Steps 341 – 420</td><td>Days 146 – 178</td><td>Deep Learning · PyTorch · CNN · Transformers</td></tr>
-<tr><td><b>🟠 LAYER 8</b></td><td>Steps 421 – 510</td><td>Days 179 – 215</td><td>Generative AI · LangChain · RAG · Agentic AI</td></tr>
-<tr><td><b>🟠 LAYER 9</b></td><td>Steps 511 – 590</td><td>Days 216 – 250</td><td>AWS Solutions Architect · SageMaker</td></tr>
-<tr><td><b>🔴 LAYER 10</b></td><td>Steps 591 – 610</td><td>Days 251 – 261</td><td>MLOps · K8s · ArgoCD · Istio · Terraform</td></tr>
-<tr><td><b>🔴 LAYER 11</b></td><td>Steps 591 – 610</td><td>Days 251 – 261</td><td>Portfolio · Open Source · AWS ML Specialty · Job Ready</td></tr>
+<tr><td><b>🔵 LAYER 1</b></td><td>Steps 1 – 85</td><td>Days 1 – 35</td><td>Python Programming · OOP · Git · GitHub · Streamlit · pytest</td></tr>
+<tr><td><b>🔵 LAYER 2</b></td><td>Steps 86 – 140</td><td>Days 36 – 59</td><td>Data Structures & Algorithms · LeetCode · NetworkX · Docker</td></tr>
+<tr><td><b>🔵 LAYER 3</b></td><td>Steps 141 – 180</td><td>Days 60 – 78</td><td>SQL for Data Science · PostgreSQL · SQLAlchemy · Alembic</td></tr>
+<tr><td><b>🟢 LAYER 4+5</b></td><td>Steps 181 – 250</td><td>Days 79 – 107</td><td>Mathematics for ML · NumPy · PyMC · scipy · Bayesian</td></tr>
+<tr><td><b>🟡 LAYER 6</b></td><td>Steps 251 – 325</td><td>Days 108 – 138</td><td>ML Specialization · sklearn · XGBoost · SHAP · MLflow · Optuna</td></tr>
+<tr><td><b>🟡 LAYER 7</b></td><td>Steps 326 – 340</td><td>Days 139 – 145</td><td>API + Tools + AWS Cloud Practitioner · FastAPI · Docker</td></tr>
+<tr><td><b>🟡 LAYER 8</b></td><td>Steps 341 – 420</td><td>Days 146 – 178</td><td>Deep Learning · PyTorch · EfficientNet · Transformers · ONNX</td></tr>
+<tr><td><b>🟠 LAYER 9+10</b></td><td>Steps 421 – 510</td><td>Days 179 – 215</td><td>Generative AI + Agentic AI · LangChain · RAG · CrewAI · LangGraph</td></tr>
+<tr><td><b>🔴 LAYER 11</b></td><td>Steps 511 – 590</td><td>Days 216 – 250</td><td>MLOps + Cloud Engineering · MLflow · K8s · ArgoCD · Istio · Terraform</td></tr>
+<tr><td><b>🔴 LAYER 12</b></td><td>Steps 591 – 610</td><td>Days 251 – 261</td><td>Final Polish · Open Source · AWS ML Specialty · Job Ready</td></tr>
 </table>
 
 ---
@@ -273,19 +272,19 @@ GOAL   ►  261 days from now — 20 platforms deployed, job-ready engineer
 | C1 | **Python for Everybody** | University of Michigan | L1 | 📋 Planned |
 | C2 | **DSA Specialization** | UC San Diego | L2 | 📋 Planned |
 | C3 | **SQL for Data Science** | UC Davis | L3 | 📋 Planned |
-| C4 | **Mathematics for ML** | DeepLearning.AI | L4 | 📋 Planned |
-| C5 | **ML Specialization** | DeepLearning.AI / Andrew Ng | L5 | 📋 Planned |
-| C6 | **Deep Learning Specialization** | DeepLearning.AI / Andrew Ng | L7 | 📋 Planned |
-| C7 | **GenAI with LLMs** | DeepLearning.AI + AWS | L8 | 📋 Planned |
-| C8 | **ML Engineering for Production** | DeepLearning.AI | L10 | 📋 Planned |
+| C4 | **Mathematics for ML** | DeepLearning.AI | L4+5 | 📋 Planned |
+| C5 | **ML Specialization** | DeepLearning.AI / Andrew Ng | L6 | 📋 Planned |
+| C6 | **Deep Learning Specialization** | DeepLearning.AI / Andrew Ng | L8 | 📋 Planned |
+| C7 | **GenAI with LLMs** | DeepLearning.AI + AWS | L9+10 | 📋 Planned |
+| C8 | **ML Engineering for Production** | DeepLearning.AI | L11 | 📋 Planned |
 
 ### ☁️ AWS Certifications (3)
 
 | # | Certification | Layer | Day | Status |
 |:-:|---------------|:-----:|:---:|:------:|
-| **AWS-1** | **AWS Certified Cloud Practitioner** | L6 | Day ~143 | 📋 Planned |
-| **AWS-2** | **AWS Certified Solutions Architect – Associate** | L9 | Day ~210 | 📋 Planned |
-| **AWS-3** | **AWS Certified ML Specialty** | L11 | Day ~256 | 📋 Planned |
+| **AWS-1** | **AWS Certified Cloud Practitioner** | L7 | Day ~143 | 📋 Planned |
+| **AWS-2** | **AWS Certified Solutions Architect – Associate** | L11 | Day ~210 | 📋 Planned |
+| **AWS-3** | **AWS Certified ML Specialty** | L12 | Day ~256 | 📋 Planned |
 
 > 🔄 Status updates as certificates are earned: `📋 Planned` → `✅ Certified`
 
