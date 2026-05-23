@@ -131,26 +131,26 @@
 
 <br/>
 
-| # | Project | What It Does | Layer | Day | Status |
-|:-:|---------|--------------|:-----:|:---:|:------:|
-| **P1**  | 🌱 **HealthTrack AI**        | Health Data Platform — Apollo/AIIMS-style analytics + live deployment | L1 | 17 | 📋 Planned |
-| **P2**  | 🌳 **HealthTrack AI** 🔄     | AI Health Assistant — v2.1 PostgreSQL · v2.2 FastAPI + ML · v2.3 AWS · v2.4 K8s | L1 → ∞ | 35 | 🔄 Living |
-| **P3**  | 🌱 **NetGuard AI**           | Network Graph Analyzer — BFS + DFS + Dijkstra on corporate attack paths | L2 | 45 | 📋 Planned |
-| **P4**  | 🌳 **NetGuard AI** 🔄        | Threat Intel Pipeline — v2.1 PostgreSQL · v2.2 ML · v2.3 AWS GuardDuty · v2.4 K8s | L2 → ∞ | 58 | 🔄 Living |
-| **P5**  | 🌱 **FinVault AI**           | Financial Intelligence Platform — UPI/Zomato-style SQL analytics | L3 | 67 | 📋 Planned |
-| **P6**  | 🌳 **FinVault AI** 🔄        | BFSI Production DB — v2.1 FastAPI + ML · v2.2 AWS RDS · v2.3 GenAI · v2.4 K8s + Vault | L3 → ∞ | 78 | 🔄 Living |
-| **P7**  | 🌱 **RiskQuant AI**          | Quant Investment Engine — NSE portfolio + Markowitz + PCA from scratch | L4 | 93 | 📋 Planned |
-| **P8**  | 🌳 **RiskQuant AI** 🔄       | Bayesian Risk Platform — v2.1 XGBoost + SHAP · v2.2 LSTM · v2.3 SageMaker · v2.4 MLflow | L4 → ∞ | 107 | 🔄 Living |
-| **P9**  | 🌱 **FraudShield AI**        | Fraud Detection System — UPI fraud ML classifier + SHAP explainability | L5 | 122 | 📋 Planned |
-| **P10** | 🌳 **FraudShield AI** 🔄     | Enterprise AI Platform — v2.1 CNN-LSTM · v2.2 SageMaker · v2.3 GenAI · v2.4 K8s | L5 → ∞ | 138 | 🔄 Living |
-| **P11** | 🌱 **VisionCore AI**         | Computer Vision Platform — EfficientNet + FaceNet + Grad-CAM + ONNX | L7 | 163 | 📋 Planned |
-| **P12** | 🌳 **VisionCore AI** 🔄      | Multi-Modal AI — 4 DL architectures: Transformer + CNN-LSTM + AE + GNN | L7 → ∞ | 178 | 🔄 Living |
-| **P13** | 🌳 **LegalMind AI** 🔄       | India Legal Compliance Agent — RAG on RBI + SEBI + Companies Act 2013 | L8 | 197 | 🔄 Living |
-| **P14** | 🌳 **SOC AutoPilot AI** 🔄   | Autonomous SOC — 5 LLM agents, alert to contained in 90 seconds | L8 | 215 | 🔄 Living |
-| **P15** | 🌱 **ModelWatch AI**         | ML Monitoring Platform — MLflow + Evidently + Prometheus + Grafana | L10 | 233 | 📋 Planned |
-| **P16** | 🌳 **CloudOps AI** 🔄        | K8s Platform — Multi-region + GitOps + Chaos Engineering + Istio | L10 → ∞ | 250 | 🔄 Living |
-| **P17** | 🌳 **Command Centre AI** 🔄  | Unified AI Command Centre — ALL 16 projects in ONE dashboard | L11 | 254 | 📋 Planned |
-| **P18** | 🌳 **OpenShield AI** 🔄      | Open Source Release — PyPI + Helm + Docusaurus docs | L11 | 259 | 📋 Planned |
+| # | Project | Layer | Day | Status |
+|:-:|---------|:-----:|:---:|:------:|
+| **P1**  | 🌱 **HealthTrack AI — India Health Analytics Platform**<br/>Apollo/AIIMS-style analytics + live deployment | L1 | 17 | 📋 Planned |
+| **P2**  | 🌳 **HealthTrack AI — AI Health Assistant Platform** 🔄<br/>v2.1 PostgreSQL · v2.2 FastAPI + ML · v2.3 AWS · v2.4 K8s | L1 → Final | 35 | 🔄 Living |
+| **P3**  | 🌱 **NetGuard AI — Network Security Monitor**<br/>Network Graph Analyzer — BFS + DFS + Dijkstra on corporate attack paths | L2 | 45 | 📋 Planned |
+| **P4**  | 🌳 **NetGuard AI — Threat Intelligence Pipeline** 🔄<br/>v2.1 PostgreSQL · v2.2 ML · v2.3 AWS GuardDuty · v2.4 K8s | L2 → Final | 58 | 🔄 Living |
+| **P5**  | 🌱 **FinVault AI — Financial Database Engine**<br/>Financial Intelligence Platform — UPI/Zomato-style SQL analytics | L3 | 67 | 📋 Planned |
+| **P6**  | 🌳 **FinVault AI — Production Banking Platform** 🔄<br/>v2.1 FastAPI + ML · v2.2 AWS RDS · v2.3 GenAI · v2.4 K8s + Vault | L3 → Final | 78 | 🔄 Living |
+| **P7**  | 🌱 **RiskQuant AI — Quantitative Finance Engine**<br/>Quant Investment Engine — NSE portfolio + Markowitz + PCA from scratch | L4 | 93 | 📋 Planned |
+| **P8**  | 🌳 **RiskQuant AI — Bayesian Risk Platform** 🔄<br/>v2.1 XGBoost + SHAP · v2.2 LSTM · v2.3 SageMaker · v2.4 MLflow | L4 → Final | 107 | 🔄 Living |
+| **P9**  | 🌱 **FraudShield AI — AI Fraud Detection System**<br/>UPI fraud ML classifier + SHAP explainability | L5 | 122 | 📋 Planned |
+| **P10** | 🌳 **FraudShield AI — Enterprise AI Security Platform** 🔄<br/>v2.1 CNN-LSTM · v2.2 SageMaker · v2.3 GenAI · v2.4 K8s | L5 → Final | 138 | 🔄 Living |
+| **P11** | 🌱 **VisionCore AI — Computer Vision Intelligence**<br/>Computer Vision Platform — EfficientNet + FaceNet + Grad-CAM + ONNX | L7 | 163 | 📋 Planned |
+| **P12** | 🌳 **VisionCore AI — Multi-Modal Deep Learning** 🔄<br/>4 DL architectures: Transformer + CNN-LSTM + AE + GNN | L7 → Final | 178 | 🔄 Living |
+| **P13** | 🌳 **LegalMind AI — India Legal Compliance Agent** 🔄<br/>RAG on RBI + SEBI + Companies Act 2013 | L8 | 197 | 🔄 Living |
+| **P14** | 🌳 **SOC AutoPilot AI — Autonomous SOC Platform** 🔄<br/>5 LLM agents, alert to contained in 90 seconds | L8 | 215 | 🔄 Living |
+| **P15** | 🌱 **ModelWatch AI — ML Production Monitor**<br/>MLflow + Evidently + Prometheus + Grafana | L10 | 233 | 📋 Planned |
+| **P16** | 🌳 **CloudOps AI — Cloud Infrastructure Platform** 🔄<br/>K8s Platform — Multi-region + GitOps + Chaos Engineering + Istio | L10 → Final | 250 | 🔄 Living |
+| **P17** | 🌳 **Command Centre AI — Unified AI Command Centre** 🔄<br/>ALL 16 projects in ONE dashboard | L11 | 254 | 📋 Planned |
+| **P18** | 🌳 **OpenShield AI — Open Source AI Security Platform** 🔄<br/>Open Source Release — PyPI + Helm + Docusaurus docs | L11 | 259 | 📋 Planned |
 
 ---
 
