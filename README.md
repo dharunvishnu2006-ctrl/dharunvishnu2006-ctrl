@@ -408,7 +408,7 @@
     <b><font size="5">🏆 SENTINELAI INDIA — UNIFIED COMMAND CENTRE</font></b><br/>
     <sub><b><font size="3">ALL 16 projects unified into ONE production platform — THE MASTERPIECE</font></b></sub>
   </td>
-  <td align="center"><b><font size="4">Layer 11</font></b></td>
+  <td align="center"><b><font size="4">Layer 12</font></b></td>
   <td align="center"><b><font size="4">📋 Planned</font></b></td>
 </tr>
 
@@ -418,7 +418,7 @@
     <b><font size="5">🌐 SENTINELAI INDIA OSS — OPEN SOURCE PLATFORM</font></b><br/>
     <sub><b><font size="3">Open Source launch · PyPI · Helm chart · Docusaurus docs · MIT License</font></b></sub>
   </td>
-  <td align="center"><b><font size="4">Layer 11</font></b></td>
+  <td align="center"><b><font size="4">Layer 12</font></b></td>
   <td align="center"><b><font size="4">📋 Planned</font></b></td>
 </tr>
 
