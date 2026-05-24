@@ -258,7 +258,7 @@
     <b><font size="5">🩺 AAROGYA v2 — AI HEALTH ASSISTANT</font></b><br/>
     <sub><b><font size="3">PostgreSQL · FastAPI + ML · AWS · K8s — full Python mastery + CI/CD</font></b></sub>
   </td>
-  <td align="center"><b><font size="4">Layer 1 → Layer 12 Upgrade</font></b></td>
+  <td align="center"><b><font size="4">Starts Layer 1 · Upgrades till Layer 12</font></b></td>
   <td align="center"><b><font size="4">🔄 Living</font></b></td>
 </tr>
 
@@ -278,7 +278,7 @@
     <b><font size="5">🛡️ SURAKSHA v2 — THREAT INTELLIGENCE PIPELINE</font></b><br/>
     <sub><b><font size="3">Trie + Heap + HashMap + Graph · PostgreSQL · ML · AWS GuardDuty · K8s</font></b></sub>
   </td>
-  <td align="center"><b><font size="4">Layer 2 → Layer 12 Upgrade</font></b></td>
+  <td align="center"><b><font size="4">Starts Layer 2 · Upgrades till Layer 12</font></b></td>
   <td align="center"><b><font size="4">🔄 Living</font></b></td>
 </tr>
 
@@ -298,7 +298,7 @@
     <b><font size="5">💰 ARTHIK v2 — PRODUCTION BFSI PLATFORM</font></b><br/>
     <sub><b><font size="3">FastAPI + ML · AWS RDS Multi-AZ · GenAI · K8s + Vault — RBI compliance</font></b></sub>
   </td>
-  <td align="center"><b><font size="4">Layer 3 → Layer 12 Upgrade</font></b></td>
+  <td align="center"><b><font size="4">Starts Layer 3 · Upgrades till Layer 12</font></b></td>
   <td align="center"><b><font size="4">🔄 Living</font></b></td>
 </tr>
 
@@ -318,7 +318,7 @@
     <b><font size="5">📈 NIVESH v2 — BAYESIAN RISK PLATFORM</font></b><br/>
     <sub><b><font size="3">XGBoost + SHAP · LSTM · AWS SageMaker · MLflow drift — Goldman-level</font></b></sub>
   </td>
-  <td align="center"><b><font size="4">Layer 4 → Layer 12 Upgrade</font></b></td>
+  <td align="center"><b><font size="4">Starts Layer 4 · Upgrades till Layer 12</font></b></td>
   <td align="center"><b><font size="4">🔄 Living</font></b></td>
 </tr>
 
@@ -338,7 +338,7 @@
     <b><font size="5">🔒 KAVACH v2 — ENTERPRISE AI SECURITY</font></b><br/>
     <sub><b><font size="3">4 ML models · CNN-LSTM · SageMaker · GenAI incident summary · K8s + Feast</font></b></sub>
   </td>
-  <td align="center"><b><font size="4">Layer 5 → Layer 12 Upgrade</font></b></td>
+  <td align="center"><b><font size="4">Starts Layer 5 · Upgrades till Layer 12</font></b></td>
   <td align="center"><b><font size="4">🔄 Living</font></b></td>
 </tr>
 
@@ -358,7 +358,7 @@
     <b><font size="5">👁️ DRISHTI v2 — MULTI-MODAL DEEP LEARNING</font></b><br/>
     <sub><b><font size="3">4 DL architectures: Transformer + CNN-LSTM + Autoencoder + GNN ensembled</font></b></sub>
   </td>
-  <td align="center"><b><font size="4">Layer 7 → Layer 12 Upgrade</font></b></td>
+  <td align="center"><b><font size="4">Starts Layer 7 · Upgrades till Layer 12</font></b></td>
   <td align="center"><b><font size="4">🔄 Living</font></b></td>
 </tr>
 
@@ -368,7 +368,7 @@
     <b><font size="5">⚖️ NYAYA — INDIA LEGAL COMPLIANCE AGENT</font></b><br/>
     <sub><b><font size="3">RAG on RBI + SEBI + Companies Act 2013 · LangChain + Claude + Pinecone</font></b></sub>
   </td>
-  <td align="center"><b><font size="4">Layer 8 → Layer 12 Upgrade</font></b></td>
+  <td align="center"><b><font size="4">Starts Layer 8 · Upgrades till Layer 12</font></b></td>
   <td align="center"><b><font size="4">🔄 Living</font></b></td>
 </tr>
 
@@ -378,7 +378,7 @@
     <b><font size="5">🚨 RAKSHAK — AUTONOMOUS SOC PLATFORM</font></b><br/>
     <sub><b><font size="3">5 LLM agents: Triage + Investigator + Threat Intel + Responder + Reporter</font></b></sub>
   </td>
-  <td align="center"><b><font size="4">Layer 8 → Layer 12 Upgrade</font></b></td>
+  <td align="center"><b><font size="4">Starts Layer 8 · Upgrades till Layer 12</font></b></td>
   <td align="center"><b><font size="4">🔄 Living</font></b></td>
 </tr>
 
@@ -398,7 +398,7 @@
     <b><font size="5">📊 PRAHARI v2 — CLOUD INFRASTRUCTURE PLATFORM</font></b><br/>
     <sub><b><font size="3">Multi-region K8s · ArgoCD GitOps · Istio mTLS · Chaos Engineering · Feast</font></b></sub>
   </td>
-  <td align="center"><b><font size="4">Layer 10 → Layer 12 Upgrade</font></b></td>
+  <td align="center"><b><font size="4">Starts Layer 10 · Upgrades till Layer 12</font></b></td>
   <td align="center"><b><font size="4">🔄 Living</font></b></td>
 </tr>
 
