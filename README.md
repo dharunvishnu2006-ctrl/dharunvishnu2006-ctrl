@@ -1,6 +1,5 @@
 <!-- ═══════════════════════════════════════════════════════════════════
      RAINBOW GRADIENT BANNER — Capsule Render
-     Colors flow: purple → blue → cyan → pink → orange
 ═══════════════════════════════════════════════════════════════════ -->
 
 <p align="center">
@@ -11,7 +10,7 @@
 
 > *"While others copy tutorials — I build ecosystems."*
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=28&duration=3000&pause=500&color=00CED1&center=true&vCenter=true&multiline=false&width=850&height=55&lines=610+Steps+%E2%80%A2+20+Projects+%E2%80%A2+One+Mission;Building+India%E2%80%99s+AI+%2B+Cybersecurity+Ecosystem;%F0%9F%91%91+KING+%2B+QUEEN+%2B+18+Living+Projects;AI+%2F+ML+%2F+Cloud+%2F+Cybersecurity+Engineer)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=30&duration=3000&pause=500&color=00CED1&center=true&vCenter=true&multiline=false&weight=800&width=900&height=60&lines=Building+India's+AI+%2B+Cybersecurity+Ecosystem;%F0%9F%91%91+KING+%2B+QUEEN+%2B+18+Living+Projects;AI+%2F+ML+%2F+Cloud+%2F+Cybersecurity+Engineer;8+Courses+%E2%80%A2+12+Layers+%E2%80%A2+610+Steps+%E2%80%A2+20+Projects)](https://git.io/typing-svg)
 
 <br/>
 
@@ -26,50 +25,113 @@
 ## ⚡ WHO AM I
 
 <table>
-<tr><td>🪪 <b>name</b></td><td><b>J. Dharun Vishnu</b></td></tr>
-<tr><td>🎓 <b>degree</b></td><td><b>BSc Information Technology (2023 – 2026)</b></td></tr>
-<tr><td>🛤️ <b>track</b></td><td><b>AI/ML Engineer → Cloud Engineer → Cybersecurity Engineer</b></td></tr>
-<tr><td>📍 <b>location</b></td><td><b>India 🇮🇳</b></td></tr>
-<tr><td>🎯 <b>mission</b></td><td><b>Build AI systems that protect India's digital infrastructure</b></td></tr>
-<tr><td>🗺️ <b>roadmap</b></td><td><b>610 steps · 261 days · 20 projects · 3 AWS certifications</b></td></tr>
-<tr><td>⚡ <b>currently</b></td><td><b>Layer 1 — Python + Streamlit + FastAPI + GitHub Actions</b></td></tr>
-<tr><td>👑 <b>flagships</b></td><td><b>CloudShield AI (KING) + AutoPilot ML (QUEEN) — grow with every layer</b></td></tr>
-<tr><td>🏆 <b>target 2027</b></td><td><b>Production AI + Cloud + Cybersecurity deployment</b></td></tr>
+<tr><td>🪪 &nbsp;<b><font size="4">name</font></b></td><td><b><font size="4" color="#FFFFFF">J. Dharun Vishnu</font></b></td></tr>
+<tr><td>🎓 &nbsp;<b><font size="4">degree</font></b></td><td><b><font size="4" color="#FFFFFF">BSc Information Technology (2023 – 2026)</font></b></td></tr>
+<tr><td>🛤️ &nbsp;<b><font size="4">track</font></b></td><td><b><font size="4" color="#FFFFFF">AI/ML Engineer → Cloud Engineer → Cybersecurity Engineer</font></b></td></tr>
+<tr><td>📍 &nbsp;<b><font size="4">location</font></b></td><td><b><font size="4" color="#FFFFFF">India 🇮🇳</font></b></td></tr>
+<tr><td>🎯 &nbsp;<b><font size="4">mission</font></b></td><td><b><font size="4" color="#FFFFFF">Build AI systems that protect India's digital infrastructure</font></b></td></tr>
+<tr><td>🗺️ &nbsp;<b><font size="4">roadmap</font></b></td><td><b><font size="4" color="#FFFFFF">8 Coursera Courses · 12 Layers · 610 Steps · 3 AWS Certifications · 20 Projects</font></b></td></tr>
+<tr><td>⚡ &nbsp;<b><font size="4">currently</font></b></td><td><b><font size="4" color="#FFFFFF">Layer 1 — Python + Streamlit + FastAPI + GitHub Actions</font></b></td></tr>
+<tr><td>👑 &nbsp;<b><font size="4">flagships</font></b></td><td><b><font size="4" color="#FFFFFF">CloudShield AI (KING) + AutoPilot ML (QUEEN) — grow with every layer</font></b></td></tr>
+<tr><td>🏆 &nbsp;<b><font size="4">target 2027</font></b></td><td><b><font size="4" color="#FFFFFF">Production AI + Cloud + Cybersecurity deployment</font></b></td></tr>
 </table>
 
-> I'm not following a bootcamp. I'm executing a **610-step engineering roadmap** — building
-> **20 production-grade AI + security projects** from scratch before I graduate.
+> **I'm not following a bootcamp. I'm executing a 610-step engineering roadmap — building 20 production-grade AI + security projects from scratch before I graduate.**
 >
-> Every project that has a **v2 is a living project** — it starts simple and upgrades automatically
-> as each new layer (SQL → ML → DL → GenAI → AWS → MLOps) is completed.
-> **One codebase. Growing smarter with every layer.**
+> **Every project that has a v2 is a living project — it starts simple and upgrades automatically as each new layer (SQL → ML → DL → GenAI → AWS → MLOps) is completed. One codebase. Growing smarter with every layer.**
 
 ---
 
-# 🗺️ THE PLAN — 610 Steps · 261 Days · 12 Layers
+# 🗺️ THE PLAN — 8 Coursera Courses · 12 Layers · 610 Steps · 20 Projects · 3 AWS Certifications
 
 <table>
-<tr><td><b>🔵 LAYER 1</b></td><td>Steps 1 – 85</td><td>Days 1 – 35</td><td>Python Programming · OOP · Git · GitHub · Streamlit · pytest</td></tr>
-<tr><td><b>🔵 LAYER 2</b></td><td>Steps 86 – 140</td><td>Days 36 – 59</td><td>Data Structures & Algorithms · LeetCode · NetworkX · Docker</td></tr>
-<tr><td><b>🔵 LAYER 3</b></td><td>Steps 141 – 180</td><td>Days 60 – 78</td><td>SQL for Data Science · PostgreSQL · SQLAlchemy · Alembic</td></tr>
-<tr><td><b>🟢 LAYER 4+5</b></td><td>Steps 181 – 250</td><td>Days 79 – 107</td><td>Mathematics for ML · NumPy · PyMC · scipy · Bayesian</td></tr>
-<tr><td><b>🟡 LAYER 6</b></td><td>Steps 251 – 325</td><td>Days 108 – 138</td><td>ML Specialization · sklearn · XGBoost · SHAP · MLflow · Optuna</td></tr>
-<tr><td><b>🟡 LAYER 7</b></td><td>Steps 326 – 340</td><td>Days 139 – 145</td><td>API + Tools + AWS Cloud Practitioner · FastAPI · Docker</td></tr>
-<tr><td><b>🟡 LAYER 8</b></td><td>Steps 341 – 420</td><td>Days 146 – 178</td><td>Deep Learning · PyTorch · EfficientNet · Transformers · ONNX</td></tr>
-<tr><td><b>🟠 LAYER 9+10</b></td><td>Steps 421 – 510</td><td>Days 179 – 215</td><td>Generative AI + Agentic AI · LangChain · RAG · CrewAI · LangGraph</td></tr>
-<tr><td><b>🔴 LAYER 11</b></td><td>Steps 511 – 590</td><td>Days 216 – 250</td><td>MLOps + Cloud Engineering · MLflow · K8s · ArgoCD · Istio · Terraform</td></tr>
-<tr><td><b>🔴 LAYER 12</b></td><td>Steps 591 – 610</td><td>Days 251 – 261</td><td>Final Polish · Open Source · AWS ML Specialty · Job Ready</td></tr>
+<tr>
+  <td align="center">🔵 <b>L1</b></td>
+  <td><img src="https://img.shields.io/badge/Python_for_Everybody-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python for Everybody"/><br/><sub><b><font color="#FFFFFF">University of Michigan · Python Programming · OOP · Git · GitHub · Streamlit · pytest</font></b></sub></td>
+  <td align="center">📋 Planned</td>
+</tr>
+<tr>
+  <td align="center">🟠 <b>L2</b></td>
+  <td><img src="https://img.shields.io/badge/DSA_Specialization-FF6B35?style=for-the-badge&logo=leetcode&logoColor=white" alt="DSA"/><br/><sub><b><font color="#FFFFFF">UC San Diego · Data Structures & Algorithms · LeetCode · NetworkX · Docker</font></b></sub></td>
+  <td align="center">📋 Planned</td>
+</tr>
+<tr>
+  <td align="center">🟡 <b>L3</b></td>
+  <td><img src="https://img.shields.io/badge/SQL_for_Data_Science-F5A623?style=for-the-badge&logo=postgresql&logoColor=white" alt="SQL"/><br/><sub><b><font color="#FFFFFF">UC Davis · PostgreSQL · SQLAlchemy · Alembic · Window Functions</font></b></sub></td>
+  <td align="center">📋 Planned</td>
+</tr>
+<tr>
+  <td align="center">🟢 <b>L4+5</b></td>
+  <td><img src="https://img.shields.io/badge/Mathematics_for_ML-00B894?style=for-the-badge&logo=wolfram&logoColor=white" alt="Maths for ML"/><br/><sub><b><font color="#FFFFFF">DeepLearning.AI · NumPy · PyMC · SciPy · Bayesian Inference</font></b></sub></td>
+  <td align="center">📋 Planned</td>
+</tr>
+<tr>
+  <td align="center">🟣 <b>L6</b></td>
+  <td><img src="https://img.shields.io/badge/ML_Specialization-9B59B6?style=for-the-badge&logo=scikitlearn&logoColor=white" alt="ML Specialization"/><br/><sub><b><font color="#FFFFFF">Andrew Ng / DeepLearning.AI · sklearn · XGBoost · SHAP · MLflow · Optuna</font></b></sub></td>
+  <td align="center">📋 Planned</td>
+</tr>
+<tr>
+  <td align="center">🩵 <b>L7</b></td>
+  <td><img src="https://img.shields.io/badge/AWS_Cloud_Practitioner-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white" alt="AWS CCP"/><br/><sub><b><font color="#FFFFFF">AWS · FastAPI · Docker · API + Tools + AWS Cloud Practitioner</font></b></sub></td>
+  <td align="center">📋 Planned</td>
+</tr>
+<tr>
+  <td align="center">🔴 <b>L8</b></td>
+  <td><img src="https://img.shields.io/badge/Deep_Learning_Specialization-E91E63?style=for-the-badge&logo=pytorch&logoColor=white" alt="DL"/><br/><sub><b><font color="#FFFFFF">Andrew Ng / DeepLearning.AI · PyTorch · EfficientNet · Transformers · ONNX</font></b></sub></td>
+  <td align="center">📋 Planned</td>
+</tr>
+<tr>
+  <td align="center">🔷 <b>L9+10</b></td>
+  <td><img src="https://img.shields.io/badge/GenAI_with_LLMs-1E88E5?style=for-the-badge&logo=openai&logoColor=white" alt="GenAI"/><br/><sub><b><font color="#FFFFFF">DeepLearning.AI + AWS · LangChain · RAG · CrewAI · LangGraph</font></b></sub></td>
+  <td align="center">📋 Planned</td>
+</tr>
+<tr>
+  <td align="center">🟩 <b>L11</b></td>
+  <td><img src="https://img.shields.io/badge/ML_Engineering_Production-43A047?style=for-the-badge&logo=kubernetes&logoColor=white" alt="MLOps"/><br/><sub><b><font color="#FFFFFF">DeepLearning.AI · MLflow · K8s · ArgoCD · Istio · Terraform</font></b></sub></td>
+  <td align="center">📋 Planned</td>
+</tr>
+<tr>
+  <td align="center">🟥 <b>L12</b></td>
+  <td><img src="https://img.shields.io/badge/Final_Polish_+_OSS-D32F2F?style=for-the-badge&logo=github&logoColor=white" alt="Final"/><br/><sub><b><font color="#FFFFFF">Final Polish · Open Source · AWS ML Specialty · Job Ready</font></b></sub></td>
+  <td align="center">📋 Planned</td>
+</tr>
 </table>
+
+### ☁️ AWS Certifications
+
+<table>
+<tr>
+  <td align="center">🟠 <b>L7</b></td>
+  <td><img src="https://img.shields.io/badge/AWS_Certified_Cloud_Practitioner-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white" alt="AWS CCP"/></td>
+  <td align="center">📋 Planned</td>
+</tr>
+<tr>
+  <td align="center">🔵 <b>L11</b></td>
+  <td><img src="https://img.shields.io/badge/AWS_Solutions_Architect_Associate-232F3E?style=for-the-badge&logo=amazonaws&logoColor=white" alt="AWS SAA"/></td>
+  <td align="center">📋 Planned</td>
+</tr>
+<tr>
+  <td align="center">🟣 <b>L12</b></td>
+  <td><img src="https://img.shields.io/badge/AWS_Certified_ML_Specialty-8E44AD?style=for-the-badge&logo=amazonaws&logoColor=white" alt="AWS MLS"/></td>
+  <td align="center">📋 Planned</td>
+</tr>
+</table>
+
+> 🔄 Status updates as certificates are earned: `📋 Planned` → `🎯 Earning` → `✅ Certified`
 
 ---
 
 # 👑 THE FLAGSHIPS — 2 KING-QUEEN PROJECTS
 
-> Two enterprise-grade projects that **grow with every single layer**. By Day 261, these will be world-class showcases built from scratch.
+> **Two enterprise-grade projects that grow with every single layer. By Step 610, these will be world-class showcases built from scratch.**
 
 <br/>
 
-## 👑 KING — CloudShield AI
+## 👑 KING PROJECT — CloudShield AI
+
+<p align="center">
+<img src="https://img.shields.io/badge/%F0%9F%91%91_KING_PROJECT_%E2%80%94_CloudShield_AI-FF6B35?style=for-the-badge&labelColor=8A2BE2" alt="KING CloudShield AI" height="40"/>
+</p>
 
 **🛡️ AI-Powered Cloud Security Posture Management (CSPM) Platform**
 
@@ -77,21 +139,25 @@
 
 ### 📈 Layer-by-Layer Upgrade Journey
 
-| Version | Day | After Layer | What's Added | Skill Proof |
-|:-------:|:---:|:-----------:|--------------|:-----------:|
-| **v1.0** | Day 36  | L1 Python    | CLI tool: mocked AWS JSON scan → Streamlit report  | Python OOP |
-| **v1.1** | Day 59  | L2 DSA       | Trie (IAM wildcard parsing) + Graph (lateral movement) | Data Structures |
-| **v1.2** | Day 78  | L3 SQL       | PostgreSQL scan history + Window functions (trends) | SQL Mastery |
-| **v1.3** | Day 107 | L4 Maths     | CVSS Matrix risk scoring (linear algebra from scratch) | Math Foundation |
-| **v1.4** | Day 138 | L5 ML        | Isolation Forest → CloudTrail anomaly detection | ML Production |
-| **v1.5** | Day 178 | L7 DL        | Autoencoder → network traffic zero-day detection | Deep Learning |
-| **v1.6** | Day 215 | L8 GenAI     | LLM Agent (LangChain + RAG) → auto Terraform fix | Agentic AI |
-| **v1.7** | Day 250 | L10 MLOps    | AWS EKS + Helm Chart + PyPI package publish | Production Scale |
-| **v1.8** | Day 261 | L11 Final    | **Enterprise-grade open-source CSPM platform** 🏆 | **Step 610** |
+| Version | After Layer | What's Added | Skill Proof |
+|:-------:|:-----------:|--------------|:-----------:|
+| **v1.0** | L1 Python    | CLI tool: mocked AWS JSON scan → Streamlit report  | <b><font color="#FFFFFF">Python OOP</font></b> |
+| **v1.1** | L2 DSA       | Trie (IAM wildcard parsing) + Graph (lateral movement) | <b><font color="#FFFFFF">Data Structures</font></b> |
+| **v1.2** | L3 SQL       | PostgreSQL scan history + Window functions (trends) | <b><font color="#FFFFFF">SQL Mastery</font></b> |
+| **v1.3** | L4 Maths     | CVSS Matrix risk scoring (linear algebra from scratch) | <b><font color="#FFFFFF">Math Foundation</font></b> |
+| **v1.4** | L5 ML        | Isolation Forest → CloudTrail anomaly detection | <b><font color="#FFFFFF">ML Production</font></b> |
+| **v1.5** | L7 DL        | Autoencoder → network traffic zero-day detection | <b><font color="#FFFFFF">Deep Learning</font></b> |
+| **v1.6** | L8 GenAI     | LLM Agent (LangChain + RAG) → auto Terraform fix | <b><font color="#FFFFFF">Agentic AI</font></b> |
+| **v1.7** | L10 MLOps    | AWS EKS + Helm Chart + PyPI package publish | <b><font color="#FFFFFF">Production Scale</font></b> |
+| **v1.8** | L11 Final    | **Enterprise-grade open-source CSPM platform** 🏆 | <b><font color="#FFFFFF">Step 610</font></b> |
 
 ---
 
-## 👑 QUEEN — AutoPilot ML
+## 👑 QUEEN PROJECT — AutoPilot ML
+
+<p align="center">
+<img src="https://img.shields.io/badge/%F0%9F%91%91_QUEEN_PROJECT_%E2%80%94_AutoPilot_ML-00C882?style=for-the-badge&labelColor=1E90FF" alt="QUEEN AutoPilot ML" height="40"/>
+</p>
 
 **🤖 Self-Healing Level-4 MLOps Platform**
 
@@ -99,64 +165,227 @@
 
 ### 📈 Layer-by-Layer Upgrade Journey
 
-| Version | Day | After Layer | What's Added | Skill Proof |
-|:-------:|:---:|:-----------:|--------------|:-----------:|
-| **v1.0** | Day 36  | L1 Python    | CSV read + model metrics auto-log | Python OOP |
-| **v1.1** | Day 59  | L2 DSA       | Min-Heap model ranker (latency + accuracy score) | Data Structures |
-| **v1.2** | Day 78  | L3 SQL       | PostgreSQL model registry + hyperparameter history | SQL Mastery |
-| **v1.3** | Day 107 | L4 Maths     | KS Test + PSI drift detection from scratch | Math Foundation |
-| **v1.4** | Day 138 | L5 ML        | Auto hyperparameter optimizer (Optuna-style) | ML Production |
-| **v1.5** | Day 178 | L7 DL        | Knowledge Distillation pipeline (large → small model) | Deep Learning |
-| **v1.6** | Day 215 | L8 GenAI     | LLM MLOps Copilot → drift interpret + auto-trigger | Agentic AI |
-| **v1.7** | Day 250 | L10 MLOps    | MLflow + SageMaker + canary rollout + auto rollback | Production Scale |
-| **v1.8** | Day 261 | L11 Final    | **Level-4 autonomous self-healing ML platform** 🏆 | **Step 610** |
+| Version | After Layer | What's Added | Skill Proof |
+|:-------:|:-----------:|--------------|:-----------:|
+| **v1.0** | L1 Python    | CSV read + model metrics auto-log | <b><font color="#FFFFFF">Python OOP</font></b> |
+| **v1.1** | L2 DSA       | Min-Heap model ranker (latency + accuracy score) | <b><font color="#FFFFFF">Data Structures</font></b> |
+| **v1.2** | L3 SQL       | PostgreSQL model registry + hyperparameter history | <b><font color="#FFFFFF">SQL Mastery</font></b> |
+| **v1.3** | L4 Maths     | KS Test + PSI drift detection from scratch | <b><font color="#FFFFFF">Math Foundation</font></b> |
+| **v1.4** | L5 ML        | Auto hyperparameter optimizer (Optuna-style) | <b><font color="#FFFFFF">ML Production</font></b> |
+| **v1.5** | L7 DL        | Knowledge Distillation pipeline (large → small model) | <b><font color="#FFFFFF">Deep Learning</font></b> |
+| **v1.6** | L8 GenAI     | LLM MLOps Copilot → drift interpret + auto-trigger | <b><font color="#FFFFFF">Agentic AI</font></b> |
+| **v1.7** | L10 MLOps    | MLflow + SageMaker + canary rollout + auto rollback | <b><font color="#FFFFFF">Production Scale</font></b> |
+| **v1.8** | L11 Final    | **Level-4 autonomous self-healing ML platform** 🏆 | <b><font color="#FFFFFF">Step 610</font></b> |
 
 ---
 
 ### 🔥 The Golden Rule
 
-> **90% effort → 18 ecosystem projects (the foundation)**
-> **10% effort → KING + QUEEN flagships (the showcase)**
-> Reuse ecosystem code in flagships. Never rewrite. Same skill — bigger impact.
+> **<font color="#FFFFFF">90% effort → 18 ecosystem projects (the foundation)</font>**
+> **<font color="#FFFFFF">10% effort → KING + QUEEN flagships (the showcase)</font>**
+> **<font color="#FFFFFF">Reuse ecosystem code in flagships. Never rewrite. Same skill — bigger impact.</font>**
 
 ---
 
 # 🏗️ THE ECOSYSTEM — 18 LIVING PROJECTS
 
-> Every project is part of one unified AI + Cybersecurity command centre — **SentinelAI India**.
-> None of these are tutorial clones. All connected. All upgraded layer-by-layer.
-
-> **v1 projects** = built in the assigned layer
-> **v2 projects** = 🔄 living projects that upgrade automatically as each new layer is completed
+> **<font color="#FFFFFF">Every project is part of one unified AI + Cybersecurity command centre — SentinelAI India.</font>**
+> **<font color="#FFFFFF">None of these are tutorial clones. All connected. All upgraded layer-by-layer.</font>**
+>
+> **<font color="#FFFFFF">v1 projects = built in the assigned layer · v2 projects = 🔄 living projects that upgrade automatically as each new layer is completed.</font>**
 
 <br/>
 
-| # | Project | What It Does | Layer | Day | Status |
-|:-:|---------|--------------|:-----:|:---:|:------:|
-| **P1**  | **AAROGYA v1**          | Health Data Platform — Apollo/AIIMS-style analytics + live deployment | L1 | 17 | 📋 Planned |
-| **P2**  | **AAROGYA v2** 🔄        | AI Health Assistant — v2.1 PostgreSQL · v2.2 FastAPI + ML · v2.3 AWS · v2.4 K8s | L1 → ∞ | 35 | 🔄 Living |
-| **P3**  | **SURAKSHA v1**         | Network Graph Analyzer — BFS + DFS + Dijkstra on corporate attack paths | L2 | 45 | 📋 Planned |
-| **P4**  | **SURAKSHA v2** 🔄       | Threat Intel Pipeline — v2.1 PostgreSQL · v2.2 ML · v2.3 AWS GuardDuty · v2.4 K8s | L2 → ∞ | 58 | 🔄 Living |
-| **P5**  | **ARTHIK v1**           | Financial Intelligence Platform — UPI/Zomato-style SQL analytics | L3 | 67 | 📋 Planned |
-| **P6**  | **ARTHIK v2** 🔄         | BFSI Production DB — v2.1 FastAPI + ML · v2.2 AWS RDS · v2.3 GenAI · v2.4 K8s + Vault | L3 → ∞ | 78 | 🔄 Living |
-| **P7**  | **NIVESH v1**           | Quant Investment Engine — NSE portfolio + Markowitz + PCA from scratch | L4 | 93 | 📋 Planned |
-| **P8**  | **NIVESH v2** 🔄         | Bayesian Risk Platform — v2.1 XGBoost + SHAP · v2.2 LSTM · v2.3 SageMaker · v2.4 MLflow | L4 → ∞ | 107 | 🔄 Living |
-| **P9**  | **KAVACH v1**           | Fraud Detection System — UPI fraud ML classifier + SHAP explainability | L5 | 122 | 📋 Planned |
-| **P10** | **KAVACH v2** 🔄         | Enterprise AI Platform — v2.1 CNN-LSTM · v2.2 SageMaker · v2.3 GenAI · v2.4 K8s | L5 → ∞ | 138 | 🔄 Living |
-| **P11** | **DRISHTI v1**          | Computer Vision Platform — EfficientNet + FaceNet + Grad-CAM + ONNX | L7 | 163 | 📋 Planned |
-| **P12** | **DRISHTI v2** 🔄        | Multi-Modal AI — 4 DL architectures: Transformer + CNN-LSTM + AE + GNN | L7 → ∞ | 178 | 🔄 Living |
-| **P13** | **NYAYA** 🔄          | India Legal Compliance Agent — RAG on RBI + SEBI + Companies Act 2013 | L8 | 197 | 🔄 Living |
-| **P14** | **RAKSHAK** 🔄          | Autonomous SOC — 5 LLM agents, alert to contained in 90 seconds | L8 | 215 | 🔄 Living |
-| **P15** | **PRAHARI v1**          | ML Monitoring Platform — MLflow + Evidently + Prometheus + Grafana | L10 | 233 | 📋 Planned |
-| **P16** | **PRAHARI v2** 🔄        | K8s Platform — Multi-region + GitOps + Chaos Engineering + Istio | L10 → ∞ | 250 | 🔄 Living |
-| **P17** | **SentinelAI India** | Unified AI Command Centre — ALL 16 projects in ONE dashboard | L11 | 254 | 📋 Planned |
-| **P18** | **SentinelAI India OSS**| Open Source Release — PyPI + Helm + Docusaurus docs | L11 | 259 | 📋 Planned |
+<table>
+<tr><th>#</th><th>Project</th><th>Layer</th><th>Status</th></tr>
+
+<tr>
+  <td align="center"><b>P1</b></td>
+  <td>
+    <img src="https://img.shields.io/badge/AAROGYA_v1_%E2%80%94_India_Health_Analytics-00BCD4?style=for-the-badge&logoColor=white" alt="AAROGYA v1"/><br/>
+    <sub><b><font color="#FFFFFF">Apollo + AIIMS-style health analytics · Live deployed Streamlit app</font></b></sub>
+  </td>
+  <td align="center">L1</td>
+  <td align="center">📋 Planned</td>
+</tr>
+
+<tr>
+  <td align="center"><b>P2</b></td>
+  <td>
+    <img src="https://img.shields.io/badge/AAROGYA_v2_%E2%80%94_AI_Health_Assistant-2196F3?style=for-the-badge&logoColor=white" alt="AAROGYA v2"/><br/>
+    <sub><b><font color="#FFFFFF">PostgreSQL · FastAPI + ML · AWS · K8s — full Python mastery + CI/CD</font></b></sub>
+  </td>
+  <td align="center">L1 → ∞</td>
+  <td align="center">🔄 Living</td>
+</tr>
+
+<tr>
+  <td align="center"><b>P3</b></td>
+  <td>
+    <img src="https://img.shields.io/badge/SURAKSHA_v1_%E2%80%94_Network_Security_Monitor-7B1FA2?style=for-the-badge&logoColor=white" alt="SURAKSHA v1"/><br/>
+    <sub><b><font color="#FFFFFF">BFS + DFS + Dijkstra on corporate attack paths · NetworkX</font></b></sub>
+  </td>
+  <td align="center">L2</td>
+  <td align="center">📋 Planned</td>
+</tr>
+
+<tr>
+  <td align="center"><b>P4</b></td>
+  <td>
+    <img src="https://img.shields.io/badge/SURAKSHA_v2_%E2%80%94_Threat_Intelligence_Pipeline-C2185B?style=for-the-badge&logoColor=white" alt="SURAKSHA v2"/><br/>
+    <sub><b><font color="#FFFFFF">Trie + Heap + HashMap + Graph · PostgreSQL · ML · AWS GuardDuty · K8s</font></b></sub>
+  </td>
+  <td align="center">L2 → ∞</td>
+  <td align="center">🔄 Living</td>
+</tr>
+
+<tr>
+  <td align="center"><b>P5</b></td>
+  <td>
+    <img src="https://img.shields.io/badge/ARTHIK_v1_%E2%80%94_Financial_Database_Engine-D32F2F?style=for-the-badge&logoColor=white" alt="ARTHIK v1"/><br/>
+    <sub><b><font color="#FFFFFF">UPI / Zomato / Swiggy-style SQL analytics · Window functions · CTEs</font></b></sub>
+  </td>
+  <td align="center">L3</td>
+  <td align="center">📋 Planned</td>
+</tr>
+
+<tr>
+  <td align="center"><b>P6</b></td>
+  <td>
+    <img src="https://img.shields.io/badge/ARTHIK_v2_%E2%80%94_Production_BFSI_Platform-E64A19?style=for-the-badge&logoColor=white" alt="ARTHIK v2"/><br/>
+    <sub><b><font color="#FFFFFF">FastAPI + ML · AWS RDS Multi-AZ · GenAI · K8s + Vault — RBI compliance</font></b></sub>
+  </td>
+  <td align="center">L3 → ∞</td>
+  <td align="center">🔄 Living</td>
+</tr>
+
+<tr>
+  <td align="center"><b>P7</b></td>
+  <td>
+    <img src="https://img.shields.io/badge/NIVESH_v1_%E2%80%94_Quantitative_Finance_Engine-F57F17?style=for-the-badge&logoColor=white" alt="NIVESH v1"/><br/>
+    <sub><b><font color="#FFFFFF">NSE portfolio · Markowitz · PCA from scratch · Pure NumPy mathematics</font></b></sub>
+  </td>
+  <td align="center">L4</td>
+  <td align="center">📋 Planned</td>
+</tr>
+
+<tr>
+  <td align="center"><b>P8</b></td>
+  <td>
+    <img src="https://img.shields.io/badge/NIVESH_v2_%E2%80%94_Bayesian_Risk_Platform-689F38?style=for-the-badge&logoColor=white" alt="NIVESH v2"/><br/>
+    <sub><b><font color="#FFFFFF">XGBoost + SHAP · LSTM · AWS SageMaker · MLflow drift — Goldman-level</font></b></sub>
+  </td>
+  <td align="center">L4 → ∞</td>
+  <td align="center">🔄 Living</td>
+</tr>
+
+<tr>
+  <td align="center"><b>P9</b></td>
+  <td>
+    <img src="https://img.shields.io/badge/KAVACH_v1_%E2%80%94_Fraud_Detection_System-00897B?style=for-the-badge&logoColor=white" alt="KAVACH v1"/><br/>
+    <sub><b><font color="#FFFFFF">UPI fraud ML classifier · XGBoost + SHAP explainability · MLflow + Optuna</font></b></sub>
+  </td>
+  <td align="center">L5</td>
+  <td align="center">📋 Planned</td>
+</tr>
+
+<tr>
+  <td align="center"><b>P10</b></td>
+  <td>
+    <img src="https://img.shields.io/badge/KAVACH_v2_%E2%80%94_Enterprise_AI_Security-1976D2?style=for-the-badge&logoColor=white" alt="KAVACH v2"/><br/>
+    <sub><b><font color="#FFFFFF">4 ML models · CNN-LSTM · SageMaker · GenAI incident summary · K8s + Feast</font></b></sub>
+  </td>
+  <td align="center">L5 → ∞</td>
+  <td align="center">🔄 Living</td>
+</tr>
+
+<tr>
+  <td align="center"><b>P11</b></td>
+  <td>
+    <img src="https://img.shields.io/badge/DRISHTI_v1_%E2%80%94_Computer_Vision_Intelligence-303F9F?style=for-the-badge&logoColor=white" alt="DRISHTI v1"/><br/>
+    <sub><b><font color="#FFFFFF">EfficientNet + FaceNet + Grad-CAM + ONNX · Doctor-friendly AI with proof</font></b></sub>
+  </td>
+  <td align="center">L7</td>
+  <td align="center">📋 Planned</td>
+</tr>
+
+<tr>
+  <td align="center"><b>P12</b></td>
+  <td>
+    <img src="https://img.shields.io/badge/DRISHTI_v2_%E2%80%94_Multi--Modal_Deep_Learning-512DA8?style=for-the-badge&logoColor=white" alt="DRISHTI v2"/><br/>
+    <sub><b><font color="#FFFFFF">4 DL architectures: Transformer + CNN-LSTM + Autoencoder + GNN ensembled</font></b></sub>
+  </td>
+  <td align="center">L7 → ∞</td>
+  <td align="center">🔄 Living</td>
+</tr>
+
+<tr>
+  <td align="center"><b>P13</b></td>
+  <td>
+    <img src="https://img.shields.io/badge/NYAYA_%E2%80%94_India_Legal_Compliance_Agent-AD1457?style=for-the-badge&logoColor=white" alt="NYAYA"/><br/>
+    <sub><b><font color="#FFFFFF">RAG on RBI + SEBI + Companies Act 2013 · LangChain + Claude + Pinecone</font></b></sub>
+  </td>
+  <td align="center">L8 → ∞</td>
+  <td align="center">🔄 Living</td>
+</tr>
+
+<tr>
+  <td align="center"><b>P14</b></td>
+  <td>
+    <img src="https://img.shields.io/badge/RAKSHAK_%E2%80%94_Autonomous_SOC_Platform-EF6C00?style=for-the-badge&logoColor=white" alt="RAKSHAK"/><br/>
+    <sub><b><font color="#FFFFFF">5 LLM agents: Triage + Investigator + Threat Intel + Responder + Reporter</font></b></sub>
+  </td>
+  <td align="center">L8 → ∞</td>
+  <td align="center">🔄 Living</td>
+</tr>
+
+<tr>
+  <td align="center"><b>P15</b></td>
+  <td>
+    <img src="https://img.shields.io/badge/PRAHARI_v1_%E2%80%94_ML_Production_Monitor-FBC02D?style=for-the-badge&logoColor=white" alt="PRAHARI v1"/><br/>
+    <sub><b><font color="#FFFFFF">MLflow + Evidently + Prometheus + Grafana · Auto-retrain on drift</font></b></sub>
+  </td>
+  <td align="center">L10</td>
+  <td align="center">📋 Planned</td>
+</tr>
+
+<tr>
+  <td align="center"><b>P16</b></td>
+  <td>
+    <img src="https://img.shields.io/badge/PRAHARI_v2_%E2%80%94_Cloud_Infrastructure_Platform-388E3C?style=for-the-badge&logoColor=white" alt="PRAHARI v2"/><br/>
+    <sub><b><font color="#FFFFFF">Multi-region K8s · ArgoCD GitOps · Istio mTLS · Chaos Engineering · Feast</font></b></sub>
+  </td>
+  <td align="center">L10 → ∞</td>
+  <td align="center">🔄 Living</td>
+</tr>
+
+<tr>
+  <td align="center"><b>P17</b></td>
+  <td>
+    <img src="https://img.shields.io/badge/SentinelAI_India_%E2%80%94_Unified_Command_Centre-006064?style=for-the-badge&logoColor=white" alt="SentinelAI India"/><br/>
+    <sub><b><font color="#FFFFFF">ALL 16 projects unified into ONE production platform — THE MASTERPIECE</font></b></sub>
+  </td>
+  <td align="center">L11</td>
+  <td align="center">📋 Planned</td>
+</tr>
+
+<tr>
+  <td align="center"><b>P18</b></td>
+  <td>
+    <img src="https://img.shields.io/badge/SentinelAI_India_OSS_%E2%80%94_Open_Source_Platform-0288D1?style=for-the-badge&logoColor=white" alt="SentinelAI India OSS"/><br/>
+    <sub><b><font color="#FFFFFF">Open Source launch · PyPI · Helm chart · Docusaurus docs · MIT License</font></b></sub>
+  </td>
+  <td align="center">L11</td>
+  <td align="center">📋 Planned</td>
+</tr>
+
+</table>
 
 ---
 
 # 🔗 ECOSYSTEM CONNECTIONS
 
-> Every project feeds into others. By Day 261, all 20 projects form ONE unified platform.
+> **<font color="#FFFFFF">Every project feeds into others. By Step 610, all 20 projects form ONE unified platform.</font>**
 
 ```mermaid
 graph TB
@@ -210,18 +439,18 @@ graph TB
 TODAY  ►  Layer 1 — Python Foundations
           Learning: Python · OOP · APIs · GitHub · Streamlit · Pytest
 
-NEXT   ►  P1: AAROGYA v1  (First Project — Day 17)
+NEXT   ►  P1: AAROGYA v1 (First Project)
           Goal: Healthcare platform with CI/CD + 5 Pytest tests
-          Bonus: KING v1.0 CLI + QUEEN v1.0 metric logger (Day 36)
+          Bonus: KING v1.0 CLI + QUEEN v1.0 metric logger
 
-GOAL   ►  261 days from now — 20 platforms deployed, job-ready engineer
+GOAL   ►  Step 610 — 20 platforms deployed, job-ready engineer
 ```
 
 <div align="center">
 
 ### 📊 Progress Tracker
 
-![Progress](https://progress-bar.dev/0/?scale=261&width=500&color=00CED1&suffix=%20%2F%20261%20days)
+![Progress](https://progress-bar.dev/0/?scale=610&width=500&color=00CED1&suffix=%20%2F%20610%20steps)
 
 </div>
 
@@ -261,35 +490,6 @@ GOAL   ►  261 days from now — 20 platforms deployed, job-ready engineer
 
 ---
 
-## 🎓 CERTIFICATIONS — 8 Courses + 3 AWS
-
-> 8 Coursera courses + 3 AWS certifications. Each certificate earned = one layer unlocked.
-
-### 📘 Coursera Courses (8)
-
-| # | Course | Platform | Layer | Status |
-|:-:|--------|----------|:-----:|:------:|
-| C1 | **Python for Everybody** | University of Michigan | L1 | 📋 Planned |
-| C2 | **DSA Specialization** | UC San Diego | L2 | 📋 Planned |
-| C3 | **SQL for Data Science** | UC Davis | L3 | 📋 Planned |
-| C4 | **Mathematics for ML** | DeepLearning.AI | L4+5 | 📋 Planned |
-| C5 | **ML Specialization** | DeepLearning.AI / Andrew Ng | L6 | 📋 Planned |
-| C6 | **Deep Learning Specialization** | DeepLearning.AI / Andrew Ng | L8 | 📋 Planned |
-| C7 | **GenAI with LLMs** | DeepLearning.AI + AWS | L9+10 | 📋 Planned |
-| C8 | **ML Engineering for Production** | DeepLearning.AI | L11 | 📋 Planned |
-
-### ☁️ AWS Certifications (3)
-
-| # | Certification | Layer | Day | Status |
-|:-:|---------------|:-----:|:---:|:------:|
-| **AWS-1** | **AWS Certified Cloud Practitioner** | L7 | Day ~143 | 📋 Planned |
-| **AWS-2** | **AWS Certified Solutions Architect – Associate** | L11 | Day ~210 | 📋 Planned |
-| **AWS-3** | **AWS Certified ML Specialty** | L12 | Day ~256 | 📋 Planned |
-
-> 🔄 Status updates as certificates are earned: `📋 Planned` → `✅ Certified`
-
----
-
 ## 📊 GITHUB STATS
 
 <div align="center">
@@ -311,32 +511,32 @@ GOAL   ►  261 days from now — 20 platforms deployed, job-ready engineer
 
 ## 💡 BUILD PHILOSOPHY
 
-> Small steps. One layer at a time. No rushing. No skipping foundations. Execution > hype.
+> **<font color="#FFFFFF">Small steps. One layer at a time. No rushing. No skipping foundations. Execution > hype.</font>**
 
 <table>
 <tr>
   <td><b>🎯 Real Indian use cases</b></td>
-  <td>UPI fraud, RBI compliance, NSE quant, ABDM health, DPDP Act — not US examples</td>
+  <td><b><font color="#FFFFFF">UPI fraud, RBI compliance, NSE quant, ABDM health, DPDP Act — not US examples</font></b></td>
 </tr>
 <tr>
   <td><b>🔄 Living projects</b></td>
-  <td>v1 → v2 → v3 → v4 — every project upgrades as new layers complete</td>
+  <td><b><font color="#FFFFFF">v1 → v2 → v3 → v4 — every project upgrades as new layers complete</font></b></td>
 </tr>
 <tr>
   <td><b>🚀 Always deployed</b></td>
-  <td>No localhost demos — every project goes live on Streamlit Cloud / AWS</td>
+  <td><b><font color="#FFFFFF">No localhost demos — every project goes live on Streamlit Cloud / AWS</font></b></td>
 </tr>
 <tr>
   <td><b>📦 Open source first</b></td>
-  <td>PyPI · Helm · Docusaurus — anyone can <code>pip install sentinelai</code></td>
+  <td><b><font color="#FFFFFF">PyPI · Helm · Docusaurus — anyone can <code>pip install sentinelai</code></font></b></td>
 </tr>
 <tr>
   <td><b>🧪 5 Pytest minimum</b></td>
-  <td>Every project ships with tests — no exceptions, no excuses</td>
+  <td><b><font color="#FFFFFF">Every project ships with tests — no exceptions, no excuses</font></b></td>
 </tr>
 <tr>
   <td><b>🎬 Demo video mandatory</b></td>
-  <td>Recruiters watch demos, not READMEs. YouTube link in every repo</td>
+  <td><b><font color="#FFFFFF">Recruiters watch demos, not READMEs. YouTube link in every repo</font></b></td>
 </tr>
 </table>
 
