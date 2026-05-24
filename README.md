@@ -25,358 +25,401 @@
 ## ⚡ WHO AM I
 
 <table>
-<tr><td>🪪 &nbsp;<b><font size="4">name</font></b></td><td><b><font size="4" color="#FFFFFF">J. Dharun Vishnu</font></b></td></tr>
-<tr><td>🎓 &nbsp;<b><font size="4">degree</font></b></td><td><b><font size="4" color="#FFFFFF">BSc Information Technology (2023 – 2026)</font></b></td></tr>
-<tr><td>🛤️ &nbsp;<b><font size="4">track</font></b></td><td><b><font size="4" color="#FFFFFF">AI/ML Engineer → Cloud Engineer → Cybersecurity Engineer</font></b></td></tr>
-<tr><td>📍 &nbsp;<b><font size="4">location</font></b></td><td><b><font size="4" color="#FFFFFF">India 🇮🇳</font></b></td></tr>
-<tr><td>🎯 &nbsp;<b><font size="4">mission</font></b></td><td><b><font size="4" color="#FFFFFF">Build AI systems that protect India's digital infrastructure</font></b></td></tr>
-<tr><td>🗺️ &nbsp;<b><font size="4">roadmap</font></b></td><td><b><font size="4" color="#FFFFFF">8 Coursera Courses · 12 Layers · 610 Steps · 3 AWS Certifications · 20 Projects</font></b></td></tr>
-<tr><td>⚡ &nbsp;<b><font size="4">currently</font></b></td><td><b><font size="4" color="#FFFFFF">Layer 1 — Python + Streamlit + FastAPI + GitHub Actions</font></b></td></tr>
-<tr><td>👑 &nbsp;<b><font size="4">flagships</font></b></td><td><b><font size="4" color="#FFFFFF">CloudShield AI (KING) + AutoPilot ML (QUEEN) — grow with every layer</font></b></td></tr>
-<tr><td>🏆 &nbsp;<b><font size="4">target 2027</font></b></td><td><b><font size="4" color="#FFFFFF">Production AI + Cloud + Cybersecurity deployment</font></b></td></tr>
+<tr><td>🪪 &nbsp;<b><font size="4">name</font></b></td><td><b><font size="4">J. Dharun Vishnu</font></b></td></tr>
+<tr><td>🎓 &nbsp;<b><font size="4">degree</font></b></td><td><b><font size="4">BSc Information Technology (2023 – 2026)</font></b></td></tr>
+<tr><td>🛤️ &nbsp;<b><font size="4">track</font></b></td><td><b><font size="4">AI/ML Engineer → Cloud Engineer → Cybersecurity Engineer</font></b></td></tr>
+<tr><td>📍 &nbsp;<b><font size="4">location</font></b></td><td><b><font size="4">India 🇮🇳</font></b></td></tr>
+<tr><td>🎯 &nbsp;<b><font size="4">mission</font></b></td><td><b><font size="4">Build AI systems that protect India's digital infrastructure</font></b></td></tr>
+<tr><td>🗺️ &nbsp;<b><font size="4">roadmap</font></b></td><td><b><font size="4">8 Coursera Courses · 12 Layers · 610 Steps · 3 AWS Certifications · 20 Projects</font></b></td></tr>
+<tr><td>⚡ &nbsp;<b><font size="4">currently</font></b></td><td><b><font size="4">Layer 1 — Python + Streamlit + FastAPI + GitHub Actions</font></b></td></tr>
+<tr><td>👑 &nbsp;<b><font size="4">flagships</font></b></td><td><b><font size="4">CloudShield AI (KING) + AutoPilot ML (QUEEN) — grow with every layer</font></b></td></tr>
+<tr><td>🏆 &nbsp;<b><font size="4">target 2027</font></b></td><td><b><font size="4">Production AI + Cloud + Cybersecurity deployment</font></b></td></tr>
 </table>
 
-> **I'm not following a bootcamp. I'm executing a 610-step engineering roadmap — building 20 production-grade AI + security projects from scratch before I graduate.**
+> **<font size="4">I'm not following a bootcamp. I'm executing a 610-step engineering roadmap — building 20 production-grade AI + security projects from scratch before I graduate.</font>**
 >
-> **Every project that has a v2 is a living project — it starts simple and upgrades automatically as each new layer (SQL → ML → DL → GenAI → AWS → MLOps) is completed. One codebase. Growing smarter with every layer.**
+> **<font size="4">Every project that has a v2 is a living project — it starts simple and upgrades automatically as each new layer (SQL → ML → DL → GenAI → AWS → MLOps) is completed. One codebase. Growing smarter with every layer.</font>**
 
 ---
 
 # 🗺️ THE PLAN — 8 Coursera Courses · 12 Layers · 610 Steps · 20 Projects · 3 AWS Certifications
 
 <table>
+<tr><th width="14%">Layer</th><th width="68%">Course</th><th width="18%">Status</th></tr>
+
 <tr>
-  <td align="center">🔵 <b>L1</b></td>
-  <td><img src="https://img.shields.io/badge/Python_for_Everybody-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python for Everybody"/><br/><sub><b><font color="#FFFFFF">University of Michigan · Python Programming · OOP · Git · GitHub · Streamlit · pytest</font></b></sub></td>
-  <td align="center">📋 Planned</td>
+  <td align="center">🔵 &nbsp;<b><font size="4">Layer 1</font></b></td>
+  <td>
+    <b><font size="5">🐍 PYTHON FOR EVERYBODY</font></b><br/>
+    <sub><b><font size="3">University of Michigan · Python Programming · OOP · Git · GitHub · Streamlit · pytest</font></b></sub>
+  </td>
+  <td align="center"><b><font size="4">📋 Planned</font></b></td>
 </tr>
+
 <tr>
-  <td align="center">🟠 <b>L2</b></td>
-  <td><img src="https://img.shields.io/badge/DSA_Specialization-FF6B35?style=for-the-badge&logo=leetcode&logoColor=white" alt="DSA"/><br/><sub><b><font color="#FFFFFF">UC San Diego · Data Structures & Algorithms · LeetCode · NetworkX · Docker</font></b></sub></td>
-  <td align="center">📋 Planned</td>
+  <td align="center">🟠 &nbsp;<b><font size="4">Layer 2</font></b></td>
+  <td>
+    <b><font size="5">🔶 DSA SPECIALIZATION</font></b><br/>
+    <sub><b><font size="3">UC San Diego · Data Structures & Algorithms · LeetCode · NetworkX · Docker</font></b></sub>
+  </td>
+  <td align="center"><b><font size="4">📋 Planned</font></b></td>
 </tr>
+
 <tr>
-  <td align="center">🟡 <b>L3</b></td>
-  <td><img src="https://img.shields.io/badge/SQL_for_Data_Science-F5A623?style=for-the-badge&logo=postgresql&logoColor=white" alt="SQL"/><br/><sub><b><font color="#FFFFFF">UC Davis · PostgreSQL · SQLAlchemy · Alembic · Window Functions</font></b></sub></td>
-  <td align="center">📋 Planned</td>
+  <td align="center">🟡 &nbsp;<b><font size="4">Layer 3</font></b></td>
+  <td>
+    <b><font size="5">🗄️ SQL FOR DATA SCIENCE</font></b><br/>
+    <sub><b><font size="3">UC Davis · PostgreSQL · SQLAlchemy · Alembic · Window Functions</font></b></sub>
+  </td>
+  <td align="center"><b><font size="4">📋 Planned</font></b></td>
 </tr>
+
 <tr>
-  <td align="center">🟢 <b>L4+5</b></td>
-  <td><img src="https://img.shields.io/badge/Mathematics_for_ML-00B894?style=for-the-badge&logo=wolfram&logoColor=white" alt="Maths for ML"/><br/><sub><b><font color="#FFFFFF">DeepLearning.AI · NumPy · PyMC · SciPy · Bayesian Inference</font></b></sub></td>
-  <td align="center">📋 Planned</td>
+  <td align="center">🟢 &nbsp;<b><font size="4">Layer 4+5</font></b></td>
+  <td>
+    <b><font size="5">📐 MATHEMATICS FOR ML</font></b><br/>
+    <sub><b><font size="3">DeepLearning.AI · NumPy · PyMC · SciPy · Bayesian Inference</font></b></sub>
+  </td>
+  <td align="center"><b><font size="4">📋 Planned</font></b></td>
 </tr>
+
 <tr>
-  <td align="center">🟣 <b>L6</b></td>
-  <td><img src="https://img.shields.io/badge/ML_Specialization-9B59B6?style=for-the-badge&logo=scikitlearn&logoColor=white" alt="ML Specialization"/><br/><sub><b><font color="#FFFFFF">Andrew Ng / DeepLearning.AI · sklearn · XGBoost · SHAP · MLflow · Optuna</font></b></sub></td>
-  <td align="center">📋 Planned</td>
+  <td align="center">🟣 &nbsp;<b><font size="4">Layer 6</font></b></td>
+  <td>
+    <b><font size="5">🤖 ML SPECIALIZATION</font></b><br/>
+    <sub><b><font size="3">Andrew Ng / DeepLearning.AI · sklearn · XGBoost · SHAP · MLflow · Optuna</font></b></sub>
+  </td>
+  <td align="center"><b><font size="4">📋 Planned</font></b></td>
 </tr>
+
 <tr>
-  <td align="center">🩵 <b>L7</b></td>
-  <td><img src="https://img.shields.io/badge/AWS_Cloud_Practitioner-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white" alt="AWS CCP"/><br/><sub><b><font color="#FFFFFF">AWS · FastAPI · Docker · API + Tools + AWS Cloud Practitioner</font></b></sub></td>
-  <td align="center">📋 Planned</td>
+  <td align="center">🩵 &nbsp;<b><font size="4">Layer 7</font></b></td>
+  <td>
+    <b><font size="5">☁️ AWS CLOUD PRACTITIONER</font></b><br/>
+    <sub><b><font size="3">AWS · FastAPI · Docker · API + Tools + AWS Cloud Practitioner</font></b></sub>
+  </td>
+  <td align="center"><b><font size="4">📋 Planned</font></b></td>
 </tr>
+
 <tr>
-  <td align="center">🔴 <b>L8</b></td>
-  <td><img src="https://img.shields.io/badge/Deep_Learning_Specialization-E91E63?style=for-the-badge&logo=pytorch&logoColor=white" alt="DL"/><br/><sub><b><font color="#FFFFFF">Andrew Ng / DeepLearning.AI · PyTorch · EfficientNet · Transformers · ONNX</font></b></sub></td>
-  <td align="center">📋 Planned</td>
+  <td align="center">🔴 &nbsp;<b><font size="4">Layer 8</font></b></td>
+  <td>
+    <b><font size="5">🧠 DEEP LEARNING SPECIALIZATION</font></b><br/>
+    <sub><b><font size="3">Andrew Ng / DeepLearning.AI · PyTorch · EfficientNet · Transformers · ONNX</font></b></sub>
+  </td>
+  <td align="center"><b><font size="4">📋 Planned</font></b></td>
 </tr>
+
 <tr>
-  <td align="center">🔷 <b>L9+10</b></td>
-  <td><img src="https://img.shields.io/badge/GenAI_with_LLMs-1E88E5?style=for-the-badge&logo=openai&logoColor=white" alt="GenAI"/><br/><sub><b><font color="#FFFFFF">DeepLearning.AI + AWS · LangChain · RAG · CrewAI · LangGraph</font></b></sub></td>
-  <td align="center">📋 Planned</td>
+  <td align="center">🔷 &nbsp;<b><font size="4">Layer 9+10</font></b></td>
+  <td>
+    <b><font size="5">💬 GENAI WITH LLMS</font></b><br/>
+    <sub><b><font size="3">DeepLearning.AI + AWS · LangChain · RAG · CrewAI · LangGraph</font></b></sub>
+  </td>
+  <td align="center"><b><font size="4">📋 Planned</font></b></td>
 </tr>
+
 <tr>
-  <td align="center">🟩 <b>L11</b></td>
-  <td><img src="https://img.shields.io/badge/ML_Engineering_Production-43A047?style=for-the-badge&logo=kubernetes&logoColor=white" alt="MLOps"/><br/><sub><b><font color="#FFFFFF">DeepLearning.AI · MLflow · K8s · ArgoCD · Istio · Terraform</font></b></sub></td>
-  <td align="center">📋 Planned</td>
+  <td align="center">🟩 &nbsp;<b><font size="4">Layer 11</font></b></td>
+  <td>
+    <b><font size="5">⚙️ ML ENGINEERING FOR PRODUCTION</font></b><br/>
+    <sub><b><font size="3">DeepLearning.AI · MLflow · K8s · ArgoCD · Istio · Terraform</font></b></sub>
+  </td>
+  <td align="center"><b><font size="4">📋 Planned</font></b></td>
 </tr>
+
 <tr>
-  <td align="center">🟥 <b>L12</b></td>
-  <td><img src="https://img.shields.io/badge/Final_Polish_+_OSS-D32F2F?style=for-the-badge&logo=github&logoColor=white" alt="Final"/><br/><sub><b><font color="#FFFFFF">Final Polish · Open Source · AWS ML Specialty · Job Ready</font></b></sub></td>
-  <td align="center">📋 Planned</td>
+  <td align="center">🟥 &nbsp;<b><font size="4">Layer 12</font></b></td>
+  <td>
+    <b><font size="5">🏆 FINAL POLISH + OSS</font></b><br/>
+    <sub><b><font size="3">Final Polish · Open Source · AWS ML Specialty · Job Ready</font></b></sub>
+  </td>
+  <td align="center"><b><font size="4">📋 Planned</font></b></td>
 </tr>
+
 </table>
+
+---
 
 ### ☁️ AWS Certifications
 
 <table>
+<tr><th width="14%">Layer</th><th width="68%">Certification</th><th width="18%">Status</th></tr>
+
 <tr>
-  <td align="center">🟠 <b>L7</b></td>
-  <td><img src="https://img.shields.io/badge/AWS_Certified_Cloud_Practitioner-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white" alt="AWS CCP"/></td>
-  <td align="center">📋 Planned</td>
+  <td align="center">🟠 &nbsp;<b><font size="4">Layer 7</font></b></td>
+  <td><b><font size="5">☁️ AWS CERTIFIED CLOUD PRACTITIONER</font></b></td>
+  <td align="center"><b><font size="4">📋 Planned</font></b></td>
 </tr>
+
 <tr>
-  <td align="center">🔵 <b>L11</b></td>
-  <td><img src="https://img.shields.io/badge/AWS_Solutions_Architect_Associate-232F3E?style=for-the-badge&logo=amazonaws&logoColor=white" alt="AWS SAA"/></td>
-  <td align="center">📋 Planned</td>
+  <td align="center">🔵 &nbsp;<b><font size="4">Layer 11</font></b></td>
+  <td><b><font size="5">🏗️ AWS CERTIFIED SOLUTIONS ARCHITECT ASSOCIATE</font></b></td>
+  <td align="center"><b><font size="4">📋 Planned</font></b></td>
 </tr>
+
 <tr>
-  <td align="center">🟣 <b>L12</b></td>
-  <td><img src="https://img.shields.io/badge/AWS_Certified_ML_Specialty-8E44AD?style=for-the-badge&logo=amazonaws&logoColor=white" alt="AWS MLS"/></td>
-  <td align="center">📋 Planned</td>
+  <td align="center">🟣 &nbsp;<b><font size="4">Layer 12</font></b></td>
+  <td><b><font size="5">🤖 AWS CERTIFIED ML SPECIALTY</font></b></td>
+  <td align="center"><b><font size="4">📋 Planned</font></b></td>
 </tr>
+
 </table>
 
-> 🔄 Status updates as certificates are earned: `📋 Planned` → `🎯 Earning` → `✅ Certified`
+> **<font size="4">🔄 Status updates as certificates are earned: 📋 Planned → 🎯 Earning → ✅ Certified</font>**
 
 ---
 
 # 👑 THE FLAGSHIPS — 2 KING-QUEEN PROJECTS
 
-> **Two enterprise-grade projects that grow with every single layer. By Step 610, these will be world-class showcases built from scratch.**
+> **<font size="4">Two enterprise-grade projects that grow with every single layer. By Step 610, these will be world-class showcases built from scratch.</font>**
 
 <br/>
 
-## 👑 KING PROJECT — CloudShield AI
+# 👑 KING PROJECT — CloudShield AI
 
-<p align="center">
-<img src="https://img.shields.io/badge/%F0%9F%91%91_KING_PROJECT_%E2%80%94_CloudShield_AI-FF6B35?style=for-the-badge&labelColor=8A2BE2" alt="KING CloudShield AI" height="40"/>
-</p>
+### 🛡️ AI-Powered Cloud Security Posture Management (CSPM) Platform
 
-**🛡️ AI-Powered Cloud Security Posture Management (CSPM) Platform**
-
-> AWS infrastructure auto-scanner with LLM-driven Terraform remediation.
+> **<font size="4">AWS infrastructure auto-scanner with LLM-driven Terraform remediation.</font>**
 
 ### 📈 Layer-by-Layer Upgrade Journey
 
-| Version | After Layer | What's Added | Skill Proof |
-|:-------:|:-----------:|--------------|:-----------:|
-| **v1.0** | L1 Python    | CLI tool: mocked AWS JSON scan → Streamlit report  | <b><font color="#FFFFFF">Python OOP</font></b> |
-| **v1.1** | L2 DSA       | Trie (IAM wildcard parsing) + Graph (lateral movement) | <b><font color="#FFFFFF">Data Structures</font></b> |
-| **v1.2** | L3 SQL       | PostgreSQL scan history + Window functions (trends) | <b><font color="#FFFFFF">SQL Mastery</font></b> |
-| **v1.3** | L4 Maths     | CVSS Matrix risk scoring (linear algebra from scratch) | <b><font color="#FFFFFF">Math Foundation</font></b> |
-| **v1.4** | L5 ML        | Isolation Forest → CloudTrail anomaly detection | <b><font color="#FFFFFF">ML Production</font></b> |
-| **v1.5** | L7 DL        | Autoencoder → network traffic zero-day detection | <b><font color="#FFFFFF">Deep Learning</font></b> |
-| **v1.6** | L8 GenAI     | LLM Agent (LangChain + RAG) → auto Terraform fix | <b><font color="#FFFFFF">Agentic AI</font></b> |
-| **v1.7** | L10 MLOps    | AWS EKS + Helm Chart + PyPI package publish | <b><font color="#FFFFFF">Production Scale</font></b> |
-| **v1.8** | L11 Final    | **Enterprise-grade open-source CSPM platform** 🏆 | <b><font color="#FFFFFF">Step 610</font></b> |
+<table>
+<tr><th>Version</th><th>After Layer</th><th>What's Added</th><th>Skill Proof</th></tr>
+<tr><td align="center"><b><font size="4">v1.0</font></b></td><td align="center"><b><font size="4">Layer 1 — Python</font></b></td><td><b><font size="4">CLI tool: mocked AWS JSON scan → Streamlit report</font></b></td><td align="center"><b><font size="4">Python OOP</font></b></td></tr>
+<tr><td align="center"><b><font size="4">v1.1</font></b></td><td align="center"><b><font size="4">Layer 2 — DSA</font></b></td><td><b><font size="4">Trie (IAM wildcard parsing) + Graph (lateral movement)</font></b></td><td align="center"><b><font size="4">Data Structures</font></b></td></tr>
+<tr><td align="center"><b><font size="4">v1.2</font></b></td><td align="center"><b><font size="4">Layer 3 — SQL</font></b></td><td><b><font size="4">PostgreSQL scan history + Window functions (trends)</font></b></td><td align="center"><b><font size="4">SQL Mastery</font></b></td></tr>
+<tr><td align="center"><b><font size="4">v1.3</font></b></td><td align="center"><b><font size="4">Layer 4 — Maths</font></b></td><td><b><font size="4">CVSS Matrix risk scoring (linear algebra from scratch)</font></b></td><td align="center"><b><font size="4">Math Foundation</font></b></td></tr>
+<tr><td align="center"><b><font size="4">v1.4</font></b></td><td align="center"><b><font size="4">Layer 5 — ML</font></b></td><td><b><font size="4">Isolation Forest → CloudTrail anomaly detection</font></b></td><td align="center"><b><font size="4">ML Production</font></b></td></tr>
+<tr><td align="center"><b><font size="4">v1.5</font></b></td><td align="center"><b><font size="4">Layer 7 — DL</font></b></td><td><b><font size="4">Autoencoder → network traffic zero-day detection</font></b></td><td align="center"><b><font size="4">Deep Learning</font></b></td></tr>
+<tr><td align="center"><b><font size="4">v1.6</font></b></td><td align="center"><b><font size="4">Layer 8 — GenAI</font></b></td><td><b><font size="4">LLM Agent (LangChain + RAG) → auto Terraform fix</font></b></td><td align="center"><b><font size="4">Agentic AI</font></b></td></tr>
+<tr><td align="center"><b><font size="4">v1.7</font></b></td><td align="center"><b><font size="4">Layer 10 — MLOps</font></b></td><td><b><font size="4">AWS EKS + Helm Chart + PyPI package publish</font></b></td><td align="center"><b><font size="4">Production Scale</font></b></td></tr>
+<tr><td align="center"><b><font size="4">v1.8</font></b></td><td align="center"><b><font size="4">Layer 11 — Final</font></b></td><td><b><font size="4">🏆 Enterprise-grade open-source CSPM platform</font></b></td><td align="center"><b><font size="4">Step 610</font></b></td></tr>
+</table>
 
 ---
 
-## 👑 QUEEN PROJECT — AutoPilot ML
+# 👑 QUEEN PROJECT — AutoPilot ML
 
-<p align="center">
-<img src="https://img.shields.io/badge/%F0%9F%91%91_QUEEN_PROJECT_%E2%80%94_AutoPilot_ML-00C882?style=for-the-badge&labelColor=1E90FF" alt="QUEEN AutoPilot ML" height="40"/>
-</p>
+### 🤖 Self-Healing Level-4 MLOps Platform
 
-**🤖 Self-Healing Level-4 MLOps Platform**
-
-> Auto train · evaluate · deploy · monitor · drift detect · retrain · redeploy — zero human intervention.
+> **<font size="4">Auto train · evaluate · deploy · monitor · drift detect · retrain · redeploy — zero human intervention.</font>**
 
 ### 📈 Layer-by-Layer Upgrade Journey
 
-| Version | After Layer | What's Added | Skill Proof |
-|:-------:|:-----------:|--------------|:-----------:|
-| **v1.0** | L1 Python    | CSV read + model metrics auto-log | <b><font color="#FFFFFF">Python OOP</font></b> |
-| **v1.1** | L2 DSA       | Min-Heap model ranker (latency + accuracy score) | <b><font color="#FFFFFF">Data Structures</font></b> |
-| **v1.2** | L3 SQL       | PostgreSQL model registry + hyperparameter history | <b><font color="#FFFFFF">SQL Mastery</font></b> |
-| **v1.3** | L4 Maths     | KS Test + PSI drift detection from scratch | <b><font color="#FFFFFF">Math Foundation</font></b> |
-| **v1.4** | L5 ML        | Auto hyperparameter optimizer (Optuna-style) | <b><font color="#FFFFFF">ML Production</font></b> |
-| **v1.5** | L7 DL        | Knowledge Distillation pipeline (large → small model) | <b><font color="#FFFFFF">Deep Learning</font></b> |
-| **v1.6** | L8 GenAI     | LLM MLOps Copilot → drift interpret + auto-trigger | <b><font color="#FFFFFF">Agentic AI</font></b> |
-| **v1.7** | L10 MLOps    | MLflow + SageMaker + canary rollout + auto rollback | <b><font color="#FFFFFF">Production Scale</font></b> |
-| **v1.8** | L11 Final    | **Level-4 autonomous self-healing ML platform** 🏆 | <b><font color="#FFFFFF">Step 610</font></b> |
+<table>
+<tr><th>Version</th><th>After Layer</th><th>What's Added</th><th>Skill Proof</th></tr>
+<tr><td align="center"><b><font size="4">v1.0</font></b></td><td align="center"><b><font size="4">Layer 1 — Python</font></b></td><td><b><font size="4">CSV read + model metrics auto-log</font></b></td><td align="center"><b><font size="4">Python OOP</font></b></td></tr>
+<tr><td align="center"><b><font size="4">v1.1</font></b></td><td align="center"><b><font size="4">Layer 2 — DSA</font></b></td><td><b><font size="4">Min-Heap model ranker (latency + accuracy score)</font></b></td><td align="center"><b><font size="4">Data Structures</font></b></td></tr>
+<tr><td align="center"><b><font size="4">v1.2</font></b></td><td align="center"><b><font size="4">Layer 3 — SQL</font></b></td><td><b><font size="4">PostgreSQL model registry + hyperparameter history</font></b></td><td align="center"><b><font size="4">SQL Mastery</font></b></td></tr>
+<tr><td align="center"><b><font size="4">v1.3</font></b></td><td align="center"><b><font size="4">Layer 4 — Maths</font></b></td><td><b><font size="4">KS Test + PSI drift detection from scratch</font></b></td><td align="center"><b><font size="4">Math Foundation</font></b></td></tr>
+<tr><td align="center"><b><font size="4">v1.4</font></b></td><td align="center"><b><font size="4">Layer 5 — ML</font></b></td><td><b><font size="4">Auto hyperparameter optimizer (Optuna-style)</font></b></td><td align="center"><b><font size="4">ML Production</font></b></td></tr>
+<tr><td align="center"><b><font size="4">v1.5</font></b></td><td align="center"><b><font size="4">Layer 7 — DL</font></b></td><td><b><font size="4">Knowledge Distillation pipeline (large → small model)</font></b></td><td align="center"><b><font size="4">Deep Learning</font></b></td></tr>
+<tr><td align="center"><b><font size="4">v1.6</font></b></td><td align="center"><b><font size="4">Layer 8 — GenAI</font></b></td><td><b><font size="4">LLM MLOps Copilot → drift interpret + auto-trigger</font></b></td><td align="center"><b><font size="4">Agentic AI</font></b></td></tr>
+<tr><td align="center"><b><font size="4">v1.7</font></b></td><td align="center"><b><font size="4">Layer 10 — MLOps</font></b></td><td><b><font size="4">MLflow + SageMaker + canary rollout + auto rollback</font></b></td><td align="center"><b><font size="4">Production Scale</font></b></td></tr>
+<tr><td align="center"><b><font size="4">v1.8</font></b></td><td align="center"><b><font size="4">Layer 11 — Final</font></b></td><td><b><font size="4">🏆 Level-4 autonomous self-healing ML platform</font></b></td><td align="center"><b><font size="4">Step 610</font></b></td></tr>
+</table>
 
 ---
 
 ### 🔥 The Golden Rule
 
-> **<font color="#FFFFFF">90% effort → 18 ecosystem projects (the foundation)</font>**
-> **<font color="#FFFFFF">10% effort → KING + QUEEN flagships (the showcase)</font>**
-> **<font color="#FFFFFF">Reuse ecosystem code in flagships. Never rewrite. Same skill — bigger impact.</font>**
+> **<font size="4">90% effort → 18 ecosystem projects (the foundation)</font>**
+> **<font size="4">10% effort → KING + QUEEN flagships (the showcase)</font>**
+> **<font size="4">Reuse ecosystem code in flagships. Never rewrite. Same skill — bigger impact.</font>**
 
 ---
 
 # 🏗️ THE ECOSYSTEM — 18 LIVING PROJECTS
 
-> **<font color="#FFFFFF">Every project is part of one unified AI + Cybersecurity command centre — SentinelAI India.</font>**
-> **<font color="#FFFFFF">None of these are tutorial clones. All connected. All upgraded layer-by-layer.</font>**
+> **<font size="4">Every project is part of one unified AI + Cybersecurity command centre — SentinelAI India.</font>**
+> **<font size="4">None of these are tutorial clones. All connected. All upgraded layer-by-layer.</font>**
 >
-> **<font color="#FFFFFF">v1 projects = built in the assigned layer · v2 projects = 🔄 living projects that upgrade automatically as each new layer is completed.</font>**
+> **<font size="4">v1 projects = built in the assigned layer · v2 projects = 🔄 living projects that upgrade automatically as each new layer is completed.</font>**
 
 <br/>
 
 <table>
-<tr><th>#</th><th>Project</th><th>Layer</th><th>Status</th></tr>
+<tr><th width="6%">#</th><th width="58%">Project</th><th width="22%">Layer</th><th width="14%">Status</th></tr>
 
 <tr>
-  <td align="center"><b>P1</b></td>
+  <td align="center"><b><font size="5">P1</font></b></td>
   <td>
-    <img src="https://img.shields.io/badge/AAROGYA_v1_%E2%80%94_India_Health_Analytics-00BCD4?style=for-the-badge&logoColor=white" alt="AAROGYA v1"/><br/>
-    <sub><b><font color="#FFFFFF">Apollo + AIIMS-style health analytics · Live deployed Streamlit app</font></b></sub>
+    <b><font size="5">🩺 AAROGYA v1 — INDIA HEALTH ANALYTICS</font></b><br/>
+    <sub><b><font size="3">Apollo + AIIMS-style health analytics · Live deployed Streamlit app</font></b></sub>
   </td>
-  <td align="center">L1</td>
-  <td align="center">📋 Planned</td>
+  <td align="center"><b><font size="4">Layer 1</font></b></td>
+  <td align="center"><b><font size="4">📋 Planned</font></b></td>
 </tr>
 
 <tr>
-  <td align="center"><b>P2</b></td>
+  <td align="center"><b><font size="5">P2</font></b></td>
   <td>
-    <img src="https://img.shields.io/badge/AAROGYA_v2_%E2%80%94_AI_Health_Assistant-2196F3?style=for-the-badge&logoColor=white" alt="AAROGYA v2"/><br/>
-    <sub><b><font color="#FFFFFF">PostgreSQL · FastAPI + ML · AWS · K8s — full Python mastery + CI/CD</font></b></sub>
+    <b><font size="5">🩺 AAROGYA v2 — AI HEALTH ASSISTANT</font></b><br/>
+    <sub><b><font size="3">PostgreSQL · FastAPI + ML · AWS · K8s — full Python mastery + CI/CD</font></b></sub>
   </td>
-  <td align="center">L1 → ∞</td>
-  <td align="center">🔄 Living</td>
+  <td align="center"><b><font size="4">Layer 1 → Layer 12 Upgrade</font></b></td>
+  <td align="center"><b><font size="4">🔄 Living</font></b></td>
 </tr>
 
 <tr>
-  <td align="center"><b>P3</b></td>
+  <td align="center"><b><font size="5">P3</font></b></td>
   <td>
-    <img src="https://img.shields.io/badge/SURAKSHA_v1_%E2%80%94_Network_Security_Monitor-7B1FA2?style=for-the-badge&logoColor=white" alt="SURAKSHA v1"/><br/>
-    <sub><b><font color="#FFFFFF">BFS + DFS + Dijkstra on corporate attack paths · NetworkX</font></b></sub>
+    <b><font size="5">🛡️ SURAKSHA v1 — NETWORK SECURITY MONITOR</font></b><br/>
+    <sub><b><font size="3">BFS + DFS + Dijkstra on corporate attack paths · NetworkX</font></b></sub>
   </td>
-  <td align="center">L2</td>
-  <td align="center">📋 Planned</td>
+  <td align="center"><b><font size="4">Layer 2</font></b></td>
+  <td align="center"><b><font size="4">📋 Planned</font></b></td>
 </tr>
 
 <tr>
-  <td align="center"><b>P4</b></td>
+  <td align="center"><b><font size="5">P4</font></b></td>
   <td>
-    <img src="https://img.shields.io/badge/SURAKSHA_v2_%E2%80%94_Threat_Intelligence_Pipeline-C2185B?style=for-the-badge&logoColor=white" alt="SURAKSHA v2"/><br/>
-    <sub><b><font color="#FFFFFF">Trie + Heap + HashMap + Graph · PostgreSQL · ML · AWS GuardDuty · K8s</font></b></sub>
+    <b><font size="5">🛡️ SURAKSHA v2 — THREAT INTELLIGENCE PIPELINE</font></b><br/>
+    <sub><b><font size="3">Trie + Heap + HashMap + Graph · PostgreSQL · ML · AWS GuardDuty · K8s</font></b></sub>
   </td>
-  <td align="center">L2 → ∞</td>
-  <td align="center">🔄 Living</td>
+  <td align="center"><b><font size="4">Layer 2 → Layer 12 Upgrade</font></b></td>
+  <td align="center"><b><font size="4">🔄 Living</font></b></td>
 </tr>
 
 <tr>
-  <td align="center"><b>P5</b></td>
+  <td align="center"><b><font size="5">P5</font></b></td>
   <td>
-    <img src="https://img.shields.io/badge/ARTHIK_v1_%E2%80%94_Financial_Database_Engine-D32F2F?style=for-the-badge&logoColor=white" alt="ARTHIK v1"/><br/>
-    <sub><b><font color="#FFFFFF">UPI / Zomato / Swiggy-style SQL analytics · Window functions · CTEs</font></b></sub>
+    <b><font size="5">💰 ARTHIK v1 — FINANCIAL DATABASE ENGINE</font></b><br/>
+    <sub><b><font size="3">UPI / Zomato / Swiggy-style SQL analytics · Window functions · CTEs</font></b></sub>
   </td>
-  <td align="center">L3</td>
-  <td align="center">📋 Planned</td>
+  <td align="center"><b><font size="4">Layer 3</font></b></td>
+  <td align="center"><b><font size="4">📋 Planned</font></b></td>
 </tr>
 
 <tr>
-  <td align="center"><b>P6</b></td>
+  <td align="center"><b><font size="5">P6</font></b></td>
   <td>
-    <img src="https://img.shields.io/badge/ARTHIK_v2_%E2%80%94_Production_BFSI_Platform-E64A19?style=for-the-badge&logoColor=white" alt="ARTHIK v2"/><br/>
-    <sub><b><font color="#FFFFFF">FastAPI + ML · AWS RDS Multi-AZ · GenAI · K8s + Vault — RBI compliance</font></b></sub>
+    <b><font size="5">💰 ARTHIK v2 — PRODUCTION BFSI PLATFORM</font></b><br/>
+    <sub><b><font size="3">FastAPI + ML · AWS RDS Multi-AZ · GenAI · K8s + Vault — RBI compliance</font></b></sub>
   </td>
-  <td align="center">L3 → ∞</td>
-  <td align="center">🔄 Living</td>
+  <td align="center"><b><font size="4">Layer 3 → Layer 12 Upgrade</font></b></td>
+  <td align="center"><b><font size="4">🔄 Living</font></b></td>
 </tr>
 
 <tr>
-  <td align="center"><b>P7</b></td>
+  <td align="center"><b><font size="5">P7</font></b></td>
   <td>
-    <img src="https://img.shields.io/badge/NIVESH_v1_%E2%80%94_Quantitative_Finance_Engine-F57F17?style=for-the-badge&logoColor=white" alt="NIVESH v1"/><br/>
-    <sub><b><font color="#FFFFFF">NSE portfolio · Markowitz · PCA from scratch · Pure NumPy mathematics</font></b></sub>
+    <b><font size="5">📈 NIVESH v1 — QUANTITATIVE FINANCE ENGINE</font></b><br/>
+    <sub><b><font size="3">NSE portfolio · Markowitz · PCA from scratch · Pure NumPy mathematics</font></b></sub>
   </td>
-  <td align="center">L4</td>
-  <td align="center">📋 Planned</td>
+  <td align="center"><b><font size="4">Layer 4</font></b></td>
+  <td align="center"><b><font size="4">📋 Planned</font></b></td>
 </tr>
 
 <tr>
-  <td align="center"><b>P8</b></td>
+  <td align="center"><b><font size="5">P8</font></b></td>
   <td>
-    <img src="https://img.shields.io/badge/NIVESH_v2_%E2%80%94_Bayesian_Risk_Platform-689F38?style=for-the-badge&logoColor=white" alt="NIVESH v2"/><br/>
-    <sub><b><font color="#FFFFFF">XGBoost + SHAP · LSTM · AWS SageMaker · MLflow drift — Goldman-level</font></b></sub>
+    <b><font size="5">📈 NIVESH v2 — BAYESIAN RISK PLATFORM</font></b><br/>
+    <sub><b><font size="3">XGBoost + SHAP · LSTM · AWS SageMaker · MLflow drift — Goldman-level</font></b></sub>
   </td>
-  <td align="center">L4 → ∞</td>
-  <td align="center">🔄 Living</td>
+  <td align="center"><b><font size="4">Layer 4 → Layer 12 Upgrade</font></b></td>
+  <td align="center"><b><font size="4">🔄 Living</font></b></td>
 </tr>
 
 <tr>
-  <td align="center"><b>P9</b></td>
+  <td align="center"><b><font size="5">P9</font></b></td>
   <td>
-    <img src="https://img.shields.io/badge/KAVACH_v1_%E2%80%94_Fraud_Detection_System-00897B?style=for-the-badge&logoColor=white" alt="KAVACH v1"/><br/>
-    <sub><b><font color="#FFFFFF">UPI fraud ML classifier · XGBoost + SHAP explainability · MLflow + Optuna</font></b></sub>
+    <b><font size="5">🔒 KAVACH v1 — FRAUD DETECTION SYSTEM</font></b><br/>
+    <sub><b><font size="3">UPI fraud ML classifier · XGBoost + SHAP explainability · MLflow + Optuna</font></b></sub>
   </td>
-  <td align="center">L5</td>
-  <td align="center">📋 Planned</td>
+  <td align="center"><b><font size="4">Layer 5</font></b></td>
+  <td align="center"><b><font size="4">📋 Planned</font></b></td>
 </tr>
 
 <tr>
-  <td align="center"><b>P10</b></td>
+  <td align="center"><b><font size="5">P10</font></b></td>
   <td>
-    <img src="https://img.shields.io/badge/KAVACH_v2_%E2%80%94_Enterprise_AI_Security-1976D2?style=for-the-badge&logoColor=white" alt="KAVACH v2"/><br/>
-    <sub><b><font color="#FFFFFF">4 ML models · CNN-LSTM · SageMaker · GenAI incident summary · K8s + Feast</font></b></sub>
+    <b><font size="5">🔒 KAVACH v2 — ENTERPRISE AI SECURITY</font></b><br/>
+    <sub><b><font size="3">4 ML models · CNN-LSTM · SageMaker · GenAI incident summary · K8s + Feast</font></b></sub>
   </td>
-  <td align="center">L5 → ∞</td>
-  <td align="center">🔄 Living</td>
+  <td align="center"><b><font size="4">Layer 5 → Layer 12 Upgrade</font></b></td>
+  <td align="center"><b><font size="4">🔄 Living</font></b></td>
 </tr>
 
 <tr>
-  <td align="center"><b>P11</b></td>
+  <td align="center"><b><font size="5">P11</font></b></td>
   <td>
-    <img src="https://img.shields.io/badge/DRISHTI_v1_%E2%80%94_Computer_Vision_Intelligence-303F9F?style=for-the-badge&logoColor=white" alt="DRISHTI v1"/><br/>
-    <sub><b><font color="#FFFFFF">EfficientNet + FaceNet + Grad-CAM + ONNX · Doctor-friendly AI with proof</font></b></sub>
+    <b><font size="5">👁️ DRISHTI v1 — COMPUTER VISION INTELLIGENCE</font></b><br/>
+    <sub><b><font size="3">EfficientNet + FaceNet + Grad-CAM + ONNX · Doctor-friendly AI with proof</font></b></sub>
   </td>
-  <td align="center">L7</td>
-  <td align="center">📋 Planned</td>
+  <td align="center"><b><font size="4">Layer 7</font></b></td>
+  <td align="center"><b><font size="4">📋 Planned</font></b></td>
 </tr>
 
 <tr>
-  <td align="center"><b>P12</b></td>
+  <td align="center"><b><font size="5">P12</font></b></td>
   <td>
-    <img src="https://img.shields.io/badge/DRISHTI_v2_%E2%80%94_Multi--Modal_Deep_Learning-512DA8?style=for-the-badge&logoColor=white" alt="DRISHTI v2"/><br/>
-    <sub><b><font color="#FFFFFF">4 DL architectures: Transformer + CNN-LSTM + Autoencoder + GNN ensembled</font></b></sub>
+    <b><font size="5">👁️ DRISHTI v2 — MULTI-MODAL DEEP LEARNING</font></b><br/>
+    <sub><b><font size="3">4 DL architectures: Transformer + CNN-LSTM + Autoencoder + GNN ensembled</font></b></sub>
   </td>
-  <td align="center">L7 → ∞</td>
-  <td align="center">🔄 Living</td>
+  <td align="center"><b><font size="4">Layer 7 → Layer 12 Upgrade</font></b></td>
+  <td align="center"><b><font size="4">🔄 Living</font></b></td>
 </tr>
 
 <tr>
-  <td align="center"><b>P13</b></td>
+  <td align="center"><b><font size="5">P13</font></b></td>
   <td>
-    <img src="https://img.shields.io/badge/NYAYA_%E2%80%94_India_Legal_Compliance_Agent-AD1457?style=for-the-badge&logoColor=white" alt="NYAYA"/><br/>
-    <sub><b><font color="#FFFFFF">RAG on RBI + SEBI + Companies Act 2013 · LangChain + Claude + Pinecone</font></b></sub>
+    <b><font size="5">⚖️ NYAYA — INDIA LEGAL COMPLIANCE AGENT</font></b><br/>
+    <sub><b><font size="3">RAG on RBI + SEBI + Companies Act 2013 · LangChain + Claude + Pinecone</font></b></sub>
   </td>
-  <td align="center">L8 → ∞</td>
-  <td align="center">🔄 Living</td>
+  <td align="center"><b><font size="4">Layer 8 → Layer 12 Upgrade</font></b></td>
+  <td align="center"><b><font size="4">🔄 Living</font></b></td>
 </tr>
 
 <tr>
-  <td align="center"><b>P14</b></td>
+  <td align="center"><b><font size="5">P14</font></b></td>
   <td>
-    <img src="https://img.shields.io/badge/RAKSHAK_%E2%80%94_Autonomous_SOC_Platform-EF6C00?style=for-the-badge&logoColor=white" alt="RAKSHAK"/><br/>
-    <sub><b><font color="#FFFFFF">5 LLM agents: Triage + Investigator + Threat Intel + Responder + Reporter</font></b></sub>
+    <b><font size="5">🚨 RAKSHAK — AUTONOMOUS SOC PLATFORM</font></b><br/>
+    <sub><b><font size="3">5 LLM agents: Triage + Investigator + Threat Intel + Responder + Reporter</font></b></sub>
   </td>
-  <td align="center">L8 → ∞</td>
-  <td align="center">🔄 Living</td>
+  <td align="center"><b><font size="4">Layer 8 → Layer 12 Upgrade</font></b></td>
+  <td align="center"><b><font size="4">🔄 Living</font></b></td>
 </tr>
 
 <tr>
-  <td align="center"><b>P15</b></td>
+  <td align="center"><b><font size="5">P15</font></b></td>
   <td>
-    <img src="https://img.shields.io/badge/PRAHARI_v1_%E2%80%94_ML_Production_Monitor-FBC02D?style=for-the-badge&logoColor=white" alt="PRAHARI v1"/><br/>
-    <sub><b><font color="#FFFFFF">MLflow + Evidently + Prometheus + Grafana · Auto-retrain on drift</font></b></sub>
+    <b><font size="5">📊 PRAHARI v1 — ML PRODUCTION MONITOR</font></b><br/>
+    <sub><b><font size="3">MLflow + Evidently + Prometheus + Grafana · Auto-retrain on drift</font></b></sub>
   </td>
-  <td align="center">L10</td>
-  <td align="center">📋 Planned</td>
+  <td align="center"><b><font size="4">Layer 10</font></b></td>
+  <td align="center"><b><font size="4">📋 Planned</font></b></td>
 </tr>
 
 <tr>
-  <td align="center"><b>P16</b></td>
+  <td align="center"><b><font size="5">P16</font></b></td>
   <td>
-    <img src="https://img.shields.io/badge/PRAHARI_v2_%E2%80%94_Cloud_Infrastructure_Platform-388E3C?style=for-the-badge&logoColor=white" alt="PRAHARI v2"/><br/>
-    <sub><b><font color="#FFFFFF">Multi-region K8s · ArgoCD GitOps · Istio mTLS · Chaos Engineering · Feast</font></b></sub>
+    <b><font size="5">📊 PRAHARI v2 — CLOUD INFRASTRUCTURE PLATFORM</font></b><br/>
+    <sub><b><font size="3">Multi-region K8s · ArgoCD GitOps · Istio mTLS · Chaos Engineering · Feast</font></b></sub>
   </td>
-  <td align="center">L10 → ∞</td>
-  <td align="center">🔄 Living</td>
+  <td align="center"><b><font size="4">Layer 10 → Layer 12 Upgrade</font></b></td>
+  <td align="center"><b><font size="4">🔄 Living</font></b></td>
 </tr>
 
 <tr>
-  <td align="center"><b>P17</b></td>
+  <td align="center"><b><font size="5">P17</font></b></td>
   <td>
-    <img src="https://img.shields.io/badge/SentinelAI_India_%E2%80%94_Unified_Command_Centre-006064?style=for-the-badge&logoColor=white" alt="SentinelAI India"/><br/>
-    <sub><b><font color="#FFFFFF">ALL 16 projects unified into ONE production platform — THE MASTERPIECE</font></b></sub>
+    <b><font size="5">🏆 SENTINELAI INDIA — UNIFIED COMMAND CENTRE</font></b><br/>
+    <sub><b><font size="3">ALL 16 projects unified into ONE production platform — THE MASTERPIECE</font></b></sub>
   </td>
-  <td align="center">L11</td>
-  <td align="center">📋 Planned</td>
+  <td align="center"><b><font size="4">Layer 11</font></b></td>
+  <td align="center"><b><font size="4">📋 Planned</font></b></td>
 </tr>
 
 <tr>
-  <td align="center"><b>P18</b></td>
+  <td align="center"><b><font size="5">P18</font></b></td>
   <td>
-    <img src="https://img.shields.io/badge/SentinelAI_India_OSS_%E2%80%94_Open_Source_Platform-0288D1?style=for-the-badge&logoColor=white" alt="SentinelAI India OSS"/><br/>
-    <sub><b><font color="#FFFFFF">Open Source launch · PyPI · Helm chart · Docusaurus docs · MIT License</font></b></sub>
+    <b><font size="5">🌐 SENTINELAI INDIA OSS — OPEN SOURCE PLATFORM</font></b><br/>
+    <sub><b><font size="3">Open Source launch · PyPI · Helm chart · Docusaurus docs · MIT License</font></b></sub>
   </td>
-  <td align="center">L11</td>
-  <td align="center">📋 Planned</td>
+  <td align="center"><b><font size="4">Layer 11</font></b></td>
+  <td align="center"><b><font size="4">📋 Planned</font></b></td>
 </tr>
 
 </table>
@@ -385,7 +428,7 @@
 
 # 🔗 ECOSYSTEM CONNECTIONS
 
-> **<font color="#FFFFFF">Every project feeds into others. By Step 610, all 20 projects form ONE unified platform.</font>**
+> **<font size="4">Every project feeds into others. By Step 610, all 20 projects form ONE unified platform.</font>**
 
 ```mermaid
 graph TB
@@ -454,7 +497,7 @@ GOAL   ►  Step 610 — 20 platforms deployed, job-ready engineer
 
 </div>
 
-> 🟢 **Daily Commits** — Every day of learning = one commit. Watch the green squares grow.
+> **<font size="4">🟢 Daily Commits — Every day of learning = one commit. Watch the green squares grow.</font>**
 
 ---
 
@@ -511,32 +554,32 @@ GOAL   ►  Step 610 — 20 platforms deployed, job-ready engineer
 
 ## 💡 BUILD PHILOSOPHY
 
-> **<font color="#FFFFFF">Small steps. One layer at a time. No rushing. No skipping foundations. Execution > hype.</font>**
+> **<font size="4">Small steps. One layer at a time. No rushing. No skipping foundations. Execution > hype.</font>**
 
 <table>
 <tr>
-  <td><b>🎯 Real Indian use cases</b></td>
-  <td><b><font color="#FFFFFF">UPI fraud, RBI compliance, NSE quant, ABDM health, DPDP Act — not US examples</font></b></td>
+  <td><b><font size="4">🎯 Real Indian use cases</font></b></td>
+  <td><b><font size="4">UPI fraud, RBI compliance, NSE quant, ABDM health, DPDP Act — not US examples</font></b></td>
 </tr>
 <tr>
-  <td><b>🔄 Living projects</b></td>
-  <td><b><font color="#FFFFFF">v1 → v2 → v3 → v4 — every project upgrades as new layers complete</font></b></td>
+  <td><b><font size="4">🔄 Living projects</font></b></td>
+  <td><b><font size="4">v1 → v2 → v3 → v4 — every project upgrades as new layers complete</font></b></td>
 </tr>
 <tr>
-  <td><b>🚀 Always deployed</b></td>
-  <td><b><font color="#FFFFFF">No localhost demos — every project goes live on Streamlit Cloud / AWS</font></b></td>
+  <td><b><font size="4">🚀 Always deployed</font></b></td>
+  <td><b><font size="4">No localhost demos — every project goes live on Streamlit Cloud / AWS</font></b></td>
 </tr>
 <tr>
-  <td><b>📦 Open source first</b></td>
-  <td><b><font color="#FFFFFF">PyPI · Helm · Docusaurus — anyone can <code>pip install sentinelai</code></font></b></td>
+  <td><b><font size="4">📦 Open source first</font></b></td>
+  <td><b><font size="4">PyPI · Helm · Docusaurus — anyone can <code>pip install sentinelai</code></font></b></td>
 </tr>
 <tr>
-  <td><b>🧪 5 Pytest minimum</b></td>
-  <td><b><font color="#FFFFFF">Every project ships with tests — no exceptions, no excuses</font></b></td>
+  <td><b><font size="4">🧪 5 Pytest minimum</font></b></td>
+  <td><b><font size="4">Every project ships with tests — no exceptions, no excuses</font></b></td>
 </tr>
 <tr>
-  <td><b>🎬 Demo video mandatory</b></td>
-  <td><b><font color="#FFFFFF">Recruiters watch demos, not READMEs. YouTube link in every repo</font></b></td>
+  <td><b><font size="4">🎬 Demo video mandatory</font></b></td>
+  <td><b><font size="4">Recruiters watch demos, not READMEs. YouTube link in every repo</font></b></td>
 </tr>
 </table>
 
