@@ -24,423 +24,196 @@
 
 ## ⚡ WHO AM I
 
-<table>
-<tr><td>🪪 &nbsp;<b><font size="4">name</font></b></td><td><b><font size="4">J. Dharun Vishnu</font></b></td></tr>
-<tr><td>🎓 &nbsp;<b><font size="4">degree</font></b></td><td><b><font size="4">BSc Information Technology (2023 – 2026)</font></b></td></tr>
-<tr><td>🛤️ &nbsp;<b><font size="4">track</font></b></td><td><b><font size="4">AI/ML Engineer → Cloud Engineer → Cybersecurity Engineer</font></b></td></tr>
-<tr><td>📍 &nbsp;<b><font size="4">location</font></b></td><td><b><font size="4">India 🇮🇳</font></b></td></tr>
-<tr><td>🎯 &nbsp;<b><font size="4">mission</font></b></td><td><b><font size="4">Build AI systems that protect India's digital infrastructure</font></b></td></tr>
-<tr><td>🗺️ &nbsp;<b><font size="4">roadmap</font></b></td><td><b><font size="4">8 Coursera Courses · 12 Layers · 610 Steps · 3 AWS Certifications · 20 Projects</font></b></td></tr>
-<tr><td>⚡ &nbsp;<b><font size="4">currently</font></b></td><td><b><font size="4">Layer 1 — Python + Streamlit + FastAPI + GitHub Actions</font></b></td></tr>
-<tr><td>👑 &nbsp;<b><font size="4">flagships</font></b></td><td><b><font size="4">CloudShield AI (KING) + AutoPilot ML (QUEEN) — grow with every layer</font></b></td></tr>
-<tr><td>🏆 &nbsp;<b><font size="4">target 2027</font></b></td><td><b><font size="4">Production AI + Cloud + Cybersecurity deployment</font></b></td></tr>
-</table>
+| | |
+|---|---|
+| 🪪 **Name** | **J. Dharun Vishnu** |
+| 🎓 **Degree** | **BSc Information Technology (2023 – 2026)** |
+| 🛤️ **Track** | **AI/ML Engineer → Cloud Engineer → Cybersecurity Engineer** |
+| 📍 **Location** | **India 🇮🇳** |
+| 🎯 **Mission** | **Build AI systems that protect India's digital infrastructure** |
+| 🗺️ **Roadmap** | **8 Coursera Courses · 12 Layers · 610 Steps · 3 AWS Certifications · 20 Projects** |
+| ⚡ **Currently** | **Layer 1 — Python + OOP + Streamlit + FastAPI + GitHub Actions** |
+| 👑 **Flagships** | **CloudShield AI (KING) + AutoPilot ML (QUEEN) — grow with every layer** |
+| 🏆 **Target 2027** | **Production AI + Cloud + Cybersecurity deployment** |
 
-> **<font size="4">I'm not following a bootcamp. I'm executing a 610-step engineering roadmap — building 20 production-grade AI + security projects from scratch before I graduate.</font>**
+> **I'm not following a bootcamp. I'm executing a 610-step engineering roadmap — building 20 production-grade AI + security projects from scratch before I graduate.**
 >
-> **<font size="4">Every project that has a v2 is a living project — it starts simple and upgrades automatically as each new layer (SQL → ML → DL → GenAI → AWS → MLOps) is completed. One codebase. Growing smarter with every layer.</font>**
+> **Every project with a v2 is a living project — it starts simple and upgrades automatically as each new layer completes. One codebase. Growing smarter with every layer.**
 
 ---
 
-# 🗺️ THE PLAN — 8 Coursera Courses · 12 Layers · 610 Steps · 20 Projects · 3 AWS Certifications
+## 🚦 CURRENT STATUS — Day 22 of 610
 
-<table>
-<tr><th width="12%">Layer</th><th width="16%">Steps</th><th width="54%">Course</th><th width="18%">Status</th></tr>
+```
+ACTIVE  ►  Layer 1 — Python Foundations
+           Learning: Python · OOP · APIs · Git/GitHub · Streamlit · Pytest
 
-<tr>
-  <td align="center">🔵 &nbsp;<b><font size="4">Layer 1</font></b></td>
-  <td align="center"><b><font size="4">Step 1 – 85</font></b></td>
-  <td>
-    <b><font size="6">🐍 PYTHON FOR EVERYBODY</font></b><br/>
-    <b><font size="4">University of Michigan · Python Programming · OOP · Git · GitHub · Streamlit · pytest</font></b>
-  </td>
-  <td align="center"><b><font size="4">📋 Planned</font></b></td>
-</tr>
+NEXT    ►  P1: AAROGYA v1 (First Project — Healthcare Analytics)
+           Goal: Streamlit app · CI/CD · 5 Pytest tests · deployed live
 
-<tr>
-  <td align="center">🟠 &nbsp;<b><font size="4">Layer 2</font></b></td>
-  <td align="center"><b><font size="4">Step 86 – 140</font></b></td>
-  <td>
-    <b><font size="6">🔶 DSA SPECIALIZATION</font></b><br/>
-    <b><font size="4">UC San Diego · Data Structures & Algorithms · LeetCode · NetworkX · Docker</font></b>
-  </td>
-  <td align="center"><b><font size="4">📋 Planned</font></b></td>
-</tr>
+GOAL    ►  Step 610 — 20 platforms deployed, job-ready engineer
+```
 
-<tr>
-  <td align="center">🟡 &nbsp;<b><font size="4">Layer 3</font></b></td>
-  <td align="center"><b><font size="4">Step 141 – 180</font></b></td>
-  <td>
-    <b><font size="6">🗄️ SQL FOR DATA SCIENCE</font></b><br/>
-    <b><font size="4">UC Davis · PostgreSQL · SQLAlchemy · Alembic · Window Functions</font></b>
-  </td>
-  <td align="center"><b><font size="4">📋 Planned</font></b></td>
-</tr>
+<div align="center">
 
-<tr>
-  <td align="center">🟢 &nbsp;<b><font size="4">Layer 4+5</font></b></td>
-  <td align="center"><b><font size="4">Step 181 – 250</font></b></td>
-  <td>
-    <b><font size="6">📐 MATHEMATICS FOR ML</font></b><br/>
-    <b><font size="4">DeepLearning.AI · NumPy · PyMC · SciPy · Bayesian Inference</font></b>
-  </td>
-  <td align="center"><b><font size="4">📋 Planned</font></b></td>
-</tr>
+### 📊 Progress Tracker
 
-<tr>
-  <td align="center">🟣 &nbsp;<b><font size="4">Layer 6</font></b></td>
-  <td align="center"><b><font size="4">Step 251 – 325</font></b></td>
-  <td>
-    <b><font size="6">🤖 ML SPECIALIZATION</font></b><br/>
-    <b><font size="4">Andrew Ng / DeepLearning.AI · sklearn · XGBoost · SHAP · MLflow · Optuna</font></b>
-  </td>
-  <td align="center"><b><font size="4">📋 Planned</font></b></td>
-</tr>
+![Progress](https://progress-bar.dev/22/?scale=610&width=500&color=00CED1&suffix=%20%2F%20610%20steps)
 
-<tr>
-  <td align="center">🩵 &nbsp;<b><font size="4">Layer 7</font></b></td>
-  <td align="center"><b><font size="4">Step 326 – 340</font></b></td>
-  <td>
-    <b><font size="6">☁️ AWS CLOUD PRACTITIONER</font></b><br/>
-    <b><font size="4">AWS · FastAPI · Docker · API + Tools + AWS Cloud Practitioner</font></b>
-  </td>
-  <td align="center"><b><font size="4">📋 Planned</font></b></td>
-</tr>
+**`Step 22 / 610 — Layer 1 in progress 🔵`**
 
-<tr>
-  <td align="center">🔴 &nbsp;<b><font size="4">Layer 8</font></b></td>
-  <td align="center"><b><font size="4">Step 341 – 420</font></b></td>
-  <td>
-    <b><font size="6">🧠 DEEP LEARNING SPECIALIZATION</font></b><br/>
-    <b><font size="4">Andrew Ng / DeepLearning.AI · PyTorch · EfficientNet · Transformers · ONNX</font></b>
-  </td>
-  <td align="center"><b><font size="4">📋 Planned</font></b></td>
-</tr>
+</div>
 
-<tr>
-  <td align="center">🔷 &nbsp;<b><font size="4">Layer 9+10</font></b></td>
-  <td align="center"><b><font size="4">Step 421 – 510</font></b></td>
-  <td>
-    <b><font size="6">💬 GENAI WITH LLMS</font></b><br/>
-    <b><font size="4">DeepLearning.AI + AWS · LangChain · RAG · CrewAI · LangGraph</font></b>
-  </td>
-  <td align="center"><b><font size="4">📋 Planned</font></b></td>
-</tr>
-
-<tr>
-  <td align="center">🟩 &nbsp;<b><font size="4">Layer 11</font></b></td>
-  <td align="center"><b><font size="4">Step 511 – 590</font></b></td>
-  <td>
-    <b><font size="6">⚙️ ML ENGINEERING FOR PRODUCTION</font></b><br/>
-    <b><font size="4">DeepLearning.AI · MLflow · K8s · ArgoCD · Istio · Terraform</font></b>
-  </td>
-  <td align="center"><b><font size="4">📋 Planned</font></b></td>
-</tr>
-
-<tr>
-  <td align="center">🟥 &nbsp;<b><font size="4">Layer 12</font></b></td>
-  <td align="center"><b><font size="4">Step 591 – 610</font></b></td>
-  <td>
-    <b><font size="6">🏆 FINAL POLISH + OSS</font></b><br/>
-    <b><font size="4">Final Polish · Open Source · AWS ML Specialty · Job Ready</font></b>
-  </td>
-  <td align="center"><b><font size="4">📋 Planned</font></b></td>
-</tr>
-
-</table>
+> 🟢 **Daily Commits — Every day of learning = one commit. Watch the green squares grow.**
 
 ---
 
-### ☁️ AWS Certifications
+## 🛠️ BUILD PHILOSOPHY
 
-<table>
-<tr><th width="14%">Layer</th><th width="68%">Certification</th><th width="18%">Status</th></tr>
-
-<tr>
-  <td align="center">🟠 &nbsp;<b><font size="4">Layer 7</font></b></td>
-  <td><b><font size="5">☁️ AWS CERTIFIED CLOUD PRACTITIONER</font></b></td>
-  <td align="center"><b><font size="4">📋 Planned</font></b></td>
-</tr>
-
-<tr>
-  <td align="center">🔵 &nbsp;<b><font size="4">Layer 11</font></b></td>
-  <td><b><font size="5">🏗️ AWS CERTIFIED SOLUTIONS ARCHITECT ASSOCIATE</font></b></td>
-  <td align="center"><b><font size="4">📋 Planned</font></b></td>
-</tr>
-
-<tr>
-  <td align="center">🟣 &nbsp;<b><font size="4">Layer 12</font></b></td>
-  <td><b><font size="5">🤖 AWS CERTIFIED ML SPECIALTY</font></b></td>
-  <td align="center"><b><font size="4">📋 Planned</font></b></td>
-</tr>
-
-</table>
-
-> **<font size="4">🔄 Status updates as certificates are earned: 📋 Planned → 🎯 Earning → ✅ Certified</font>**
+| Principle | How |
+|---|---|
+| 🎯 **Real Indian use cases** | UPI fraud · RBI compliance · NSE quant · ABDM health · DPDP Act — not US examples |
+| 🔄 **Living projects** | v1 → v2 → v3 → v4 — every project upgrades as new layers complete |
+| 🚀 **Always deployed** | No localhost demos — every project goes live on Streamlit Cloud / AWS |
+| 📦 **Open source first** | PyPI · Helm · Docusaurus — anyone can `pip install sentinelai` |
+| 🧪 **5 Pytest minimum** | Every project ships with tests — no exceptions, no excuses |
+| 🎬 **Demo video mandatory** | Recruiters watch demos, not READMEs. YouTube link in every repo |
 
 ---
 
-# 👑 THE FLAGSHIPS — 2 KING-QUEEN PROJECTS
+# 🗺️ THE PLAN — 8 Courses · 12 Layers · 610 Steps · 20 Projects · 3 AWS Certs
 
-> **<font size="4">Two enterprise-grade projects that grow with every single layer. By Step 610, these will be world-class showcases built from scratch.</font>**
+<details>
+<summary><b>📋 Click to expand full Layer Roadmap</b></summary>
 
 <br/>
 
-# 👑 KING PROJECT — CloudShield AI
+| Layer | Steps | Course | Status |
+|:---:|:---:|---|:---:|
+| 🔵 **Layer 1** | Step 1–85 | **🐍 PYTHON FOR EVERYBODY**<br/>University of Michigan · Python · OOP · Git · GitHub · Streamlit · pytest | 🚧 **In Progress** |
+| 🟠 **Layer 2** | Step 86–140 | **🔶 DSA SPECIALIZATION**<br/>UC San Diego · Data Structures & Algorithms · LeetCode · NetworkX · Docker | 📋 Planned |
+| 🟡 **Layer 3** | Step 141–180 | **🗄️ SQL FOR DATA SCIENCE**<br/>UC Davis · PostgreSQL · SQLAlchemy · Alembic · Window Functions | 📋 Planned |
+| 🟢 **Layer 4+5** | Step 181–250 | **📐 MATHEMATICS FOR ML**<br/>DeepLearning.AI · NumPy · PyMC · SciPy · Bayesian Inference | 📋 Planned |
+| 🟣 **Layer 6** | Step 251–325 | **🤖 ML SPECIALIZATION**<br/>Andrew Ng / DeepLearning.AI · sklearn · XGBoost · SHAP · MLflow · Optuna | 📋 Planned |
+| 🩵 **Layer 7** | Step 326–340 | **☁️ AWS CLOUD PRACTITIONER**<br/>AWS · FastAPI · Docker · API Gateway | 📋 Planned |
+| 🔴 **Layer 8** | Step 341–420 | **🧠 DEEP LEARNING SPECIALIZATION**<br/>Andrew Ng / DeepLearning.AI · PyTorch · EfficientNet · Transformers · ONNX | 📋 Planned |
+| 🔷 **Layer 9+10** | Step 421–510 | **💬 GENAI WITH LLMs**<br/>DeepLearning.AI + AWS · LangChain · RAG · CrewAI · LangGraph | 📋 Planned |
+| 🟩 **Layer 11** | Step 511–590 | **⚙️ ML ENGINEERING FOR PRODUCTION**<br/>DeepLearning.AI · MLflow · K8s · ArgoCD · Istio · Terraform | 📋 Planned |
+| 🟥 **Layer 12** | Step 591–610 | **🏆 FINAL POLISH + OSS**<br/>Open Source · AWS ML Specialty · Job Ready | 📋 Planned |
 
-### 🛡️ AI-Powered Cloud Security Posture Management (CSPM) Platform
+</details>
 
-> **<font size="4">AWS infrastructure auto-scanner with LLM-driven Terraform remediation.</font>**
+<details>
+<summary><b>☁️ Click to expand AWS Certification Roadmap</b></summary>
 
-### 📈 Layer-by-Layer Upgrade Journey
+<br/>
 
-<table>
-<tr><th>Version</th><th>After Layer</th><th>What's Added</th><th>Skill Proof</th></tr>
-<tr><td align="center"><b><font size="4">v1.0</font></b></td><td align="center"><b><font size="4">Layer 1 — Python</font></b></td><td><b><font size="4">CLI tool: mocked AWS JSON scan → Streamlit report · OOP classes · pytest · GitHub Actions CI</font></b></td><td align="center"><b><font size="4">Python OOP</font></b></td></tr>
-<tr><td align="center"><b><font size="4">v1.1</font></b></td><td align="center"><b><font size="4">Layer 2 — DSA</font></b></td><td><b><font size="4">Trie (IAM wildcard parsing) + Graph (lateral movement) · BFS/DFS attack path · NetworkX visualisation</font></b></td><td align="center"><b><font size="4">Data Structures + Algorithms</font></b></td></tr>
-<tr><td align="center"><b><font size="4">v1.2</font></b></td><td align="center"><b><font size="4">Layer 3 — SQL</font></b></td><td><b><font size="4">PostgreSQL scan history · Window functions (trends) · SQLAlchemy ORM · Alembic migrations</font></b></td><td align="center"><b><font size="4">SQL Mastery</font></b></td></tr>
-<tr><td align="center"><b><font size="4">v1.3</font></b></td><td align="center"><b><font size="4">Layer 4+5 — Maths</font></b></td><td><b><font size="4">CVSS Matrix risk scoring · linear algebra from scratch · NumPy · SciPy · Bayesian risk inference (PyMC)</font></b></td><td align="center"><b><font size="4">Math + Probability Foundation</font></b></td></tr>
-<tr><td align="center"><b><font size="4">v1.4</font></b></td><td align="center"><b><font size="4">Layer 6 — ML</font></b></td><td><b><font size="4">Isolation Forest → CloudTrail anomaly detection · XGBoost threat classifier · SHAP explainability · MLflow tracking · Optuna tuning</font></b></td><td align="center"><b><font size="4">ML Production (sklearn + XGBoost)</font></b></td></tr>
-<tr><td align="center"><b><font size="4">v1.5</font></b></td><td align="center"><b><font size="4">Layer 7 — AWS Cloud</font></b></td><td><b><font size="4">Deploy scanner on AWS Lambda + API Gateway · FastAPI backend · Docker container · AWS Cloud Practitioner skills applied</font></b></td><td align="center"><b><font size="4">AWS + FastAPI + Docker</font></b></td></tr>
-<tr><td align="center"><b><font size="4">v1.6</font></b></td><td align="center"><b><font size="4">Layer 8 — Deep Learning</font></b></td><td><b><font size="4">Autoencoder (PyTorch) → network traffic zero-day detection · EfficientNet anomaly · ONNX export for edge</font></b></td><td align="center"><b><font size="4">Deep Learning (PyTorch + ONNX)</font></b></td></tr>
-<tr><td align="center"><b><font size="4">v1.7</font></b></td><td align="center"><b><font size="4">Layer 9+10 — GenAI</font></b></td><td><b><font size="4">LLM Agent (LangChain + RAG) → auto Terraform fix · CrewAI multi-agent remediation · LangGraph workflow</font></b></td><td align="center"><b><font size="4">Agentic AI (LangChain + CrewAI)</font></b></td></tr>
-<tr><td align="center"><b><font size="4">v1.8</font></b></td><td align="center"><b><font size="4">Layer 11 — MLOps</font></b></td><td><b><font size="4">AWS EKS + Helm Chart · ArgoCD GitOps · Istio mTLS · Terraform IaC · MLflow model registry · PyPI package publish</font></b></td><td align="center"><b><font size="4">ML Engineering for Production</font></b></td></tr>
-<tr><td align="center"><b><font size="4">v1.9</font></b></td><td align="center"><b><font size="4">Layer 12 — Final Polish</font></b></td><td><b><font size="4">🏆 Enterprise-grade open-source CSPM platform · AWS ML Specialty applied · Full OSS release on PyPI</font></b></td><td align="center"><b><font size="4">Step 610 — Job Ready</font></b></td></tr>
-</table>
+| Layer | Certification | Status |
+|:---:|---|:---:|
+| 🟠 **Layer 7** | ☁️ AWS Certified Cloud Practitioner | 📋 Planned |
+| 🔵 **Layer 11** | 🏗️ AWS Certified Solutions Architect Associate | 📋 Planned |
+| 🟣 **Layer 12** | 🤖 AWS Certified ML Specialty | 📋 Planned |
 
----
+> 🔄 Status updates as certificates are earned: `📋 Planned → 🎯 Earning → ✅ Certified`
 
-# 👑 QUEEN PROJECT — AutoPilot ML
-
-### 🤖 Self-Healing Level-4 MLOps Platform
-
-> **<font size="4">Auto train · evaluate · deploy · monitor · drift detect · retrain · redeploy — zero human intervention.</font>**
-
-### 📈 Layer-by-Layer Upgrade Journey
-
-<table>
-<tr><th>Version</th><th>After Layer</th><th>What's Added</th><th>Skill Proof</th></tr>
-<tr><td align="center"><b><font size="4">v1.0</font></b></td><td align="center"><b><font size="4">Layer 1 — Python</font></b></td><td><b><font size="4">CSV read + model metrics auto-log · OOP pipeline class · Streamlit dashboard · pytest coverage</font></b></td><td align="center"><b><font size="4">Python OOP</font></b></td></tr>
-<tr><td align="center"><b><font size="4">v1.1</font></b></td><td align="center"><b><font size="4">Layer 2 — DSA</font></b></td><td><b><font size="4">Min-Heap model ranker (latency + accuracy score) · LRU cache for predictions · NetworkX pipeline graph</font></b></td><td align="center"><b><font size="4">Data Structures + Algorithms</font></b></td></tr>
-<tr><td align="center"><b><font size="4">v1.2</font></b></td><td align="center"><b><font size="4">Layer 3 — SQL</font></b></td><td><b><font size="4">PostgreSQL model registry + hyperparameter history · SQLAlchemy ORM · Alembic schema migration · Window functions for drift trends</font></b></td><td align="center"><b><font size="4">SQL Mastery</font></b></td></tr>
-<tr><td align="center"><b><font size="4">v1.3</font></b></td><td align="center"><b><font size="4">Layer 4+5 — Maths</font></b></td><td><b><font size="4">KS Test + PSI drift detection from scratch · NumPy stats · SciPy distributions · Bayesian uncertainty (PyMC)</font></b></td><td align="center"><b><font size="4">Math + Probability Foundation</font></b></td></tr>
-<tr><td align="center"><b><font size="4">v1.4</font></b></td><td align="center"><b><font size="4">Layer 6 — ML</font></b></td><td><b><font size="4">Auto hyperparameter optimizer (Optuna) · XGBoost + SHAP model ranking · sklearn pipeline · MLflow experiment tracking</font></b></td><td align="center"><b><font size="4">ML Production (sklearn + Optuna)</font></b></td></tr>
-<tr><td align="center"><b><font size="4">v1.5</font></b></td><td align="center"><b><font size="4">Layer 7 — AWS Cloud</font></b></td><td><b><font size="4">FastAPI model serving on AWS Lambda · Docker containerisation · API Gateway · SageMaker endpoint integration</font></b></td><td align="center"><b><font size="4">AWS + FastAPI + Docker</font></b></td></tr>
-<tr><td align="center"><b><font size="4">v1.6</font></b></td><td align="center"><b><font size="4">Layer 8 — Deep Learning</font></b></td><td><b><font size="4">Knowledge Distillation pipeline (large → small model) · PyTorch training loop · EfficientNet transfer learning · ONNX export</font></b></td><td align="center"><b><font size="4">Deep Learning (PyTorch + ONNX)</font></b></td></tr>
-<tr><td align="center"><b><font size="4">v1.7</font></b></td><td align="center"><b><font size="4">Layer 9+10 — GenAI</font></b></td><td><b><font size="4">LLM MLOps Copilot → drift interpret + auto-trigger retraining · LangChain RAG on model docs · CrewAI · LangGraph workflow</font></b></td><td align="center"><b><font size="4">Agentic AI (LangChain + CrewAI)</font></b></td></tr>
-<tr><td align="center"><b><font size="4">v1.8</font></b></td><td align="center"><b><font size="4">Layer 11 — MLOps</font></b></td><td><b><font size="4">MLflow + SageMaker · canary rollout + auto rollback · ArgoCD GitOps · Istio mTLS · K8s Helm · Terraform IaC</font></b></td><td align="center"><b><font size="4">ML Engineering for Production</font></b></td></tr>
-<tr><td align="center"><b><font size="4">v1.9</font></b></td><td align="center"><b><font size="4">Layer 12 — Final Polish</font></b></td><td><b><font size="4">🏆 Level-4 autonomous self-healing ML platform · AWS ML Specialty applied · Full OSS release on PyPI</font></b></td><td align="center"><b><font size="4">Step 610 — Job Ready</font></b></td></tr>
-</table>
+</details>
 
 ---
+
+# 👑 THE FLAGSHIPS — KING + QUEEN
+
+> Two projects that grow with every single layer. By Step 610, these will be production-grade showcases built from scratch — layer by layer, skill by skill.
+
+<details>
+<summary><b>👑 KING — CloudShield AI (AI-Powered Cloud Security CSPM Platform)</b></summary>
+
+<br/>
+
+> AWS infrastructure auto-scanner with LLM-driven Terraform remediation.
+
+| Version | After Layer | What's Added | Skill Proof | Status |
+|:---:|:---:|---|:---:|:---:|
+| **v1.0** | Layer 1 — Python | CLI tool: mocked AWS JSON scan → Streamlit report · OOP classes · pytest · GitHub Actions CI | Python OOP | 🚧 Building |
+| **v1.1** | Layer 2 — DSA | Trie (IAM wildcard parsing) + Graph (lateral movement) · BFS/DFS attack path · NetworkX | DSA | 📋 Planned |
+| **v1.2** | Layer 3 — SQL | PostgreSQL scan history · Window functions · SQLAlchemy ORM · Alembic migrations | SQL | 📋 Planned |
+| **v1.3** | Layer 4+5 — Maths | CVSS Matrix risk scoring · NumPy · SciPy · Bayesian risk inference (PyMC) | Math + Probability | 📋 Planned |
+| **v1.4** | Layer 6 — ML | Isolation Forest → CloudTrail anomaly · XGBoost threat classifier · SHAP · MLflow · Optuna | ML Production | 📋 Planned |
+| **v1.5** | Layer 7 — AWS | AWS Lambda + API Gateway · FastAPI backend · Docker · Cloud Practitioner applied | AWS + Docker | 📋 Planned |
+| **v1.6** | Layer 8 — DL | Autoencoder (PyTorch) → zero-day detection · EfficientNet · ONNX export | Deep Learning | 📋 Planned |
+| **v1.7** | Layer 9+10 — GenAI | LLM Agent → auto Terraform fix · CrewAI multi-agent remediation · LangGraph | Agentic AI | 📋 Planned |
+| **v1.8** | Layer 11 — MLOps | AWS EKS + Helm · ArgoCD GitOps · Istio mTLS · Terraform IaC · MLflow registry | ML Engineering | 📋 Planned |
+| **v1.9** | Layer 12 — Final | 🏆 Enterprise-grade open-source CSPM platform · Full OSS release on PyPI | Step 610 | 📋 Planned |
+
+</details>
+
+<details>
+<summary><b>👑 QUEEN — AutoPilot ML (Self-Healing Level-4 MLOps Platform)</b></summary>
+
+<br/>
+
+> Auto train · evaluate · deploy · monitor · drift detect · retrain · redeploy — designed to reach zero human intervention by Layer 12.
+
+| Version | After Layer | What's Added | Skill Proof | Status |
+|:---:|:---:|---|:---:|:---:|
+| **v1.0** | Layer 1 — Python | CSV read + model metrics auto-log · OOP pipeline class · Streamlit dashboard · pytest | Python OOP | 🚧 Building |
+| **v1.1** | Layer 2 — DSA | Min-Heap model ranker · LRU cache for predictions · NetworkX pipeline graph | DSA | 📋 Planned |
+| **v1.2** | Layer 3 — SQL | PostgreSQL model registry + hyperparameter history · SQLAlchemy · Alembic · Window functions | SQL | 📋 Planned |
+| **v1.3** | Layer 4+5 — Maths | KS Test + PSI drift detection from scratch · NumPy · SciPy · Bayesian uncertainty (PyMC) | Math + Probability | 📋 Planned |
+| **v1.4** | Layer 6 — ML | Auto hyperparameter optimizer (Optuna) · XGBoost + SHAP · sklearn pipeline · MLflow | ML Production | 📋 Planned |
+| **v1.5** | Layer 7 — AWS | FastAPI model serving on AWS Lambda · Docker · API Gateway · SageMaker endpoint | AWS + Docker | 📋 Planned |
+| **v1.6** | Layer 8 — DL | Knowledge Distillation pipeline · PyTorch training loop · EfficientNet · ONNX export | Deep Learning | 📋 Planned |
+| **v1.7** | Layer 9+10 — GenAI | LLM MLOps Copilot → drift interpret + auto-retrain · LangChain RAG · CrewAI · LangGraph | Agentic AI | 📋 Planned |
+| **v1.8** | Layer 11 — MLOps | MLflow + SageMaker · canary rollout + auto rollback · ArgoCD · Istio · K8s Helm · Terraform | ML Engineering | 📋 Planned |
+| **v1.9** | Layer 12 — Final | 🏆 Level-4 autonomous self-healing ML platform · Full OSS release on PyPI | Step 610 | 📋 Planned |
+
+</details>
 
 ### 🔥 The Golden Rule
 
-> **<font size="4">90% effort → 18 ecosystem projects (the foundation)</font>**
-> **<font size="4">10% effort → KING + QUEEN flagships (the showcase)</font>**
-> **<font size="4">Reuse ecosystem code in flagships. Never rewrite. Same skill — bigger impact.</font>**
+> **90% effort → 18 ecosystem projects (the foundation)**
+> **10% effort → KING + QUEEN flagships (the showcase)**
+> **Reuse ecosystem code in flagships. Never rewrite. Same skill — bigger impact.**
 
 ---
 
 # 🏗️ THE ECOSYSTEM — 18 LIVING PROJECTS
 
-> **<font size="4">Every project is part of one unified AI + Cybersecurity command centre — SentinelAI India.</font>**
-> **<font size="4">None of these are tutorial clones. All connected. All upgraded layer-by-layer.</font>**
->
-> **<font size="4">v1 projects = built in the assigned layer · v2 projects = 🔄 living projects that upgrade automatically as each new layer is completed.</font>**
+> Every project is part of one unified AI + Cybersecurity command centre — **SentinelAI India.**
+> None of these are tutorial clones. All connected. All upgraded layer-by-layer.
+
+<details>
+<summary><b>📋 Click to expand all 18 projects</b></summary>
 
 <br/>
 
-<table>
-<tr><th width="6%">#</th><th width="58%">Project</th><th width="22%">Layer</th><th width="14%">Status</th></tr>
+| # | Project | Layer | Status |
+|:---:|---|:---:|:---:|
+| **P1** | **🩺 AAROGYA v1 — INDIA HEALTH ANALYTICS**<br/>Apollo + AIIMS-style health analytics · Live deployed Streamlit app | Layer 1 | 🚧 Building |
+| **P2** | **🩺 AAROGYA v2 — AI HEALTH ASSISTANT**<br/>PostgreSQL · FastAPI + ML · AWS · K8s — full Python mastery + CI/CD | L1 → L12 | 🔄 Living |
+| **P3** | **🛡️ SURAKSHA v1 — NETWORK SECURITY MONITOR**<br/>BFS + DFS + Dijkstra on corporate attack paths · NetworkX | Layer 2 | 📋 Planned |
+| **P4** | **🛡️ SURAKSHA v2 — THREAT INTELLIGENCE PIPELINE**<br/>Trie + Heap + HashMap + Graph · PostgreSQL · ML · AWS GuardDuty · K8s | L2 → L12 | 🔄 Living |
+| **P5** | **💰 ARTHIK v1 — FINANCIAL DATABASE ENGINE**<br/>UPI / Zomato / Swiggy-style SQL analytics · Window functions · CTEs | Layer 3 | 📋 Planned |
+| **P6** | **💰 ARTHIK v2 — REAL-TIME FINANCIAL PLATFORM**<br/>Apache Kafka · Redis · ML fraud detection · RBI compliance · AWS RDS | L3 → L12 | 🔄 Living |
+| **P7** | **📈 NIVESH v1 — QUANTITATIVE FINANCE ENGINE**<br/>NSE portfolio · Markowitz · PCA from scratch · Pure NumPy mathematics | Layer 4 | 📋 Planned |
+| **P8** | **📈 NIVESH v2 — BAYESIAN RISK PLATFORM**<br/>XGBoost + SHAP · LSTM · AWS SageMaker · MLflow drift | L4 → L12 | 🔄 Living |
+| **P9** | **🔒 KAVACH v1 — FRAUD DETECTION SYSTEM**<br/>UPI fraud ML classifier · XGBoost + SHAP explainability · MLflow + Optuna | Layer 5 | 📋 Planned |
+| **P10** | **🔒 KAVACH v2 — ENTERPRISE AI SECURITY**<br/>4 ML models · CNN-LSTM · SageMaker · GenAI incident summary · K8s + Feast | L5 → L12 | 🔄 Living |
+| **P11** | **👁️ DRISHTI v1 — COMPUTER VISION INTELLIGENCE**<br/>EfficientNet + FaceNet + Grad-CAM + ONNX · Doctor-friendly AI with proof | Layer 7 | 📋 Planned |
+| **P12** | **👁️ DRISHTI v2 — MULTI-MODAL DEEP LEARNING**<br/>4 DL architectures: Transformer + CNN-LSTM + Autoencoder + GNN ensembled | L7 → L12 | 🔄 Living |
+| **P13** | **⚖️ NYAYA — INDIA LEGAL COMPLIANCE AGENT**<br/>RAG on RBI + SEBI + Companies Act 2013 · LangChain + Claude + Pinecone | L8 → L12 | 🔄 Living |
+| **P14** | **🚨 RAKSHAK — AUTONOMOUS SOC PLATFORM**<br/>5 LLM agents: Triage + Investigator + Threat Intel + Responder + Reporter | L8 → L12 | 🔄 Living |
+| **P15** | **📊 PRAHARI v1 — ML PRODUCTION MONITOR**<br/>MLflow + Evidently + Prometheus + Grafana · Auto-retrain on drift | Layer 10 | 📋 Planned |
+| **P16** | **📊 PRAHARI v2 — CLOUD INFRASTRUCTURE PLATFORM**<br/>Multi-region K8s · ArgoCD GitOps · Istio mTLS · Chaos Engineering · Feast | L10 → L12 | 🔄 Living |
+| **P17** | **🏆 SENTINELAI INDIA — UNIFIED COMMAND CENTRE**<br/>ALL 16 projects unified into ONE production platform — THE MASTERPIECE | Layer 11 | 📋 Planned |
+| **P18** | **🌐 SENTINELAI INDIA OSS — OPEN SOURCE PLATFORM**<br/>Open Source launch · PyPI · Helm chart · Docusaurus docs · MIT License | Layer 11 | 📋 Planned |
 
-<tr>
-  <td align="center"><b><font size="6">P1</font></b></td>
-  <td>
-    <b><font size="6">🩺 AAROGYA v1 — INDIA HEALTH ANALYTICS</font></b><br/>
-    <b><font size="4">Apollo + AIIMS-style health analytics · Live deployed Streamlit app</font></b>
-  </td>
-  <td align="center"><b><font size="4">Layer 1</font></b></td>
-  <td align="center"><b><font size="4">📋 Planned</font></b></td>
-</tr>
-
-<tr>
-  <td align="center"><b><font size="6">P2</font></b></td>
-  <td>
-    <b><font size="6">🩺 AAROGYA v2 — AI HEALTH ASSISTANT</font></b><br/>
-    <b><font size="4">PostgreSQL · FastAPI + ML · AWS · K8s — full Python mastery + CI/CD</font></b>
-  </td>
-  <td align="center"><b><font size="4">Starts Layer 1 · Upgrades till Layer 12</font></b></td>
-  <td align="center"><b><font size="4">🔄 Living</font></b></td>
-</tr>
-
-<tr>
-  <td align="center"><b><font size="6">P3</font></b></td>
-  <td>
-    <b><font size="6">🛡️ SURAKSHA v1 — NETWORK SECURITY MONITOR</font></b><br/>
-    <b><font size="4">BFS + DFS + Dijkstra on corporate attack paths · NetworkX</font></b>
-  </td>
-  <td align="center"><b><font size="4">Layer 2</font></b></td>
-  <td align="center"><b><font size="4">📋 Planned</font></b></td>
-</tr>
-
-<tr>
-  <td align="center"><b><font size="6">P4</font></b></td>
-  <td>
-    <b><font size="6">🛡️ SURAKSHA v2 — THREAT INTELLIGENCE PIPELINE</font></b><br/>
-    <b><font size="4">Trie + Heap + HashMap + Graph · PostgreSQL · ML · AWS GuardDuty · K8s</font></b>
-  </td>
-  <td align="center"><b><font size="4">Starts Layer 2 · Upgrades till Layer 12</font></b></td>
-  <td align="center"><b><font size="4">🔄 Living</font></b></td>
-</tr>
-
-<tr>
-  <td align="center"><b><font size="6">P5</font></b></td>
-  <td>
-    <b><font size="6">💰 ARTHIK v1 — FINANCIAL DATABASE ENGINE</font></b><br/>
-    <b><font size="4">UPI / Zomato / Swiggy-style SQL analytics · Window functions · CTEs</font></b>
-  </td>
-  <td align="center"><b><font size="4">Layer 3</font></b></td>
-  <td align="center"><b><font size="4">📋 Planned</font></b></td>
-</tr>
-
-<tr>
-  <td align="center"><b><font size="6">P6</font></b></td>
-  <td>
-    <b><font size="6">💰 ARTHIK v2 — PRODUCTION BFSI PLATFORM</font></b><br/>
-    <b><font size="4">FastAPI + ML · AWS RDS Multi-AZ · GenAI · K8s + Vault — RBI compliance</font></b>
-  </td>
-  <td align="center"><b><font size="4">Starts Layer 3 · Upgrades till Layer 12</font></b></td>
-  <td align="center"><b><font size="4">🔄 Living</font></b></td>
-</tr>
-
-<tr>
-  <td align="center"><b><font size="6">P7</font></b></td>
-  <td>
-    <b><font size="6">📈 NIVESH v1 — QUANTITATIVE FINANCE ENGINE</font></b><br/>
-    <b><font size="4">NSE portfolio · Markowitz · PCA from scratch · Pure NumPy mathematics</font></b>
-  </td>
-  <td align="center"><b><font size="4">Layer 4</font></b></td>
-  <td align="center"><b><font size="4">📋 Planned</font></b></td>
-</tr>
-
-<tr>
-  <td align="center"><b><font size="6">P8</font></b></td>
-  <td>
-    <b><font size="6">📈 NIVESH v2 — BAYESIAN RISK PLATFORM</font></b><br/>
-    <b><font size="4">XGBoost + SHAP · LSTM · AWS SageMaker · MLflow drift — Goldman-level</font></b>
-  </td>
-  <td align="center"><b><font size="4">Starts Layer 4 · Upgrades till Layer 12</font></b></td>
-  <td align="center"><b><font size="4">🔄 Living</font></b></td>
-</tr>
-
-<tr>
-  <td align="center"><b><font size="6">P9</font></b></td>
-  <td>
-    <b><font size="6">🔒 KAVACH v1 — FRAUD DETECTION SYSTEM</font></b><br/>
-    <b><font size="4">UPI fraud ML classifier · XGBoost + SHAP explainability · MLflow + Optuna</font></b>
-  </td>
-  <td align="center"><b><font size="4">Layer 5</font></b></td>
-  <td align="center"><b><font size="4">📋 Planned</font></b></td>
-</tr>
-
-<tr>
-  <td align="center"><b><font size="6">P10</font></b></td>
-  <td>
-    <b><font size="6">🔒 KAVACH v2 — ENTERPRISE AI SECURITY</font></b><br/>
-    <b><font size="4">4 ML models · CNN-LSTM · SageMaker · GenAI incident summary · K8s + Feast</font></b>
-  </td>
-  <td align="center"><b><font size="4">Starts Layer 5 · Upgrades till Layer 12</font></b></td>
-  <td align="center"><b><font size="4">🔄 Living</font></b></td>
-</tr>
-
-<tr>
-  <td align="center"><b><font size="6">P11</font></b></td>
-  <td>
-    <b><font size="6">👁️ DRISHTI v1 — COMPUTER VISION INTELLIGENCE</font></b><br/>
-    <b><font size="4">EfficientNet + FaceNet + Grad-CAM + ONNX · Doctor-friendly AI with proof</font></b>
-  </td>
-  <td align="center"><b><font size="4">Layer 7</font></b></td>
-  <td align="center"><b><font size="4">📋 Planned</font></b></td>
-</tr>
-
-<tr>
-  <td align="center"><b><font size="6">P12</font></b></td>
-  <td>
-    <b><font size="6">👁️ DRISHTI v2 — MULTI-MODAL DEEP LEARNING</font></b><br/>
-    <b><font size="4">4 DL architectures: Transformer + CNN-LSTM + Autoencoder + GNN ensembled</font></b>
-  </td>
-  <td align="center"><b><font size="4">Starts Layer 7 · Upgrades till Layer 12</font></b></td>
-  <td align="center"><b><font size="4">🔄 Living</font></b></td>
-</tr>
-
-<tr>
-  <td align="center"><b><font size="6">P13</font></b></td>
-  <td>
-    <b><font size="6">⚖️ NYAYA — INDIA LEGAL COMPLIANCE AGENT</font></b><br/>
-    <b><font size="4">RAG on RBI + SEBI + Companies Act 2013 · LangChain + Claude + Pinecone</font></b>
-  </td>
-  <td align="center"><b><font size="4">Starts Layer 8 · Upgrades till Layer 12</font></b></td>
-  <td align="center"><b><font size="4">🔄 Living</font></b></td>
-</tr>
-
-<tr>
-  <td align="center"><b><font size="6">P14</font></b></td>
-  <td>
-    <b><font size="6">🚨 RAKSHAK — AUTONOMOUS SOC PLATFORM</font></b><br/>
-    <b><font size="4">5 LLM agents: Triage + Investigator + Threat Intel + Responder + Reporter</font></b>
-  </td>
-  <td align="center"><b><font size="4">Starts Layer 8 · Upgrades till Layer 12</font></b></td>
-  <td align="center"><b><font size="4">🔄 Living</font></b></td>
-</tr>
-
-<tr>
-  <td align="center"><b><font size="6">P15</font></b></td>
-  <td>
-    <b><font size="6">📊 PRAHARI v1 — ML PRODUCTION MONITOR</font></b><br/>
-    <b><font size="4">MLflow + Evidently + Prometheus + Grafana · Auto-retrain on drift</font></b>
-  </td>
-  <td align="center"><b><font size="4">Layer 10</font></b></td>
-  <td align="center"><b><font size="4">📋 Planned</font></b></td>
-</tr>
-
-<tr>
-  <td align="center"><b><font size="6">P16</font></b></td>
-  <td>
-    <b><font size="6">📊 PRAHARI v2 — CLOUD INFRASTRUCTURE PLATFORM</font></b><br/>
-    <b><font size="4">Multi-region K8s · ArgoCD GitOps · Istio mTLS · Chaos Engineering · Feast</font></b>
-  </td>
-  <td align="center"><b><font size="4">Starts Layer 10 · Upgrades till Layer 12</font></b></td>
-  <td align="center"><b><font size="4">🔄 Living</font></b></td>
-</tr>
-
-<tr>
-  <td align="center"><b><font size="6">P17</font></b></td>
-  <td>
-    <b><font size="6">🏆 SENTINELAI INDIA — UNIFIED COMMAND CENTRE</font></b><br/>
-    <b><font size="4">ALL 16 projects unified into ONE production platform — THE MASTERPIECE</font></b>
-  </td>
-  <td align="center"><b><font size="4">Layer 12</font></b></td>
-  <td align="center"><b><font size="4">📋 Planned</font></b></td>
-</tr>
-
-<tr>
-  <td align="center"><b><font size="6">P18</font></b></td>
-  <td>
-    <b><font size="6">🌐 SENTINELAI INDIA OSS — OPEN SOURCE PLATFORM</font></b><br/>
-    <b><font size="4">Open Source launch · PyPI · Helm chart · Docusaurus docs · MIT License</font></b>
-  </td>
-  <td align="center"><b><font size="4">Layer 12</font></b></td>
-  <td align="center"><b><font size="4">📋 Planned</font></b></td>
-</tr>
-
-</table>
+</details>
 
 ---
 
 # 🔗 ECOSYSTEM CONNECTIONS
 
-> **<font size="4">Every project feeds into others. By Step 610, all 20 projects form ONE unified platform.</font>**
+> Every project feeds into others. By Step 610, all 20 projects form ONE unified platform.
 
 ```mermaid
 graph TB
@@ -485,31 +258,6 @@ graph TB
     style QUEEN fill:#00C882,stroke:#fff,color:#fff,stroke-width:3px
     style SEN2 fill:#8A2BE2,stroke:#fff,color:#fff,stroke-width:2px
 ```
-
----
-
-## 📍 CURRENT STATUS
-
-```
-TODAY  ►  Layer 1 — Python Foundations
-          Learning: Python · OOP · APIs · GitHub · Streamlit · Pytest
-
-NEXT   ►  P1: AAROGYA v1 (First Project)
-          Goal: Healthcare platform with CI/CD + 5 Pytest tests
-          Bonus: KING v1.0 CLI + QUEEN v1.0 metric logger
-
-GOAL   ►  Step 610 — 20 platforms deployed, job-ready engineer
-```
-
-<div align="center">
-
-### 📊 Progress Tracker
-
-![Progress](https://progress-bar.dev/0/?scale=610&width=500&color=00CED1&suffix=%20%2F%20610%20steps)
-
-</div>
-
-> **<font size="4">🟢 Daily Commits — Every day of learning = one commit. Watch the green squares grow.</font>**
 
 ---
 
@@ -561,39 +309,6 @@ GOAL   ►  Step 610 — 20 platforms deployed, job-ready engineer
 <img src="https://github-profile-trophy.vercel.app/?username=dharunvishnu2006-ctrl&theme=radical&no-frame=true&no-bg=true&row=1&column=7" alt="GitHub Trophies"/>
 
 </div>
-
----
-
-## 💡 BUILD PHILOSOPHY
-
-> **<font size="4">Small steps. One layer at a time. No rushing. No skipping foundations. Execution > hype.</font>**
-
-<table>
-<tr>
-  <td><b><font size="4">🎯 Real Indian use cases</font></b></td>
-  <td><b><font size="4">UPI fraud, RBI compliance, NSE quant, ABDM health, DPDP Act — not US examples</font></b></td>
-</tr>
-<tr>
-  <td><b><font size="4">🔄 Living projects</font></b></td>
-  <td><b><font size="4">v1 → v2 → v3 → v4 — every project upgrades as new layers complete</font></b></td>
-</tr>
-<tr>
-  <td><b><font size="4">🚀 Always deployed</font></b></td>
-  <td><b><font size="4">No localhost demos — every project goes live on Streamlit Cloud / AWS</font></b></td>
-</tr>
-<tr>
-  <td><b><font size="4">📦 Open source first</font></b></td>
-  <td><b><font size="4">PyPI · Helm · Docusaurus — anyone can <code>pip install sentinelai</code></font></b></td>
-</tr>
-<tr>
-  <td><b><font size="4">🧪 5 Pytest minimum</font></b></td>
-  <td><b><font size="4">Every project ships with tests — no exceptions, no excuses</font></b></td>
-</tr>
-<tr>
-  <td><b><font size="4">🎬 Demo video mandatory</font></b></td>
-  <td><b><font size="4">Recruiters watch demos, not READMEs. YouTube link in every repo</font></b></td>
-</tr>
-</table>
 
 ---
 
