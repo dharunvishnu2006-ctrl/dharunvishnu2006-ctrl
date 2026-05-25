@@ -45,94 +45,104 @@
 # 🗺️ THE PLAN — 8 Coursera Courses · 12 Layers · 610 Steps · 20 Projects · 3 AWS Certifications
 
 <table>
-<tr><th width="14%">Layer</th><th width="68%">Course</th><th width="18%">Status</th></tr>
+<tr><th width="12%">Layer</th><th width="16%">Steps</th><th width="54%">Course</th><th width="18%">Status</th></tr>
 
 <tr>
   <td align="center">🔵 &nbsp;<b><font size="4">Layer 1</font></b></td>
+  <td align="center"><b><font size="4">Step 1 – 85</font></b></td>
   <td>
-    <b><font size="5">🐍 PYTHON FOR EVERYBODY</font></b><br/>
-    <sub><b><font size="3">University of Michigan · Python Programming · OOP · Git · GitHub · Streamlit · pytest</font></b></sub>
+    <b><font size="6">🐍 PYTHON FOR EVERYBODY</font></b><br/>
+    <b><font size="4">University of Michigan · Python Programming · OOP · Git · GitHub · Streamlit · pytest</font></b>
   </td>
   <td align="center"><b><font size="4">📋 Planned</font></b></td>
 </tr>
 
 <tr>
   <td align="center">🟠 &nbsp;<b><font size="4">Layer 2</font></b></td>
+  <td align="center"><b><font size="4">Step 86 – 140</font></b></td>
   <td>
-    <b><font size="5">🔶 DSA SPECIALIZATION</font></b><br/>
-    <sub><b><font size="3">UC San Diego · Data Structures & Algorithms · LeetCode · NetworkX · Docker</font></b></sub>
+    <b><font size="6">🔶 DSA SPECIALIZATION</font></b><br/>
+    <b><font size="4">UC San Diego · Data Structures & Algorithms · LeetCode · NetworkX · Docker</font></b>
   </td>
   <td align="center"><b><font size="4">📋 Planned</font></b></td>
 </tr>
 
 <tr>
   <td align="center">🟡 &nbsp;<b><font size="4">Layer 3</font></b></td>
+  <td align="center"><b><font size="4">Step 141 – 180</font></b></td>
   <td>
-    <b><font size="5">🗄️ SQL FOR DATA SCIENCE</font></b><br/>
-    <sub><b><font size="3">UC Davis · PostgreSQL · SQLAlchemy · Alembic · Window Functions</font></b></sub>
+    <b><font size="6">🗄️ SQL FOR DATA SCIENCE</font></b><br/>
+    <b><font size="4">UC Davis · PostgreSQL · SQLAlchemy · Alembic · Window Functions</font></b>
   </td>
   <td align="center"><b><font size="4">📋 Planned</font></b></td>
 </tr>
 
 <tr>
   <td align="center">🟢 &nbsp;<b><font size="4">Layer 4+5</font></b></td>
+  <td align="center"><b><font size="4">Step 181 – 250</font></b></td>
   <td>
-    <b><font size="5">📐 MATHEMATICS FOR ML</font></b><br/>
-    <sub><b><font size="3">DeepLearning.AI · NumPy · PyMC · SciPy · Bayesian Inference</font></b></sub>
+    <b><font size="6">📐 MATHEMATICS FOR ML</font></b><br/>
+    <b><font size="4">DeepLearning.AI · NumPy · PyMC · SciPy · Bayesian Inference</font></b>
   </td>
   <td align="center"><b><font size="4">📋 Planned</font></b></td>
 </tr>
 
 <tr>
   <td align="center">🟣 &nbsp;<b><font size="4">Layer 6</font></b></td>
+  <td align="center"><b><font size="4">Step 251 – 325</font></b></td>
   <td>
-    <b><font size="5">🤖 ML SPECIALIZATION</font></b><br/>
-    <sub><b><font size="3">Andrew Ng / DeepLearning.AI · sklearn · XGBoost · SHAP · MLflow · Optuna</font></b></sub>
+    <b><font size="6">🤖 ML SPECIALIZATION</font></b><br/>
+    <b><font size="4">Andrew Ng / DeepLearning.AI · sklearn · XGBoost · SHAP · MLflow · Optuna</font></b>
   </td>
   <td align="center"><b><font size="4">📋 Planned</font></b></td>
 </tr>
 
 <tr>
   <td align="center">🩵 &nbsp;<b><font size="4">Layer 7</font></b></td>
+  <td align="center"><b><font size="4">Step 326 – 340</font></b></td>
   <td>
-    <b><font size="5">☁️ AWS CLOUD PRACTITIONER</font></b><br/>
-    <sub><b><font size="3">AWS · FastAPI · Docker · API + Tools + AWS Cloud Practitioner</font></b></sub>
+    <b><font size="6">☁️ AWS CLOUD PRACTITIONER</font></b><br/>
+    <b><font size="4">AWS · FastAPI · Docker · API + Tools + AWS Cloud Practitioner</font></b>
   </td>
   <td align="center"><b><font size="4">📋 Planned</font></b></td>
 </tr>
 
 <tr>
   <td align="center">🔴 &nbsp;<b><font size="4">Layer 8</font></b></td>
+  <td align="center"><b><font size="4">Step 341 – 420</font></b></td>
   <td>
-    <b><font size="5">🧠 DEEP LEARNING SPECIALIZATION</font></b><br/>
-    <sub><b><font size="3">Andrew Ng / DeepLearning.AI · PyTorch · EfficientNet · Transformers · ONNX</font></b></sub>
+    <b><font size="6">🧠 DEEP LEARNING SPECIALIZATION</font></b><br/>
+    <b><font size="4">Andrew Ng / DeepLearning.AI · PyTorch · EfficientNet · Transformers · ONNX</font></b>
   </td>
   <td align="center"><b><font size="4">📋 Planned</font></b></td>
 </tr>
 
 <tr>
   <td align="center">🔷 &nbsp;<b><font size="4">Layer 9+10</font></b></td>
+  <td align="center"><b><font size="4">Step 421 – 510</font></b></td>
   <td>
-    <b><font size="5">💬 GENAI WITH LLMS</font></b><br/>
-    <sub><b><font size="3">DeepLearning.AI + AWS · LangChain · RAG · CrewAI · LangGraph</font></b></sub>
+    <b><font size="6">💬 GENAI WITH LLMS</font></b><br/>
+    <b><font size="4">DeepLearning.AI + AWS · LangChain · RAG · CrewAI · LangGraph</font></b>
   </td>
   <td align="center"><b><font size="4">📋 Planned</font></b></td>
 </tr>
 
 <tr>
   <td align="center">🟩 &nbsp;<b><font size="4">Layer 11</font></b></td>
+  <td align="center"><b><font size="4">Step 511 – 590</font></b></td>
   <td>
-    <b><font size="5">⚙️ ML ENGINEERING FOR PRODUCTION</font></b><br/>
-    <sub><b><font size="3">DeepLearning.AI · MLflow · K8s · ArgoCD · Istio · Terraform</font></b></sub>
+    <b><font size="6">⚙️ ML ENGINEERING FOR PRODUCTION</font></b><br/>
+    <b><font size="4">DeepLearning.AI · MLflow · K8s · ArgoCD · Istio · Terraform</font></b>
   </td>
   <td align="center"><b><font size="4">📋 Planned</font></b></td>
 </tr>
 
 <tr>
   <td align="center">🟥 &nbsp;<b><font size="4">Layer 12</font></b></td>
+  <td align="center"><b><font size="4">Step 591 – 610</font></b></td>
   <td>
-    <b><font size="5">🏆 FINAL POLISH + OSS</font></b><br/>
-    <sub><b><font size="3">Final Polish · Open Source · AWS ML Specialty · Job Ready</font></b></sub>
+    <b><font size="6">🏆 FINAL POLISH + OSS</font></b><br/>
+    <b><font size="4">Final Polish · Open Source · AWS ML Specialty · Job Ready</font></b>
   </td>
   <td align="center"><b><font size="4">📋 Planned</font></b></td>
 </tr>
@@ -408,7 +418,7 @@
     <b><font size="5">🏆 SENTINELAI INDIA — UNIFIED COMMAND CENTRE</font></b><br/>
     <sub><b><font size="3">ALL 16 projects unified into ONE production platform — THE MASTERPIECE</font></b></sub>
   </td>
-  <td align="center"><b><font size="4">Layer 12</font></b></td>
+  <td align="center"><b><font size="4">Layer 11</font></b></td>
   <td align="center"><b><font size="4">📋 Planned</font></b></td>
 </tr>
 
@@ -418,7 +428,7 @@
     <b><font size="5">🌐 SENTINELAI INDIA OSS — OPEN SOURCE PLATFORM</font></b><br/>
     <sub><b><font size="3">Open Source launch · PyPI · Helm chart · Docusaurus docs · MIT License</font></b></sub>
   </td>
-  <td align="center"><b><font size="4">Layer 12</font></b></td>
+  <td align="center"><b><font size="4">Layer 11</font></b></td>
   <td align="center"><b><font size="4">📋 Planned</font></b></td>
 </tr>
 
