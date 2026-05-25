@@ -255,182 +255,182 @@
 <tr><th width="6%">#</th><th width="58%">Project</th><th width="22%">Layer</th><th width="14%">Status</th></tr>
 
 <tr>
-  <td align="center"><b><font size="5">P1</font></b></td>
+  <td align="center"><b><font size="6">P1</font></b></td>
   <td>
-    <b><font size="5">🩺 AAROGYA v1 — INDIA HEALTH ANALYTICS</font></b><br/>
-    <sub><b><font size="3">Apollo + AIIMS-style health analytics · Live deployed Streamlit app</font></b></sub>
+    <b><font size="6">🩺 AAROGYA v1 — INDIA HEALTH ANALYTICS</font></b><br/>
+    <b><font size="4">Apollo + AIIMS-style health analytics · Live deployed Streamlit app</font></b>
   </td>
   <td align="center"><b><font size="4">Layer 1</font></b></td>
   <td align="center"><b><font size="4">📋 Planned</font></b></td>
 </tr>
 
 <tr>
-  <td align="center"><b><font size="5">P2</font></b></td>
+  <td align="center"><b><font size="6">P2</font></b></td>
   <td>
-    <b><font size="5">🩺 AAROGYA v2 — AI HEALTH ASSISTANT</font></b><br/>
-    <sub><b><font size="3">PostgreSQL · FastAPI + ML · AWS · K8s — full Python mastery + CI/CD</font></b></sub>
+    <b><font size="6">🩺 AAROGYA v2 — AI HEALTH ASSISTANT</font></b><br/>
+    <b><font size="4">PostgreSQL · FastAPI + ML · AWS · K8s — full Python mastery + CI/CD</font></b>
   </td>
   <td align="center"><b><font size="4">Starts Layer 1 · Upgrades till Layer 12</font></b></td>
   <td align="center"><b><font size="4">🔄 Living</font></b></td>
 </tr>
 
 <tr>
-  <td align="center"><b><font size="5">P3</font></b></td>
+  <td align="center"><b><font size="6">P3</font></b></td>
   <td>
-    <b><font size="5">🛡️ SURAKSHA v1 — NETWORK SECURITY MONITOR</font></b><br/>
-    <sub><b><font size="3">BFS + DFS + Dijkstra on corporate attack paths · NetworkX</font></b></sub>
+    <b><font size="6">🛡️ SURAKSHA v1 — NETWORK SECURITY MONITOR</font></b><br/>
+    <b><font size="4">BFS + DFS + Dijkstra on corporate attack paths · NetworkX</font></b>
   </td>
   <td align="center"><b><font size="4">Layer 2</font></b></td>
   <td align="center"><b><font size="4">📋 Planned</font></b></td>
 </tr>
 
 <tr>
-  <td align="center"><b><font size="5">P4</font></b></td>
+  <td align="center"><b><font size="6">P4</font></b></td>
   <td>
-    <b><font size="5">🛡️ SURAKSHA v2 — THREAT INTELLIGENCE PIPELINE</font></b><br/>
-    <sub><b><font size="3">Trie + Heap + HashMap + Graph · PostgreSQL · ML · AWS GuardDuty · K8s</font></b></sub>
+    <b><font size="6">🛡️ SURAKSHA v2 — THREAT INTELLIGENCE PIPELINE</font></b><br/>
+    <b><font size="4">Trie + Heap + HashMap + Graph · PostgreSQL · ML · AWS GuardDuty · K8s</font></b>
   </td>
   <td align="center"><b><font size="4">Starts Layer 2 · Upgrades till Layer 12</font></b></td>
   <td align="center"><b><font size="4">🔄 Living</font></b></td>
 </tr>
 
 <tr>
-  <td align="center"><b><font size="5">P5</font></b></td>
+  <td align="center"><b><font size="6">P5</font></b></td>
   <td>
-    <b><font size="5">💰 ARTHIK v1 — FINANCIAL DATABASE ENGINE</font></b><br/>
-    <sub><b><font size="3">UPI / Zomato / Swiggy-style SQL analytics · Window functions · CTEs</font></b></sub>
+    <b><font size="6">💰 ARTHIK v1 — FINANCIAL DATABASE ENGINE</font></b><br/>
+    <b><font size="4">UPI / Zomato / Swiggy-style SQL analytics · Window functions · CTEs</font></b>
   </td>
   <td align="center"><b><font size="4">Layer 3</font></b></td>
   <td align="center"><b><font size="4">📋 Planned</font></b></td>
 </tr>
 
 <tr>
-  <td align="center"><b><font size="5">P6</font></b></td>
+  <td align="center"><b><font size="6">P6</font></b></td>
   <td>
-    <b><font size="5">💰 ARTHIK v2 — PRODUCTION BFSI PLATFORM</font></b><br/>
-    <sub><b><font size="3">FastAPI + ML · AWS RDS Multi-AZ · GenAI · K8s + Vault — RBI compliance</font></b></sub>
+    <b><font size="6">💰 ARTHIK v2 — PRODUCTION BFSI PLATFORM</font></b><br/>
+    <b><font size="4">FastAPI + ML · AWS RDS Multi-AZ · GenAI · K8s + Vault — RBI compliance</font></b>
   </td>
   <td align="center"><b><font size="4">Starts Layer 3 · Upgrades till Layer 12</font></b></td>
   <td align="center"><b><font size="4">🔄 Living</font></b></td>
 </tr>
 
 <tr>
-  <td align="center"><b><font size="5">P7</font></b></td>
+  <td align="center"><b><font size="6">P7</font></b></td>
   <td>
-    <b><font size="5">📈 NIVESH v1 — QUANTITATIVE FINANCE ENGINE</font></b><br/>
-    <sub><b><font size="3">NSE portfolio · Markowitz · PCA from scratch · Pure NumPy mathematics</font></b></sub>
+    <b><font size="6">📈 NIVESH v1 — QUANTITATIVE FINANCE ENGINE</font></b><br/>
+    <b><font size="4">NSE portfolio · Markowitz · PCA from scratch · Pure NumPy mathematics</font></b>
   </td>
   <td align="center"><b><font size="4">Layer 4</font></b></td>
   <td align="center"><b><font size="4">📋 Planned</font></b></td>
 </tr>
 
 <tr>
-  <td align="center"><b><font size="5">P8</font></b></td>
+  <td align="center"><b><font size="6">P8</font></b></td>
   <td>
-    <b><font size="5">📈 NIVESH v2 — BAYESIAN RISK PLATFORM</font></b><br/>
-    <sub><b><font size="3">XGBoost + SHAP · LSTM · AWS SageMaker · MLflow drift — Goldman-level</font></b></sub>
+    <b><font size="6">📈 NIVESH v2 — BAYESIAN RISK PLATFORM</font></b><br/>
+    <b><font size="4">XGBoost + SHAP · LSTM · AWS SageMaker · MLflow drift — Goldman-level</font></b>
   </td>
   <td align="center"><b><font size="4">Starts Layer 4 · Upgrades till Layer 12</font></b></td>
   <td align="center"><b><font size="4">🔄 Living</font></b></td>
 </tr>
 
 <tr>
-  <td align="center"><b><font size="5">P9</font></b></td>
+  <td align="center"><b><font size="6">P9</font></b></td>
   <td>
-    <b><font size="5">🔒 KAVACH v1 — FRAUD DETECTION SYSTEM</font></b><br/>
-    <sub><b><font size="3">UPI fraud ML classifier · XGBoost + SHAP explainability · MLflow + Optuna</font></b></sub>
+    <b><font size="6">🔒 KAVACH v1 — FRAUD DETECTION SYSTEM</font></b><br/>
+    <b><font size="4">UPI fraud ML classifier · XGBoost + SHAP explainability · MLflow + Optuna</font></b>
   </td>
   <td align="center"><b><font size="4">Layer 5</font></b></td>
   <td align="center"><b><font size="4">📋 Planned</font></b></td>
 </tr>
 
 <tr>
-  <td align="center"><b><font size="5">P10</font></b></td>
+  <td align="center"><b><font size="6">P10</font></b></td>
   <td>
-    <b><font size="5">🔒 KAVACH v2 — ENTERPRISE AI SECURITY</font></b><br/>
-    <sub><b><font size="3">4 ML models · CNN-LSTM · SageMaker · GenAI incident summary · K8s + Feast</font></b></sub>
+    <b><font size="6">🔒 KAVACH v2 — ENTERPRISE AI SECURITY</font></b><br/>
+    <b><font size="4">4 ML models · CNN-LSTM · SageMaker · GenAI incident summary · K8s + Feast</font></b>
   </td>
   <td align="center"><b><font size="4">Starts Layer 5 · Upgrades till Layer 12</font></b></td>
   <td align="center"><b><font size="4">🔄 Living</font></b></td>
 </tr>
 
 <tr>
-  <td align="center"><b><font size="5">P11</font></b></td>
+  <td align="center"><b><font size="6">P11</font></b></td>
   <td>
-    <b><font size="5">👁️ DRISHTI v1 — COMPUTER VISION INTELLIGENCE</font></b><br/>
-    <sub><b><font size="3">EfficientNet + FaceNet + Grad-CAM + ONNX · Doctor-friendly AI with proof</font></b></sub>
+    <b><font size="6">👁️ DRISHTI v1 — COMPUTER VISION INTELLIGENCE</font></b><br/>
+    <b><font size="4">EfficientNet + FaceNet + Grad-CAM + ONNX · Doctor-friendly AI with proof</font></b>
   </td>
   <td align="center"><b><font size="4">Layer 7</font></b></td>
   <td align="center"><b><font size="4">📋 Planned</font></b></td>
 </tr>
 
 <tr>
-  <td align="center"><b><font size="5">P12</font></b></td>
+  <td align="center"><b><font size="6">P12</font></b></td>
   <td>
-    <b><font size="5">👁️ DRISHTI v2 — MULTI-MODAL DEEP LEARNING</font></b><br/>
-    <sub><b><font size="3">4 DL architectures: Transformer + CNN-LSTM + Autoencoder + GNN ensembled</font></b></sub>
+    <b><font size="6">👁️ DRISHTI v2 — MULTI-MODAL DEEP LEARNING</font></b><br/>
+    <b><font size="4">4 DL architectures: Transformer + CNN-LSTM + Autoencoder + GNN ensembled</font></b>
   </td>
   <td align="center"><b><font size="4">Starts Layer 7 · Upgrades till Layer 12</font></b></td>
   <td align="center"><b><font size="4">🔄 Living</font></b></td>
 </tr>
 
 <tr>
-  <td align="center"><b><font size="5">P13</font></b></td>
+  <td align="center"><b><font size="6">P13</font></b></td>
   <td>
-    <b><font size="5">⚖️ NYAYA — INDIA LEGAL COMPLIANCE AGENT</font></b><br/>
-    <sub><b><font size="3">RAG on RBI + SEBI + Companies Act 2013 · LangChain + Claude + Pinecone</font></b></sub>
+    <b><font size="6">⚖️ NYAYA — INDIA LEGAL COMPLIANCE AGENT</font></b><br/>
+    <b><font size="4">RAG on RBI + SEBI + Companies Act 2013 · LangChain + Claude + Pinecone</font></b>
   </td>
   <td align="center"><b><font size="4">Starts Layer 8 · Upgrades till Layer 12</font></b></td>
   <td align="center"><b><font size="4">🔄 Living</font></b></td>
 </tr>
 
 <tr>
-  <td align="center"><b><font size="5">P14</font></b></td>
+  <td align="center"><b><font size="6">P14</font></b></td>
   <td>
-    <b><font size="5">🚨 RAKSHAK — AUTONOMOUS SOC PLATFORM</font></b><br/>
-    <sub><b><font size="3">5 LLM agents: Triage + Investigator + Threat Intel + Responder + Reporter</font></b></sub>
+    <b><font size="6">🚨 RAKSHAK — AUTONOMOUS SOC PLATFORM</font></b><br/>
+    <b><font size="4">5 LLM agents: Triage + Investigator + Threat Intel + Responder + Reporter</font></b>
   </td>
   <td align="center"><b><font size="4">Starts Layer 8 · Upgrades till Layer 12</font></b></td>
   <td align="center"><b><font size="4">🔄 Living</font></b></td>
 </tr>
 
 <tr>
-  <td align="center"><b><font size="5">P15</font></b></td>
+  <td align="center"><b><font size="6">P15</font></b></td>
   <td>
-    <b><font size="5">📊 PRAHARI v1 — ML PRODUCTION MONITOR</font></b><br/>
-    <sub><b><font size="3">MLflow + Evidently + Prometheus + Grafana · Auto-retrain on drift</font></b></sub>
+    <b><font size="6">📊 PRAHARI v1 — ML PRODUCTION MONITOR</font></b><br/>
+    <b><font size="4">MLflow + Evidently + Prometheus + Grafana · Auto-retrain on drift</font></b>
   </td>
   <td align="center"><b><font size="4">Layer 10</font></b></td>
   <td align="center"><b><font size="4">📋 Planned</font></b></td>
 </tr>
 
 <tr>
-  <td align="center"><b><font size="5">P16</font></b></td>
+  <td align="center"><b><font size="6">P16</font></b></td>
   <td>
-    <b><font size="5">📊 PRAHARI v2 — CLOUD INFRASTRUCTURE PLATFORM</font></b><br/>
-    <sub><b><font size="3">Multi-region K8s · ArgoCD GitOps · Istio mTLS · Chaos Engineering · Feast</font></b></sub>
+    <b><font size="6">📊 PRAHARI v2 — CLOUD INFRASTRUCTURE PLATFORM</font></b><br/>
+    <b><font size="4">Multi-region K8s · ArgoCD GitOps · Istio mTLS · Chaos Engineering · Feast</font></b>
   </td>
   <td align="center"><b><font size="4">Starts Layer 10 · Upgrades till Layer 12</font></b></td>
   <td align="center"><b><font size="4">🔄 Living</font></b></td>
 </tr>
 
 <tr>
-  <td align="center"><b><font size="5">P17</font></b></td>
+  <td align="center"><b><font size="6">P17</font></b></td>
   <td>
-    <b><font size="5">🏆 SENTINELAI INDIA — UNIFIED COMMAND CENTRE</font></b><br/>
-    <sub><b><font size="3">ALL 16 projects unified into ONE production platform — THE MASTERPIECE</font></b></sub>
+    <b><font size="6">🏆 SENTINELAI INDIA — UNIFIED COMMAND CENTRE</font></b><br/>
+    <b><font size="4">ALL 16 projects unified into ONE production platform — THE MASTERPIECE</font></b>
   </td>
-  <td align="center"><b><font size="4">Layer 11</font></b></td>
+  <td align="center"><b><font size="4">Layer 12</font></b></td>
   <td align="center"><b><font size="4">📋 Planned</font></b></td>
 </tr>
 
 <tr>
-  <td align="center"><b><font size="5">P18</font></b></td>
+  <td align="center"><b><font size="6">P18</font></b></td>
   <td>
-    <b><font size="5">🌐 SENTINELAI INDIA OSS — OPEN SOURCE PLATFORM</font></b><br/>
-    <sub><b><font size="3">Open Source launch · PyPI · Helm chart · Docusaurus docs · MIT License</font></b></sub>
+    <b><font size="6">🌐 SENTINELAI INDIA OSS — OPEN SOURCE PLATFORM</font></b><br/>
+    <b><font size="4">Open Source launch · PyPI · Helm chart · Docusaurus docs · MIT License</font></b>
   </td>
-  <td align="center"><b><font size="4">Layer 11</font></b></td>
+  <td align="center"><b><font size="4">Layer 12</font></b></td>
   <td align="center"><b><font size="4">📋 Planned</font></b></td>
 </tr>
 
