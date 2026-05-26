@@ -204,8 +204,8 @@ GOAL    ►  Step 610 — 20 platforms deployed, job-ready engineer
 | **P14** | **🚨 RAKSHAK — AUTONOMOUS SOC PLATFORM**<br/>5 LLM agents: Triage + Investigator + Threat Intel + Responder + Reporter | L8 → L12 | 🔄 Living |
 | **P15** | **📊 PRAHARI v1 — ML PRODUCTION MONITOR**<br/>MLflow + Evidently + Prometheus + Grafana · Auto-retrain on drift | Layer 10 | 📋 Planned |
 | **P16** | **📊 PRAHARI v2 — CLOUD INFRASTRUCTURE PLATFORM**<br/>Multi-region K8s · ArgoCD GitOps · Istio mTLS · Chaos Engineering · Feast | L10 → L12 | 🔄 Living |
-| **P17** | **🏆 SENTINELAI INDIA — UNIFIED COMMAND CENTRE**<br/>ALL 16 projects unified into ONE production platform — THE MASTERPIECE | Layer 11 | 📋 Planned |
-| **P18** | **🌐 SENTINELAI INDIA OSS — OPEN SOURCE PLATFORM**<br/>Open Source launch · PyPI · Helm chart · Docusaurus docs · MIT License | Layer 11 | 📋 Planned |
+| **P17** | **🏆 SENTINELAI INDIA — UNIFIED COMMAND CENTRE**<br/>ALL 16 projects unified into ONE production platform — THE MASTERPIECE | Layer 12 | 📋 Planned |
+| **P18** | **🌐 SENTINELAI INDIA OSS — OPEN SOURCE PLATFORM**<br/>Open Source launch · PyPI · Helm chart · Docusaurus docs · MIT License | Layer 12 | 📋 Planned |
 
 </details>
 
