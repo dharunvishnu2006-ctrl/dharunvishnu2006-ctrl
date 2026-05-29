@@ -8,7 +8,7 @@
 
 <!-- BOLD FAST TYPING — Bright Cyan, 2 lines -->
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=26&duration=3000&pause=1000&color=22D3EE&center=true&vCenter=true&multiline=true&weight=900&width=900&height=80&lines=On+a+1+year+mission+to+build+SentinelAI+India+OSS;Mastering+AI+Innovations+%26+Production-Grade+Cloud+Security" alt="tagline"/>
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=26&duration=3000&pause=1000&color=22D3EE&center=true&vCenter=true&multiline=true&weight=900&width=900&height=100&lines=On+a+1+year+mission+to+build+SentinelAI+India+OSS;Mastering+AI+Innovations+%26+Production-Grade+Cloud+Security" alt="tagline"/>
 </p>
 
 <p align="center">
