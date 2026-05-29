@@ -48,7 +48,7 @@
 
 ---
 
-# 🗺️ THE PLAN —   8 Courses   ·   10 Layers · 610 Steps · 20 Projects ·                                    3 AWS Certifications
+# 🗺️ THE PLAN —   8 Courses   ·   10 Layers · 610 Steps · 20 Projects · 3 AWS Certifications
 
 <details>
 <summary><font size="5"><b>📋 Click to expand full Layer Roadmap</b></font></summary>
