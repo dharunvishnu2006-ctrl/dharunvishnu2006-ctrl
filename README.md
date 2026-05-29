@@ -44,11 +44,11 @@
 
 ## 🚦 CURRENT STATUS
 
-**Layer 1 — Step 22 / 610 (Python Foundations)** 🔵
+**Layer 1 — Step 57 / 610 (Python Foundations)** 🔵
 
 ---
 
-# 🗺️ THE PLAN — 8 Courses · 10 Layers · 610 Steps · 20 Projects · 3 AWS Certs
+# 🗺️ THE PLAN — 8 coursera Courses · 10 Layers · 610 Steps · 20 Projects · 3 AWS Certifications
 
 <details>
 <summary><font size="6"><b>📋 Click to expand full Layer Roadmap</b></font></summary>
@@ -157,7 +157,7 @@
 
 | Version | After Layer | Status | What's Added | Skill Proof |
 |:---:|:---:|:---:|---|:---:|
-| **v1.0** | Layer 1 — Python | 🚧 Building | Streamlit dashboard · India health datasets · OOP analytics engine · pytest · CI/CD | Python OOP |
+| **v1.0** | Layer 1 — Python | ✅ Certified` | Streamlit dashboard · India health datasets · OOP analytics engine · pytest · CI/CD | Python OOP |
 
 </details>
 
