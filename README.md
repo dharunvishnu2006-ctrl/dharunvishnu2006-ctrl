@@ -26,18 +26,20 @@
 
 ## ⚡ WHO AM I
 
+
+
+> **I'm not following a bootcamp. I'm executing a 610-step engineering roadmap — building 20 production-grade AI + security projects from scratch before I graduate.**
+>
+> **Ever## ⚡ WHO AM I
+
 | | |
 |---|---|
 | 🪪 **Name** | **J. Dharun Vishnu** |
 | 🎓 **Degree** | **BSc Information Technology (2023 – 2026)** |
-| 🛤️ **Track** | **AI/ML Engineer → Cloud Engineer → Cybersecurity Engineer** |
+| 🎯 **Target Role** | **Future DevSecOps & AI Security Architect** |
 | 📍 **Location** | **India 🇮🇳** |
-| 🎯 **Mission** | **Build AI systems that protect India's digital infrastructure** |
-| 🗺️ **Roadmap** | **8 Coursera Courses · 10 Layers · 610 Steps · 3 AWS Certifications · 20 Projects** |
-
-> **I'm not following a bootcamp. I'm executing a 610-step engineering roadmap — building 20 production-grade AI + security projects from scratch before I graduate.**
->
-> **Every project with a v2 is a living project — it starts simple and upgrades automatically as each new layer completes. One codebase. Growing smarter with every layer.**
+| 🗺️ **Execution** | **One-Year Mission · 10 Layers · 610 Steps · 20 Living Projects** |
+| 🏆 **Ultimate Goal** | **Build AI systems that protect India's digital infrastructure** |y project with a v2 is a living project — it starts simple and upgrades automatically as each new layer completes. One codebase. Growing smarter with every layer.**
 
 ---
 
