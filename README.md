@@ -44,7 +44,7 @@
 
 ## 🚦 CURRENT STATUS
 
-**Layer 1 — Step 57 / 610 (Python For Everybody)** 🔵
+**Layer 1 — Step 57 / 610 ( Python For Everybody )** 🔵
 
 ---
 
