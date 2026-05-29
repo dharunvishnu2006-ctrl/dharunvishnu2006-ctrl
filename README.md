@@ -3,7 +3,7 @@
 ═══════════════════════════════════════════════════════════════════ -->
 
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:8A2BE2,25:1E90FF,50:00CED1,75:FF69B4,100:FF8C42&height=220&section=header&text=J.%20DHARUN%20VISHNU&fontColor=ffffff&fontSize=55&fontAlignY=38&desc=BSc%20IT%20%E2%80%A2%20Aspiring%20AI%2FML%20%26%20DevSecOps%20Architect&descSize=18&descAlignY=60&animation=fadeIn" alt="Dharun Vishnu banner"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:8A2BE2,25:1E90FF,50:00CED1,75:FF69B4,100:FF8C42&height=220&section=header&text=J.%20DHARUN%20VISHNU&fontColor=ffffff&fontSize=55&fontAlignY=38&desc=BSc%20IT%20%E2%80%A2%20Aspiring%20AI%2FML%20and%20DevSecOps%20Architect&descSize=18&descAlignY=60&animation=fadeIn" alt="Dharun Vishnu banner"/>
 </p>
 
 <!-- BOLD FAST TYPING — Bright Cyan, 2 lines -->
