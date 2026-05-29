@@ -48,7 +48,7 @@
 
 ---
 
-# 🗺️ THE PLAN — 8 Courses · 10 Layers · 610 Steps · 20 Projects · 3 AWS Certs
+# 🗺️ THE PLAN —   8 Courses   ·   10 Layers · 610 Steps · 20 Projects ·                                    3 AWS Certifications
 
 <details>
 <summary><font size="5"><b>📋 Click to expand full Layer Roadmap</b></font></summary>
@@ -92,7 +92,7 @@
 > Two projects that grow with every single layer. By Step 610, these will be production-grade showcases built from scratch — layer by layer, skill by skill.
 
 <details>
-<summary><font size="5"><b>👑 KING — CloudShield AI (AI-Powered Cloud Security CSPM Platform)</b></font></summary>
+<summary><font size="6"><b>👑 KING — CloudShield AI (AI-Powered Cloud Security CSPM Platform)</b></font></summary>
 
 <br/>
 
