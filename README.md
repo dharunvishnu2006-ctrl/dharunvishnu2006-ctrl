@@ -5,11 +5,11 @@
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=0:8A2BE2,25:1E90FF,50:00CED1,75:FF69B4,100:FF8C42&height=220&section=header&text=J.%20DHARUN%20VISHNU&fontColor=ffffff&fontSize=55&fontAlignY=32&desc=BSc%20IT%20%E2%80%A2%20Aspiring%20AI%2FML%20and%20DevSecOps%20Architect&descSize=18&descAlignY=52&animation=fadeIn" alt="Dharun Vishnu banner"/>
 </p>
+
 <!-- BOLD FAST TYPING — Bright Cyan, 2 lines -->
 <p align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=26&duration=3000&pause=1000&color=22D3EE&center=true&vCenter=true&multiline=true&weight=900&width=900&height=106&lines=On+a+1+year+mission+to+build+SentinelAI+India+OSS;Mastering+AI+Innovations+%26+Production-Grade+Cloud+Security" alt="tagline"/>
 </p>
-
 <p align="center">
   <b><i>✨ "While others copy tutorials — I build ecosystems." ✨</i></b>
 </p>
