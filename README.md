@@ -18,8 +18,6 @@
 <div align="center">
 
 ![Profile Views](https://komarev.com/ghpvc/?username=dharunvishnu2006-ctrl&color=00CED1&style=for-the-badge&label=PROFILE+VIEWS)
-![Followers](https://img.shields.io/github/followers/dharunvishnu2006-ctrl?style=for-the-badge&color=FF69B4&labelColor=8A2BE2)
-![Stars](https://img.shields.io/github/stars/dharunvishnu2006-ctrl?style=for-the-badge&color=FF8C42&labelColor=1E90FF)
 
 </div>
 
@@ -48,10 +46,10 @@
 
 ---
 
-# 🗺️ THE PLAN —   8 Courses   ·   10 Layers · 610 Steps · 20 Projects · 3 AWS Certifications
+# 🗺️ THE PLAN — 8 Courses · 10 Layers · 610 Steps · 20 Projects · 3 AWS Certs
 
 <details>
-<summary><font size="5"><b>📋 Click to expand full Layer Roadmap</b></font></summary>
+<summary><font size="6"><b>📋 Click to expand full Layer Roadmap</b></font></summary>
 
 <br/>
 
@@ -71,7 +69,7 @@
 </details>
 
 <details>
-<summary><font size="5"><b>☁️ Click to expand AWS Certification Roadmap</b></font></summary>
+<summary><font size="6"><b>☁️ Click to expand AWS Certification Roadmap</b></font></summary>
 
 <br/>
 
@@ -92,7 +90,7 @@
 > Two projects that grow with every single layer. By Step 610, these will be production-grade showcases built from scratch — layer by layer, skill by skill.
 
 <details>
-<summary><font size="5"><b>👑 KING — CloudShield AI (AI-Powered Cloud Security CSPM Platform)</b></font></summary>
+<summary><font size="6"><b>👑 KING — CloudShield AI (AI-Powered Cloud Security CSPM Platform)</b></font></summary>
 
 <br/>
 
@@ -114,7 +112,7 @@
 </details>
 
 <details>
-<summary><font size="5"><b>👑 QUEEN — AutoPilot ML (Self-Healing Level-4 MLOps Platform)</b></font></summary>
+<summary><font size="6"><b>👑 QUEEN — AutoPilot ML (Self-Healing Level-4 MLOps Platform)</b></font></summary>
 
 <br/>
 
@@ -149,7 +147,7 @@
 > None of these are tutorial clones. All connected. All upgraded layer-by-layer.
 
 <details>
-<summary><font size="5"><b>🩺 P1 — AAROGYA v1 (India Health Analytics)</b></font></summary>
+<summary><font size="6"><b>🩺 P1 — AAROGYA v1 (India Health Analytics)</b></font></summary>
 
 <br/>
 
@@ -162,7 +160,7 @@
 </details>
 
 <details>
-<summary><font size="5"><b>🩺 P2 — AAROGYA v2 (AI Health Assistant)</b></font></summary>
+<summary><font size="6"><b>🩺 P2 — AAROGYA v2 (AI Health Assistant)</b></font></summary>
 
 <br/>
 
@@ -179,7 +177,7 @@
 </details>
 
 <details>
-<summary><font size="5"><b>🛡️ P3 — SURAKSHA v1 (Network Security Monitor)</b></font></summary>
+<summary><font size="6"><b>🛡️ P3 — SURAKSHA v1 (Network Security Monitor)</b></font></summary>
 
 <br/>
 
@@ -192,7 +190,7 @@
 </details>
 
 <details>
-<summary><font size="5"><b>🛡️ P4 — SURAKSHA v2 (Threat Intelligence Pipeline)</b></font></summary>
+<summary><font size="6"><b>🛡️ P4 — SURAKSHA v2 (Threat Intelligence Pipeline)</b></font></summary>
 
 <br/>
 
@@ -209,7 +207,7 @@
 </details>
 
 <details>
-<summary><font size="5"><b>💰 P5 — ARTHIK v1 (Financial Database Engine)</b></font></summary>
+<summary><font size="6"><b>💰 P5 — ARTHIK v1 (Financial Database Engine)</b></font></summary>
 
 <br/>
 
@@ -222,7 +220,7 @@
 </details>
 
 <details>
-<summary><font size="5"><b>💰 P6 — ARTHIK v2 (Real-Time Financial Platform)</b></font></summary>
+<summary><font size="6"><b>💰 P6 — ARTHIK v2 (Real-Time Financial Platform)</b></font></summary>
 
 <br/>
 
@@ -238,7 +236,7 @@
 </details>
 
 <details>
-<summary><font size="5"><b>📈 P7 — NIVESH v1 (Quantitative Finance Engine)</b></font></summary>
+<summary><font size="6"><b>📈 P7 — NIVESH v1 (Quantitative Finance Engine)</b></font></summary>
 
 <br/>
 
@@ -251,7 +249,7 @@
 </details>
 
 <details>
-<summary><font size="5"><b>📈 P8 — NIVESH v2 (Bayesian Risk Platform)</b></font></summary>
+<summary><font size="6"><b>📈 P8 — NIVESH v2 (Bayesian Risk Platform)</b></font></summary>
 
 <br/>
 
@@ -268,7 +266,7 @@
 </details>
 
 <details>
-<summary><font size="5"><b>🔒 P9 — KAVACH v1 (Fraud Detection System)</b></font></summary>
+<summary><font size="6"><b>🔒 P9 — KAVACH v1 (Fraud Detection System)</b></font></summary>
 
 <br/>
 
@@ -281,7 +279,7 @@
 </details>
 
 <details>
-<summary><font size="5"><b>🔒 P10 — KAVACH v2 (Enterprise AI Security)</b></font></summary>
+<summary><font size="6"><b>🔒 P10 — KAVACH v2 (Enterprise AI Security)</b></font></summary>
 
 <br/>
 
@@ -297,7 +295,7 @@
 </details>
 
 <details>
-<summary><font size="5"><b>👁️ P11 — DRISHTI v1 (Computer Vision Intelligence)</b></font></summary>
+<summary><font size="6"><b>👁️ P11 — DRISHTI v1 (Computer Vision Intelligence)</b></font></summary>
 
 <br/>
 
@@ -310,7 +308,7 @@
 </details>
 
 <details>
-<summary><font size="5"><b>👁️ P12 — DRISHTI v2 (Multi-Modal Deep Learning)</b></font></summary>
+<summary><font size="6"><b>👁️ P12 — DRISHTI v2 (Multi-Modal Deep Learning)</b></font></summary>
 
 <br/>
 
@@ -326,7 +324,7 @@
 </details>
 
 <details>
-<summary><font size="5"><b>⚖️ P13 — NYAYA (India Legal Compliance Agent)</b></font></summary>
+<summary><font size="6"><b>⚖️ P13 — NYAYA (India Legal Compliance Agent)</b></font></summary>
 
 <br/>
 
@@ -341,7 +339,7 @@
 </details>
 
 <details>
-<summary><font size="5"><b>🚨 P14 — RAKSHAK (Autonomous SOC Platform)</b></font></summary>
+<summary><font size="6"><b>🚨 P14 — RAKSHAK (Autonomous SOC Platform)</b></font></summary>
 
 <br/>
 
@@ -356,7 +354,7 @@
 </details>
 
 <details>
-<summary><font size="5"><b>📊 P15 — PRAHARI v1 (ML Production Monitor)</b></font></summary>
+<summary><font size="6"><b>📊 P15 — PRAHARI v1 (ML Production Monitor)</b></font></summary>
 
 <br/>
 
@@ -369,7 +367,7 @@
 </details>
 
 <details>
-<summary><font size="5"><b>📊 P16 — PRAHARI v2 (Cloud Infrastructure Platform)</b></font></summary>
+<summary><font size="6"><b>📊 P16 — PRAHARI v2 (Cloud Infrastructure Platform)</b></font></summary>
 
 <br/>
 
@@ -383,7 +381,7 @@
 </details>
 
 <details>
-<summary><font size="5"><b>🏆 P17 — SENTINELAI INDIA (Unified Command Centre)</b></font></summary>
+<summary><font size="6"><b>🏆 P17 — SENTINELAI INDIA (Unified Command Centre)</b></font></summary>
 
 <br/>
 
@@ -396,7 +394,7 @@
 </details>
 
 <details>
-<summary><font size="5"><b>🌐 P18 — SENTINELAI INDIA OSS (Open Source Platform)</b></font></summary>
+<summary><font size="6"><b>🌐 P18 — SENTINELAI INDIA OSS (Open Source Platform)</b></font></summary>
 
 <br/>
 
@@ -414,6 +412,7 @@
 
 <p align="center">
 <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
+<img src="https://img.shields.io/badge/DSA_Algorithms-FF6B35?style=for-the-badge&logo=leetcode&logoColor=white"/>
 <img src="https://img.shields.io/badge/SQL_PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white"/>
 <img src="https://img.shields.io/badge/Machine_Learning-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white"/>
 <img src="https://img.shields.io/badge/Deep_Learning-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white"/>
@@ -437,8 +436,7 @@
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=dharunvishnu2006-ctrl&show_icons=true&hide_border=true&bg_color=0D1117&title_color=00CED1&icon_color=FF69B4&text_color=FFFFFF&count_private=true" alt=" " height="180"/>
-<img src="https://github-readme-streak-stats.herokuapp.com?user=dharunvishnu2006-ctrl&hide_border=true&background=0D1117&stroke=8A2BE2&ring=00CED1&fire=FF8C42&currStreakLabel=00CED1&sideLabels=FF69B4&dates=FFFFFF&sideNums=FFFFFF&currStreakNum=FFFFFF" alt=" " height="180"/>
+<img src="https://github-readme-streak-stats.herokuapp.com?user=dharunvishnu2006-ctrl&hide_border=true&background=0D1117&stroke=8A2BE2&ring=00CED1&fire=FF8C42&currStreakLabel=00CED1&sideLabels=FF69B4&dates=FFFFFF&sideNums=FFFFFF&currStreakNum=FFFFFF" alt=" " height="200"/>
 
 </div>
 
