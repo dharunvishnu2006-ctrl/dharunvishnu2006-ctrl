@@ -38,7 +38,7 @@
 | 🎓 **Degree** | **BSc Information Technology (2023 – 2026)** |
 | 🎯 **Target Role** | **Future DevSecOps & AI Security Architect** |
 | 📍 **Location** | **India 🇮🇳** |
-| 🗺️ **Execution** | **One-Year Mission · 10 Layers · 610 Steps · 20 Living Projects** |
+| 🗺️ **Execution** | **One-Year Mission · 8 coursera courses · 10 Layers · 610 Steps · 20 Living Projects** |
 | 🏆 **Ultimate Goal** | **Build AI systems that protect India's digital infrastructure** |y project with a v2 is a living project — it starts simple and upgrades automatically as each new layer completes. One codebase. Growing smarter with every layer.**
 
 ---
