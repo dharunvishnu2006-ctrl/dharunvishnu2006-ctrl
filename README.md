@@ -48,7 +48,7 @@
 
 ---
 
-# 🗺️ THE PLAN — 8 coursera Courses · 10 Layers · 610 Steps · 20 Projects · 3 AWS Certifications
+# 🗺️ THE PLAN — 1 Year Mission (8 coursera Courses · 10 Layers · 610 Steps · 20 Projects · 3 AWS Certifications)
 
 <details>
 <summary><font size="6"><b>📋 Click to expand full Layer Roadmap</b></font></summary>
