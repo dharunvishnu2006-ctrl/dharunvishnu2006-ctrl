@@ -18,6 +18,8 @@
 <div align="center">
 
 ![Profile Views](https://komarev.com/ghpvc/?username=dharunvishnu2006-ctrl&color=00CED1&style=for-the-badge&label=PROFILE+VIEWS)
+![Followers](https://img.shields.io/github/followers/dharunvishnu2006-ctrl?style=for-the-badge&color=FF69B4&labelColor=8A2BE2)
+![Stars](https://img.shields.io/github/stars/dharunvishnu2006-ctrl?style=for-the-badge&color=FF8C42&labelColor=1E90FF)
 
 </div>
 
