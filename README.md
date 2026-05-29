@@ -459,3 +459,13 @@
 [![GitHub](https://img.shields.io/badge/GitHub-Follow-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/dharunvishnu2006-ctrl)
 
 </div>
+
+---
+
+<!-- ═══════════════════════════════════════════════════════════════════
+     RAINBOW GRADIENT BANNER — Capsule Render (FOOTER)
+═══════════════════════════════════════════════════════════════════ -->
+
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:8A2BE2,25:1E90FF,50:00CED1,75:FF69B4,100:FF8C42&height=160&section=footer&text=Commit%20Code%20Every%20Day%20%E2%80%A2%20Build%20Something%20Real%20%E2%80%A2%20Let%20Your%20Work%20Speak&fontColor=ffffff&fontSize=20&fontAlignY=72&animation=fadeIn" alt="footer banner"/>
+</p>
