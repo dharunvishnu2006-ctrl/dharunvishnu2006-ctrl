@@ -51,7 +51,7 @@
 # 🗺️ THE PLAN — 1 Year Mission <br>          ( 8 Courses · 10 Layers · 610 Steps · 20 Projects · 3 AWS Certifications )</br>
 
 <details>
-<summary><font size="8"><b>📋 Click to expand full Layer Roadmap</b></font></summary>
+<summary><font size="10"><b>📋 Click to expand full Layer Roadmap</b></font></summary>
 
 <br/>
 
