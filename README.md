@@ -1,18 +1,18 @@
 <!-- ═══════════════════════════════════════════════════════════════════
-     RAINBOW GRADIENT BANNER — Capsule Render (WAVING)
+     RAINBOW GRADIENT BANNER — Capsule Render (WAVING)
 ═══════════════════════════════════════════════════════════════════ -->
 
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:8A2BE2,25:1E90FF,50:00CED1,75:FF69B4,100:FF8C42&height=220&section=header&text=J.%20DHARUN%20VISHNU&fontColor=ffffff&fontSize=55&fontAlignY=38&desc=BSc%20IT%20%E2%80%A2%20AI%2FML%20Engineer%20%E2%80%A2%20Cloud%20%2B%20Cybersecurity%20Engineer&descSize=18&descAlignY=60&animation=fadeIn" alt="Dharun Vishnu banner"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:8A2BE2,25:1E90FF,50:00CED1,75:FF69B4,100:FF8C42&height=220&section=header&text=J.%20DHARUN%20VISHNU&fontColor=ffffff&fontSize=55&fontAlignY=38&desc=BSc%20IT%20%E2%80%A2%20Aspiring%20AI%2FML%20%26%20DevSecOps%20Architect&descSize=18&descAlignY=60&animation=fadeIn" alt="Dharun Vishnu banner"/>
 </p>
 
 <!-- BOLD FAST TYPING — Bright Cyan, 2 lines -->
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=26&duration=3000&pause=1000&color=22D3EE&center=true&vCenter=true&multiline=true&weight=900&width=900&height=80&lines=Building+India's+AI+%2B+Cybersecurity+Ecosystem;Every+Day.+Build+Real+Things.+Let+The+Work+Speak." alt="tagline"/>
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=26&duration=3000&pause=1000&color=22D3EE&center=true&vCenter=true&multiline=true&weight=900&width=900&height=80&lines=On+a+1+year+mission+to+build+SentinelAI+India+OSS;Mastering+AI+Innovations+%26+Production-Grade+Cloud+Security" alt="tagline"/>
 </p>
 
 <p align="center">
-  <b><i>✨ "While others copy tutorials — I build ecosystems." ✨</i></b>
+  <b><i>✨ "While others copy tutorials — I build ecosystems." ✨</i></b>
 </p>
 
 <div align="center">
@@ -48,7 +48,7 @@
 
 ---
 
-# 🗺️ THE PLAN — 1 Year Mission <br>          ( 8 Courses · 10 Layers · 610 Steps · 20 Projects · 3 AWS Certifications )</br>
+# 🗺️ THE PLAN — 1 Year Mission <br>          ( 8 Courses · 10 Layers · 610 Steps · 20 Projects · 3 AWS Certifications )</br>
 
 <details>
 <summary><font size="6"><b>📋 Click to expand full Layer Roadmap</b></font></summary>
@@ -415,26 +415,26 @@
 > ### 🚀 MY ONE-YEAR MISSION STATUS (2026-2027)
 > I am on a structured 365-day roadmap to master AI, Cloud, and Cybersecurity. Below is my current progress and the tech-stack I am unlocking layer by layer.
 
-### 🌟 CURRENTLY MASTERED & LEARNING 
+### 🌟 CURRENTLY MASTERED & LEARNING 
 <p align="left\">
-  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
-  <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white"/>
-  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
+  <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white"/>
+  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
 </p>
 
-### 🎯 TARGET TECH-STACK TO UNLOCK 
+### 🎯 TARGET TECH-STACK TO UNLOCK 
 <p align="left\">
-  <img src="https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Terraform-7B42BC?style=for-the-badge&logo=terraform&logoColor=white"/>
-  <img src="https://img.shields.io/badge/MLflow-0194E2?style=for-the-badge&logo=mlflow&logoColor=white"/>
-  <img src="https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Streamlit-FF4B4B?style=for-the-badge&logo=streamlit&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Cyber_Security-DC143C?style=for-the-badge"/>
-  <img src="https://img.shields.io/badge/RAG_Legal_Medical-8B5CF6?style=for-the-badge"/>
-  <img src="https://img.shields.io/badge/MLOps_Production-22C55E?style=for-the-badge"/>
-  <img src="https://img.shields.io/badge/Open_Source_MIT-181717?style=for-the-badge&logo=github&logoColor=white"/>
+  <img src="https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Terraform-7B42BC?style=for-the-badge&logo=terraform&logoColor=white"/>
+  <img src="https://img.shields.io/badge/MLflow-0194E2?style=for-the-badge&logo=mlflow&logoColor=white"/>
+  <img src="https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Streamlit-FF4B4B?style=for-the-badge&logo=streamlit&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Cyber_Security-DC143C?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/RAG_Legal_Medical-8B5CF6?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/MLOps_Production-22C55E?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/Open_Source_MIT-181717?style=for-the-badge&logo=github&logoColor=white"/>
 </p>
 
 ---
@@ -459,4 +459,3 @@
 [![GitHub](https://img.shields.io/badge/GitHub-Follow-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/dharunvishnu2006-ctrl)
 
 </div>
-
