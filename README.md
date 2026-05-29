@@ -147,33 +147,264 @@
 
 > Every project is part of one unified AI + Cybersecurity command centre — **SentinelAI India.**
 > None of these are tutorial clones. All connected. All upgraded layer-by-layer.
-> **🔍 Click any v2 / Living project below to view its full layer-by-layer upgrade plan.**
 
 <details>
-<summary><font size="5"><b>📋 Click to expand all 18 projects</b></font></summary>
+<summary><font size="5"><b>🩺 P1 — AAROGYA v1 (India Health Analytics)</b></font></summary>
 
 <br/>
 
-| # | Project | Layer | Status | Upgrades |
-|:---:|---|:---:|:---:|:---:|
-| **P1** | **🩺 AAROGYA v1 — INDIA HEALTH ANALYTICS**<br/>Apollo + AIIMS-style health analytics · Live deployed Streamlit app | Layer 1 | 🚧 Building | — |
-| **P2** | **🩺 AAROGYA v2 — AI HEALTH ASSISTANT**<br/>PostgreSQL · FastAPI + ML · AWS · K8s — full Python mastery + CI/CD | L1 → L10 | 🔄 Living | <details><summary><b>🔍 View</b></summary><table><tr><th>Version</th><th>After Layer</th><th>Status</th><th>What's Added</th></tr><tr><td><b>v2.0</b></td><td>L1 — Python</td><td>🚧 Building</td><td>Core health assistant · Streamlit · CSV records · pytest</td></tr><tr><td><b>v2.1</b></td><td>L3 — SQL</td><td>📋 Planned</td><td>PostgreSQL production DB · patient history · SQLAlchemy</td></tr><tr><td><b>v2.2</b></td><td>L5 — ML</td><td>📋 Planned</td><td>Disease prediction · ML risk stratification · XGBoost</td></tr><tr><td><b>v2.3</b></td><td>L8 — GenAI</td><td>📋 Planned</td><td>RAG medical Q&A · LLM patient + literature · LangChain</td></tr><tr><td><b>v2.4</b></td><td>L9 — MLOps</td><td>📋 Planned</td><td>Kubernetes HIPAA deployment · monitoring · MLflow</td></tr></table></details> |
-| **P3** | **🛡️ SURAKSHA v1 — NETWORK SECURITY MONITOR**<br/>BFS + DFS + Dijkstra on corporate attack paths · NetworkX | Layer 2 | 📋 Planned | — |
-| **P4** | **🛡️ SURAKSHA v2 — THREAT INTELLIGENCE PIPELINE**<br/>Trie + Heap + HashMap + Graph · PostgreSQL · ML · AWS GuardDuty · K8s | L2 → L10 | 🔄 Living | <details><summary><b>🔍 View</b></summary><table><tr><th>Version</th><th>After Layer</th><th>Status</th><th>What's Added</th></tr><tr><td><b>v2.0</b></td><td>L2 — DSA</td><td>📋 Planned</td><td>Graph-based network monitor · Trie + Heap · threat detection</td></tr><tr><td><b>v2.1</b></td><td>L3 — SQL</td><td>📋 Planned</td><td>PostgreSQL threat intel DB · incident storage · SQLAlchemy</td></tr><tr><td><b>v2.2</b></td><td>L5 — ML</td><td>📋 Planned</td><td>ML-based threat scoring · replace rule-based · XGBoost</td></tr><tr><td><b>v2.3</b></td><td>L8 — GenAI</td><td>📋 Planned</td><td>LLM threat report generation · multi-feed synthesis · LangChain</td></tr><tr><td><b>v2.4</b></td><td>L9 — MLOps</td><td>📋 Planned</td><td>Production K8s · high-availability · AWS GuardDuty</td></tr></table></details> |
-| **P5** | **💰 ARTHIK v1 — FINANCIAL DATABASE ENGINE**<br/>UPI / Zomato / Swiggy-style SQL analytics · Window functions · CTEs | Layer 3 | 📋 Planned | — |
-| **P6** | **💰 ARTHIK v2 — REAL-TIME FINANCIAL PLATFORM**<br/>Apache Kafka · Redis · ML fraud detection · RBI compliance · AWS RDS | L3 → L10 | 🔄 Living | <details><summary><b>🔍 View</b></summary><table><tr><th>Version</th><th>After Layer</th><th>Status</th><th>What's Added</th></tr><tr><td><b>v2.0</b></td><td>L3 — SQL</td><td>📋 Planned</td><td>Production PostgreSQL · RBI compliance · BFSI analytics · CTEs</td></tr><tr><td><b>v2.1</b></td><td>L5 — ML</td><td>📋 Planned</td><td>Real-time ML fraud scoring · every UPI/card transaction · XGBoost</td></tr><tr><td><b>v2.2</b></td><td>L8 — GenAI</td><td>📋 Planned</td><td>GenAI customer support · multilingual banking · LangChain</td></tr><tr><td><b>v2.3</b></td><td>L9 — MLOps</td><td>📋 Planned</td><td>Bank-grade K8s · RBI audit trails · Kafka + Redis</td></tr></table></details> |
-| **P7** | **📈 NIVESH v1 — QUANTITATIVE FINANCE ENGINE**<br/>NSE portfolio · Markowitz · PCA from scratch · Pure NumPy mathematics | Layer 4 | 📋 Planned | — |
-| **P8** | **📈 NIVESH v2 — BAYESIAN RISK PLATFORM**<br/>XGBoost + SHAP · LSTM · AWS SageMaker · MLflow drift | L4 → L10 | 🔄 Living | <details><summary><b>🔍 View</b></summary><table><tr><th>Version</th><th>After Layer</th><th>Status</th><th>What's Added</th></tr><tr><td><b>v2.0</b></td><td>L4 — Maths</td><td>📋 Planned</td><td>Bayesian portfolio optimisation · quant finance · PyMC</td></tr><tr><td><b>v2.1</b></td><td>L5 — ML</td><td>📋 Planned</td><td>XGBoost + SHAP · ML supplements Bayesian inference · MLflow</td></tr><tr><td><b>v2.2</b></td><td>L7 — DL</td><td>📋 Planned</td><td>LSTM market predictor · ensemble deep risk · PyTorch</td></tr><tr><td><b>v2.3</b></td><td>L8 — GenAI</td><td>📋 Planned</td><td>GenAI investment advisor · personalised portfolio</td></tr><tr><td><b>v2.4</b></td><td>L9 — MLOps</td><td>📋 Planned</td><td>K8s low-latency serving · AWS SageMaker · MLflow drift</td></tr></table></details> |
-| **P9** | **🔒 KAVACH v1 — FRAUD DETECTION SYSTEM**<br/>UPI fraud ML classifier · XGBoost + SHAP explainability · MLflow + Optuna | Layer 5 | 📋 Planned | — |
-| **P10** | **🔒 KAVACH v2 — ENTERPRISE AI SECURITY**<br/>4 ML models · CNN-LSTM · SageMaker · GenAI incident summary · K8s + Feast | L5 → L10 | 🔄 Living | <details><summary><b>🔍 View</b></summary><table><tr><th>Version</th><th>After Layer</th><th>Status</th><th>What's Added</th></tr><tr><td><b>v2.0</b></td><td>L5 — ML</td><td>📋 Planned</td><td>ML fraud ensemble · 4 ML models · XGBoost · SHAP · MLflow</td></tr><tr><td><b>v2.1</b></td><td>L7 — DL</td><td>📋 Planned</td><td>CNN-LSTM stacked on ML ensemble · PyTorch · ONNX</td></tr><tr><td><b>v2.2</b></td><td>L8 — GenAI</td><td>📋 Planned</td><td>GenAI incident summaries · LLM explainable AI · LangChain</td></tr><tr><td><b>v2.3</b></td><td>L9 — MLOps</td><td>📋 Planned</td><td>Production K8s · real-time API · drift · SageMaker + Feast</td></tr></table></details> |
-| **P11** | **👁️ DRISHTI v1 — COMPUTER VISION INTELLIGENCE**<br/>EfficientNet + FaceNet + Grad-CAM + ONNX · Doctor-friendly AI with proof | Layer 7 | 📋 Planned | — |
-| **P12** | **👁️ DRISHTI v2 — MULTI-MODAL DEEP LEARNING**<br/>4 DL architectures: Transformer + CNN-LSTM + Autoencoder + GNN ensembled | L7 → L10 | 🔄 Living | <details><summary><b>🔍 View</b></summary><table><tr><th>Version</th><th>After Layer</th><th>Status</th><th>What's Added</th></tr><tr><td><b>v2.0</b></td><td>L7 — DL</td><td>📋 Planned</td><td>Multi-modal vision · 4 DL architectures · Transformer + CNN-LSTM</td></tr><tr><td><b>v2.1</b></td><td>L8 — GenAI</td><td>📋 Planned</td><td>Vision-language GenAI explainer · LangChain</td></tr><tr><td><b>v2.2</b></td><td>L9 — MLOps</td><td>📋 Planned</td><td>K8s GPU serving · edge + cloud · ONNX</td></tr><tr><td><b>v2.3</b></td><td>L10 — Final</td><td>📋 Planned</td><td>Production-ready · SentinelAI integrated · OSS release</td></tr></table></details> |
-| **P13** | **⚖️ NYAYA — INDIA LEGAL COMPLIANCE AGENT**<br/>RAG on RBI + SEBI + Companies Act 2013 · LangChain + Claude + Pinecone | L8 → L10 | 🔄 Living | <details><summary><b>🔍 View</b></summary><table><tr><th>Version</th><th>After Layer</th><th>Status</th><th>What's Added</th></tr><tr><td><b>v1.0</b></td><td>L8 — GenAI</td><td>📋 Planned</td><td>RAG legal agent · Indian law corpus · LangChain + Claude + Pinecone</td></tr><tr><td><b>v1.1</b></td><td>L9 — MLOps</td><td>📋 Planned</td><td>LangGraph multi-agent workflows · NeMo Guardrails · K8s</td></tr><tr><td><b>v1.2</b></td><td>L10 — Final</td><td>📋 Planned</td><td>Production observability · Langfuse · audit trails · OSS</td></tr></table></details> |
-| **P14** | **🚨 RAKSHAK — AUTONOMOUS SOC PLATFORM**<br/>5 LLM agents: Triage + Investigator + Threat Intel + Responder + Reporter | L8 → L10 | 🔄 Living | <details><summary><b>🔍 View</b></summary><table><tr><th>Version</th><th>After Layer</th><th>Status</th><th>What's Added</th></tr><tr><td><b>v1.0</b></td><td>L8 — GenAI</td><td>📋 Planned</td><td>Autonomous SOC · LangGraph agents · 5 LLM agents · threat orchestration</td></tr><tr><td><b>v1.1</b></td><td>L9 — MLOps</td><td>📋 Planned</td><td>Production K8s autoscaling · MCP integration · multi-region HA</td></tr><tr><td><b>v1.2</b></td><td>L10 — Final</td><td>📋 Planned</td><td>5-agent full SOC · all projects orchestrated · OSS release</td></tr></table></details> |
-| **P15** | **📊 PRAHARI v1 — ML PRODUCTION MONITOR**<br/>MLflow + Evidently + Prometheus + Grafana · Auto-retrain on drift | Layer 9 | 📋 Planned | — |
-| **P16** | **📊 PRAHARI v2 — CLOUD INFRASTRUCTURE PLATFORM**<br/>Multi-region K8s · ArgoCD GitOps · Istio mTLS · Chaos Engineering · Feast | L9 → L10 | 🔄 Living | <details><summary><b>🔍 View</b></summary><table><tr><th>Version</th><th>After Layer</th><th>Status</th><th>What's Added</th></tr><tr><td><b>v2.0</b></td><td>L9 — MLOps</td><td>📋 Planned</td><td>Kubernetes + Terraform · multi-region · GitOps · ArgoCD · Istio</td></tr><tr><td><b>v2.1</b></td><td>L10 — Final</td><td>📋 Planned</td><td>OPA policy · Falco runtime security · hosts all ecosystem projects</td></tr></table></details> |
-| **P17** | **🏆 SENTINELAI INDIA — UNIFIED COMMAND CENTRE**<br/>ALL 16 projects unified into ONE production platform — THE MASTERPIECE | Layer 10 | 📋 Planned | — |
-| **P18** | **🌐 SENTINELAI INDIA OSS — OPEN SOURCE PLATFORM**<br/>Open Source launch · PyPI · Helm chart · Docusaurus docs · MIT License | Layer 10 | 📋 Planned | — |
+> Apollo + AIIMS-style health analytics · Live deployed Streamlit app.
+
+| Version | After Layer | Status | What's Added | Skill Proof |
+|:---:|:---:|:---:|---|:---:|
+| **v1.0** | Layer 1 — Python | 🚧 Building | Streamlit dashboard · India health datasets · OOP analytics engine · pytest · CI/CD | Python OOP |
+
+</details>
+
+<details>
+<summary><font size="5"><b>🩺 P2 — AAROGYA v2 (AI Health Assistant)</b></font></summary>
+
+<br/>
+
+> PostgreSQL · FastAPI + ML · AWS · K8s — full Python mastery + CI/CD.
+
+| Version | After Layer | Status | What's Added | Skill Proof |
+|:---:|:---:|:---:|---|:---:|
+| **v2.0** | Layer 1 — Python | 🚧 Building | Core health assistant · Streamlit · CSV records · pytest | Python OOP |
+| **v2.1** | Layer 3 — SQL | 📋 Planned | PostgreSQL production DB · patient history · SQLAlchemy | SQL |
+| **v2.2** | Layer 5 — ML | 📋 Planned | Disease prediction · ML risk stratification · XGBoost | ML Production |
+| **v2.3** | Layer 8 — GenAI | 📋 Planned | RAG medical Q&A · LLM patient + literature · LangChain | Agentic AI |
+| **v2.4** | Layer 9 — MLOps | 📋 Planned | Kubernetes HIPAA deployment · monitoring · MLflow | ML Engineering |
+
+</details>
+
+<details>
+<summary><font size="5"><b>🛡️ P3 — SURAKSHA v1 (Network Security Monitor)</b></font></summary>
+
+<br/>
+
+> BFS + DFS + Dijkstra on corporate attack paths · NetworkX.
+
+| Version | After Layer | Status | What's Added | Skill Proof |
+|:---:|:---:|:---:|---|:---:|
+| **v1.0** | Layer 2 — DSA | 📋 Planned | Network topology graph · attack path BFS/DFS/Dijkstra · NetworkX · pytest | DSA |
+
+</details>
+
+<details>
+<summary><font size="5"><b>🛡️ P4 — SURAKSHA v2 (Threat Intelligence Pipeline)</b></font></summary>
+
+<br/>
+
+> Trie + Heap + HashMap + Graph · PostgreSQL · ML · AWS GuardDuty · K8s.
+
+| Version | After Layer | Status | What's Added | Skill Proof |
+|:---:|:---:|:---:|---|:---:|
+| **v2.0** | Layer 2 — DSA | 📋 Planned | Graph-based network monitor · Trie + Heap · threat detection | DSA |
+| **v2.1** | Layer 3 — SQL | 📋 Planned | PostgreSQL threat intel DB · incident storage · SQLAlchemy | SQL |
+| **v2.2** | Layer 5 — ML | 📋 Planned | ML-based threat scoring · replace rule-based · XGBoost | ML Production |
+| **v2.3** | Layer 8 — GenAI | 📋 Planned | LLM threat report generation · multi-feed synthesis · LangChain | Agentic AI |
+| **v2.4** | Layer 9 — MLOps | 📋 Planned | Production K8s · high-availability · AWS GuardDuty | ML Engineering |
+
+</details>
+
+<details>
+<summary><font size="5"><b>💰 P5 — ARTHIK v1 (Financial Database Engine)</b></font></summary>
+
+<br/>
+
+> UPI / Zomato / Swiggy-style SQL analytics · Window functions · CTEs.
+
+| Version | After Layer | Status | What's Added | Skill Proof |
+|:---:|:---:|:---:|---|:---:|
+| **v1.0** | Layer 3 — SQL | 📋 Planned | UPI/BFSI SQL analytics · PostgreSQL · Window functions · CTEs · SQLAlchemy · Alembic | SQL |
+
+</details>
+
+<details>
+<summary><font size="5"><b>💰 P6 — ARTHIK v2 (Real-Time Financial Platform)</b></font></summary>
+
+<br/>
+
+> Apache Kafka · Redis · ML fraud detection · RBI compliance · AWS RDS.
+
+| Version | After Layer | Status | What's Added | Skill Proof |
+|:---:|:---:|:---:|---|:---:|
+| **v2.0** | Layer 3 — SQL | 📋 Planned | Production PostgreSQL · RBI compliance · BFSI analytics · CTEs | SQL |
+| **v2.1** | Layer 5 — ML | 📋 Planned | Real-time ML fraud scoring · every UPI/card transaction · XGBoost | ML Production |
+| **v2.2** | Layer 8 — GenAI | 📋 Planned | GenAI customer support · multilingual banking · LangChain | Agentic AI |
+| **v2.3** | Layer 9 — MLOps | 📋 Planned | Bank-grade K8s · RBI audit trails · Kafka + Redis | ML Engineering |
+
+</details>
+
+<details>
+<summary><font size="5"><b>📈 P7 — NIVESH v1 (Quantitative Finance Engine)</b></font></summary>
+
+<br/>
+
+> NSE portfolio · Markowitz · PCA from scratch · Pure NumPy mathematics.
+
+| Version | After Layer | Status | What's Added | Skill Proof |
+|:---:|:---:|:---:|---|:---:|
+| **v1.0** | Layer 4 — Maths | 📋 Planned | NSE portfolio optimisation · Markowitz · PCA from scratch · Pure NumPy · SciPy | Math + Probability |
+
+</details>
+
+<details>
+<summary><font size="5"><b>📈 P8 — NIVESH v2 (Bayesian Risk Platform)</b></font></summary>
+
+<br/>
+
+> XGBoost + SHAP · LSTM · AWS SageMaker · MLflow drift.
+
+| Version | After Layer | Status | What's Added | Skill Proof |
+|:---:|:---:|:---:|---|:---:|
+| **v2.0** | Layer 4 — Maths | 📋 Planned | Bayesian portfolio optimisation · quant finance · PyMC | Math + Probability |
+| **v2.1** | Layer 5 — ML | 📋 Planned | XGBoost + SHAP · ML supplements Bayesian inference · MLflow | ML Production |
+| **v2.2** | Layer 7 — DL | 📋 Planned | LSTM market predictor · ensemble deep risk · PyTorch | Deep Learning |
+| **v2.3** | Layer 8 — GenAI | 📋 Planned | GenAI investment advisor · personalised portfolio | Agentic AI |
+| **v2.4** | Layer 9 — MLOps | 📋 Planned | K8s low-latency serving · AWS SageMaker · MLflow drift | ML Engineering |
+
+</details>
+
+<details>
+<summary><font size="5"><b>🔒 P9 — KAVACH v1 (Fraud Detection System)</b></font></summary>
+
+<br/>
+
+> UPI fraud ML classifier · XGBoost + SHAP explainability · MLflow + Optuna.
+
+| Version | After Layer | Status | What's Added | Skill Proof |
+|:---:|:---:|:---:|---|:---:|
+| **v1.0** | Layer 5 — ML | 📋 Planned | UPI fraud classifier · XGBoost + SHAP · MLflow · Optuna · sklearn pipeline | ML Production |
+
+</details>
+
+<details>
+<summary><font size="5"><b>🔒 P10 — KAVACH v2 (Enterprise AI Security)</b></font></summary>
+
+<br/>
+
+> 4 ML models · CNN-LSTM · SageMaker · GenAI incident summary · K8s + Feast.
+
+| Version | After Layer | Status | What's Added | Skill Proof |
+|:---:|:---:|:---:|---|:---:|
+| **v2.0** | Layer 5 — ML | 📋 Planned | ML fraud ensemble · 4 ML models · XGBoost · SHAP · MLflow | ML Production |
+| **v2.1** | Layer 7 — DL | 📋 Planned | CNN-LSTM stacked on ML ensemble · PyTorch · ONNX | Deep Learning |
+| **v2.2** | Layer 8 — GenAI | 📋 Planned | GenAI incident summaries · LLM explainable AI · LangChain | Agentic AI |
+| **v2.3** | Layer 9 — MLOps | 📋 Planned | Production K8s · real-time API · drift · SageMaker + Feast | ML Engineering |
+
+</details>
+
+<details>
+<summary><font size="5"><b>👁️ P11 — DRISHTI v1 (Computer Vision Intelligence)</b></font></summary>
+
+<br/>
+
+> EfficientNet + FaceNet + Grad-CAM + ONNX · Doctor-friendly AI with proof.
+
+| Version | After Layer | Status | What's Added | Skill Proof |
+|:---:|:---:|:---:|---|:---:|
+| **v1.0** | Layer 7 — DL | 📋 Planned | EfficientNet + FaceNet · Grad-CAM explainability · ONNX export · PyTorch | Deep Learning |
+
+</details>
+
+<details>
+<summary><font size="5"><b>👁️ P12 — DRISHTI v2 (Multi-Modal Deep Learning)</b></font></summary>
+
+<br/>
+
+> 4 DL architectures: Transformer + CNN-LSTM + Autoencoder + GNN ensembled.
+
+| Version | After Layer | Status | What's Added | Skill Proof |
+|:---:|:---:|:---:|---|:---:|
+| **v2.0** | Layer 7 — DL | 📋 Planned | Multi-modal vision · 4 DL architectures · Transformer + CNN-LSTM | Deep Learning |
+| **v2.1** | Layer 8 — GenAI | 📋 Planned | Vision-language GenAI explainer · LangChain | Agentic AI |
+| **v2.2** | Layer 9 — MLOps | 📋 Planned | K8s GPU serving · edge + cloud · ONNX | ML Engineering |
+| **v2.3** | Layer 10 — Final | 📋 Planned | Production-ready · SentinelAI integrated · OSS release | Step 610 |
+
+</details>
+
+<details>
+<summary><font size="5"><b>⚖️ P13 — NYAYA (India Legal Compliance Agent)</b></font></summary>
+
+<br/>
+
+> RAG on RBI + SEBI + Companies Act 2013 · LangChain + Claude + Pinecone.
+
+| Version | After Layer | Status | What's Added | Skill Proof |
+|:---:|:---:|:---:|---|:---:|
+| **v1.0** | Layer 8 — GenAI | 📋 Planned | RAG legal agent · Indian law corpus · LangChain + Claude + Pinecone | Agentic AI |
+| **v1.1** | Layer 9 — MLOps | 📋 Planned | LangGraph multi-agent workflows · NeMo Guardrails · K8s | ML Engineering |
+| **v1.2** | Layer 10 — Final | 📋 Planned | Production observability · Langfuse · audit trails · OSS | Step 610 |
+
+</details>
+
+<details>
+<summary><font size="5"><b>🚨 P14 — RAKSHAK (Autonomous SOC Platform)</b></font></summary>
+
+<br/>
+
+> 5 LLM agents: Triage + Investigator + Threat Intel + Responder + Reporter.
+
+| Version | After Layer | Status | What's Added | Skill Proof |
+|:---:|:---:|:---:|---|:---:|
+| **v1.0** | Layer 8 — GenAI | 📋 Planned | Autonomous SOC · LangGraph agents · 5 LLM agents · threat orchestration | Agentic AI |
+| **v1.1** | Layer 9 — MLOps | 📋 Planned | Production K8s autoscaling · MCP integration · multi-region HA | ML Engineering |
+| **v1.2** | Layer 10 — Final | 📋 Planned | 5-agent full SOC · all projects orchestrated · OSS release | Step 610 |
+
+</details>
+
+<details>
+<summary><font size="5"><b>📊 P15 — PRAHARI v1 (ML Production Monitor)</b></font></summary>
+
+<br/>
+
+> MLflow + Evidently + Prometheus + Grafana · Auto-retrain on drift.
+
+| Version | After Layer | Status | What's Added | Skill Proof |
+|:---:|:---:|:---:|---|:---:|
+| **v1.0** | Layer 9 — MLOps | 📋 Planned | MLflow + Evidently · Prometheus + Grafana · auto-retrain on drift · K8s | ML Engineering |
+
+</details>
+
+<details>
+<summary><font size="5"><b>📊 P16 — PRAHARI v2 (Cloud Infrastructure Platform)</b></font></summary>
+
+<br/>
+
+> Multi-region K8s · ArgoCD GitOps · Istio mTLS · Chaos Engineering · Feast.
+
+| Version | After Layer | Status | What's Added | Skill Proof |
+|:---:|:---:|:---:|---|:---:|
+| **v2.0** | Layer 9 — MLOps | 📋 Planned | Kubernetes + Terraform · multi-region · GitOps · ArgoCD · Istio | ML Engineering |
+| **v2.1** | Layer 10 — Final | 📋 Planned | OPA policy · Falco runtime security · hosts all ecosystem projects | Step 610 |
+
+</details>
+
+<details>
+<summary><font size="5"><b>🏆 P17 — SENTINELAI INDIA (Unified Command Centre)</b></font></summary>
+
+<br/>
+
+> ALL 16 projects unified into ONE production platform — THE MASTERPIECE.
+
+| Version | After Layer | Status | What's Added | Skill Proof |
+|:---:|:---:|:---:|---|:---:|
+| **v1.0** | Layer 10 — Final | 📋 Planned | Unified command centre · all 16 projects integrated · single-pane platform | Step 610 |
+
+</details>
+
+<details>
+<summary><font size="5"><b>🌐 P18 — SENTINELAI INDIA OSS (Open Source Platform)</b></font></summary>
+
+<br/>
+
+> Open Source launch · PyPI · Helm chart · Docusaurus docs · MIT License.
+
+| Version | After Layer | Status | What's Added | Skill Proof |
+|:---:|:---:|:---:|---|:---:|
+| **v1.0** | Layer 10 — Final | 📋 Planned | OSS launch · `pip install sentinelai` · Helm chart · Docusaurus docs · MIT License | Step 610 |
 
 </details>
 
