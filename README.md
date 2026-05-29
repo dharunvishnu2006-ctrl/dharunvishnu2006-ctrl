@@ -410,27 +410,34 @@
 
 ---
 
-## 🛠️ SKILLS — Built Across 610 Steps
+## 🛠️ TECHNOLOGIES & TOOLS
 
-<p align="center">
-<img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
-<img src="https://img.shields.io/badge/DSA_Algorithms-FF6B35?style=for-the-badge&logo=leetcode&logoColor=white"/>
-<img src="https://img.shields.io/badge/SQL_PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white"/>
-<img src="https://img.shields.io/badge/Machine_Learning-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white"/>
-<img src="https://img.shields.io/badge/Deep_Learning-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white"/>
-<img src="https://img.shields.io/badge/GenAI_LangChain-1C3C3C?style=for-the-badge&logo=langchain&logoColor=white"/>
-<img src="https://img.shields.io/badge/AWS_Cloud-232F3E?style=for-the-badge&logo=amazonaws&logoColor=white"/>
-<img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white"/>
-<img src="https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white"/>
-<img src="https://img.shields.io/badge/Terraform-7B42BC?style=for-the-badge&logo=terraform&logoColor=white"/>
-<img src="https://img.shields.io/badge/MLflow-0194E2?style=for-the-badge&logo=mlflow&logoColor=white"/>
-<img src="https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white"/>
-<img src="https://img.shields.io/badge/Streamlit-FF4B4B?style=for-the-badge&logo=streamlit&logoColor=white"/>
-<img src="https://img.shields.io/badge/Cyber_Security-DC143C?style=for-the-badge"/>
-<img src="https://img.shields.io/badge/RAG_Legal_Medical-8B5CF6?style=for-the-badge"/>
-<img src="https://img.shields.io/badge/MLOps_Production-22C55E?style=for-the-badge"/>
-<img src="https://img.shields.io/badge/Open_Source_MIT-181717?style=for-the-badge&logo=github&logoColor=white"/>
+> ### 🚀 MY ONE-YEAR MISSION STATUS (2026-2027)
+> I am on a structured 365-day roadmap to master AI, Cloud, and Cybersecurity. Below is my current progress and the tech-stack I am unlocking layer by layer.
+
+### 🌟 CURRENTLY MASTERED & LEARNING 
+<p align="left\">
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
+  <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white"/>
+  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
 </p>
+
+### 🎯 TARGET TECH-STACK TO UNLOCK 
+<p align="left\">
+  <img src="https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Terraform-7B42BC?style=for-the-badge&logo=terraform&logoColor=white"/>
+  <img src="https://img.shields.io/badge/MLflow-0194E2?style=for-the-badge&logo=mlflow&logoColor=white"/>
+  <img src="https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Streamlit-FF4B4B?style=for-the-badge&logo=streamlit&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Cyber_Security-DC143C?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/RAG_Legal_Medical-8B5CF6?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/MLOps_Production-22C55E?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/Open_Source_MIT-181717?style=for-the-badge&logo=github&logoColor=white"/>
+</p>
+
+---
 
 ---
 
