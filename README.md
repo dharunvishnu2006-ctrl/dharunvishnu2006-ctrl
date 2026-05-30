@@ -48,7 +48,8 @@
 ### 🚦 ***CURRENT STATUS***
 
 **🐍 Python Progress So Far:** Setup, Variables, Loops, Functions, Strings  
-**🎯 Currently Learning:** Layer 1 — Step 57 / 610 *(Python For Everybody)* **📊 Mission Progress:** ![](https://progress-bar.xyz/9/?scale=100&title=Completed&width=160&color=22C55E&suffix=%25)
+**🎯 Currently Learning:** Layer 1 — Step 57 / 85 *(Python For Everybody)* **📊 layer Progress:** ![](https://progress-bar.xyz/67/?scale=100&title=Completed&width=160&color=22C55E&suffix=%25)
+**🎯 Overall Progress:** all Layers — Step 57 / 610 *(FULL ROADMAP)* **📊 Mission Progress:** ![](https://progress-bar.xyz/9/?scale=100&title=Completed&width=160&color=22C55E&suffix=%25)
 
 ### 📖 ***THE PLAN — 1 Year Mission***
 ### *( 8 Courses · 10 Layers · 610 Steps · 20 Projects · 3 AWS Certifications )*
@@ -423,18 +424,13 @@
 
 ***I am on a structured 365-day roadmap to master AI, Cloud, and Cybersecurity. Below is my current progress, tracking my journey and unlocking layer by layer.***
 
-### 🌟 ***CURRENTLY MASTERED & LEARNING***
-<p align="left">
-  <img src="https://img.shields.io/badge/Python_3-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
-  <img src="https://img.shields.io/badge/GitHub_Pro-181717?style=for-the-badge&logo=github&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Linux_CLI-FCC624?style=for-the-badge&logo=linux&logoColor=black"/>
-  <br/>
-  <img src="https://img.shields.io/badge/Python_OOP-🎯_Mastered-blue?style=flat-square"/>
-  <img src="https://img.shields.io/badge/REST_APIs_%26_JSON-🌐_Mastered-blue?style=flat-square"/>
-  <img src="https://img.shields.io/badge/Data_Structures-📊_Mastered-blue?style=flat-square"/>
-  <img src="https://img.shields.io/badge/pytest_(Unit_Testing)-🧪_Learning-orange?style=flat-square"/>
-  <img src="https://img.shields.io/badge/Git_%26_GitHub_Actions_CI-🚀_Learning-orange?style=flat-square"/>
-</p>
+### 🌟 ***CURRENTLY LEARNING & PRACTICING***
+
+![](https://img.shields.io/badge/Python_3-Learning_&_Practicing-blue?style=flat-square&logo=python)
+![](https://img.shields.io/badge/GitHub_Pro-Learning_&_Practicing-black?style=flat-square&logo=github)
+![](https://img.shields.io/badge/Linux_CLI-Learning_&_Practicing-yellow?style=flat-square&logo=linux)
+
+**Python OOP** · *Learning* | **REST APIs & JSON** · *Learning* | **Data Structures** · *Learning* | **pytest (Unit Testing)** · *Learning*
 
  ### 🎯 ***TARGET TECH-STACK TO UNLOCK***
 <p align="left">
