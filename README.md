@@ -50,7 +50,8 @@
 **🐍 Python Progress So Far:** Setup, Variables, Loops, Functions, Strings  
 **🎯 Currently Learning:** Layer 1 — Step 57 / 610 *(Python For Everybody)* **📊 Mission Progress:** ![](https://progress-bar.xyz/9/?scale=100&title=Completed&width=160&color=22C55E&suffix=%25)
 
-# 🗺️ THE PLAN — 1 Year Mission <br>          ( 8 Courses · 10 Layers · 610 Steps · 20 Projects · 3 AWS Certifications )</br>
+### 📖 ***THE PLAN — 1 Year Mission***
+### *( 8 Courses · 10 Layers · 610 Steps · 20 Projects · 3 AWS Certifications )*
 
 <details>
 <summary><font size="6"><b>📋 Click to expand full Layer Roadmap</b></font></summary>
@@ -89,7 +90,7 @@
 
 ---
 
-# 👑 THE FLAGSHIPS — KING + QUEEN
+### 👑 ***THE FLAGSHIPS — KING + QUEEN***
 
 ***the Two projects that grow with every single layer. By Step 610, these will be production-grade showcases built from scratch — layer by layer, skill by skill.***
 
@@ -143,7 +144,7 @@
 
 ---
 
-# 🏗️ THE ECOSYSTEM — 18 LIVING PROJECTS
+### 🧱 ***THE ECOSYSTEM — 18 LIVING PROJECTS***
 
 ***Every project is part of one unified AI + Cybersecurity command centre — SentinelAI India. None of them are isolated; they are all connected. All upgraded layer-by-layer.***
 
