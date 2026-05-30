@@ -47,17 +47,8 @@
 
 ## 🚦 CURRENT STATUS
 
-**Layer 1 — Step 57 / 610 ( Python For Everybody )** 🔵
-### This Week
-✅ Completed:
-- REST APIs
-- Environment Variables
-- Git Basics
-
-🚧 Currently Learning:
-- GitHub Professional
-- Linux CLI
----
+**🐍 Python Progress So Far:** Setup, Variables, Loops, Functions, Strings  
+**🎯 Currently Learning:** Layer 1 — Step 57 / 610 *(Python For Everybody)* **📊 Mission Progress:** <img src="https://vanycosas.vercel.app/api/badge/610/57?label=Completed&color=22C55E&labelColor=181717&style=for-the-badge" alt="Progress Badge"/>
 
 # 🗺️ THE PLAN — 1 Year Mission <br>          ( 8 Courses · 10 Layers · 610 Steps · 20 Projects · 3 AWS Certifications )</br>
 
