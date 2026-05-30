@@ -47,7 +47,8 @@
 
 ### 🚦 ***CURRENT STATUS***
 
-**🐍 Python Progress So Far:** Setup, Variables, Loops, Functions, Strings  
+**🐍 Python Progress So Far:** Setup, Variables, Loops, Functions, Strings, Pandas, Matplotlib,Web Scraping,  SQLite, NumPy, OOP, CSV Files, Lambda, Dictionaries, REST APIs  
+  
 **🎯 Currently Learning:** Layer 1 — Step 57 / 85 *(Python For Everybody)* **📊 layer Progress:** ![](https://progress-bar.xyz/67/?scale=100&title=Completed&width=160&color=22C55E&suffix=%25)
 
 **🎯 Overall Progress:** All Layers — Step 57 / 610 *(Full Roadmap)* **📊 1 year Mission Progress:** ![](https://progress-bar.xyz/9/?scale=100&title=Completed&width=160&color=22C55E&suffix=%25)
