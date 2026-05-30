@@ -35,7 +35,7 @@
 |---|---|
 | 🪪 **Name** | **J. Dharun Vishnu** |
 | 🎓 **Degree** | **BSc Information Technology (2023 – 2026)** |
-| 🛤️ **Track** | **AI/ML Engineer → Cloud Engineer → Cybersecurity Engineer** |
+| 🛤️ **Track** | **Future DevSecOps & AI Security Architect** |
 | 📍 **Location** | **India 🇮🇳** |
 | 🎯 **Mission** | **Build AI systems that protect India's digital infrastructure** |
 | 🗺️ **Roadmap** | **8 Coursera Courses · 10 Layers · 610 Steps · 3 AWS Certifications · 20 Projects** |
@@ -49,7 +49,15 @@
 ## 🚦 CURRENT STATUS
 
 **Layer 1 — Step 57 / 610 ( Python For Everybody )** 🔵
+### This Week
+✅ Completed:
+- REST APIs
+- Environment Variables
+- Git Basics
 
+🚧 Currently Learning:
+- GitHub Professional
+- Linux CLI
 ---
 
 # 🗺️ THE PLAN — 1 Year Mission <br>          ( 8 Courses · 10 Layers · 610 Steps · 20 Projects · 3 AWS Certifications )</br>
@@ -161,7 +169,7 @@
 
 | Version | After Layer | Status | What's Added | Skill Proof |
 |:---:|:---:|:---:|---|:---:|
-| **v1.0** | Layer 1 — Python | ✅ Certified` | Streamlit dashboard · India health datasets · OOP analytics engine · pytest · CI/CD | Python OOP |
+| **v1.0** | Layer 1 — Python | ✅ completed | Streamlit dashboard · India health datasets · OOP analytics engine · pytest · CI/CD | Python OOP |
 
 </details>
 
@@ -471,5 +479,5 @@
 ═══════════════════════════════════════════════════════════════════ -->
 
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:8A2BE2,25:1E90FF,50:00CED1,75:FF69B4,100:FF8C42&height=160&section=footer&text=Commit%20Code%20Every%20Day%20%E2%80%A2%20Build%20Something%20Real%20%E2%80%A2%20Let%20Your%20Work%20Speak&fontColor=ffffff&fontSize=26&fontAlignY=72&animation=fadeIn" alt="footer banner"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:8A2BE2,25:1E90FF,50:00CED1,75:FF69B4,100:FF8C42&height=160&section=footer&text=Commit%20Code%20Every%20Day%20%E2%80%A2%20Build%20Something%20Real%20%E2%80%A2%20Let%20Your%20Work%20Speak&fontColor=ffffff&fontSize=24&fontAlignY=72&animation=fadeIn" alt="footer banner"/>
 </p>
