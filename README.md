@@ -49,6 +49,7 @@
 
 **🐍 Python Progress So Far:** Setup, Variables, Loops, Functions, Strings  
 **🎯 Currently Learning:** Layer 1 — Step 57 / 85 *(Python For Everybody)* **📊 layer Progress:** ![](https://progress-bar.xyz/67/?scale=100&title=Completed&width=160&color=22C55E&suffix=%25)
+
 **🎯 Overall Progress:** all Layers — Step 57 / 610 *(FULL ROADMAP)* **📊 Mission Progress:** ![](https://progress-bar.xyz/9/?scale=100&title=Completed&width=160&color=22C55E&suffix=%25)
 
 ### 📖 ***THE PLAN — 1 Year Mission***
