@@ -28,7 +28,7 @@
 
 ---
 
-## ⚡ WHO AM I
+### ⚡ ***WHO AM I***
 
 | | |
 |---|---|
@@ -45,7 +45,7 @@
 
 ---
 
-## 🚦 CURRENT STATUS
+### 🚦 ***CURRENT STATUS***
 
 **🐍 Python Progress So Far:** Setup, Variables, Loops, Functions, Strings  
 **🎯 Currently Learning:** Layer 1 — Step 57 / 610 *(Python For Everybody)* **📊 Mission Progress:** ![](https://progress-bar.xyz/9/?scale=100&title=Completed&width=160&color=22C55E&suffix=%25)
