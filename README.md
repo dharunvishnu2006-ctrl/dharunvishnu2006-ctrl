@@ -39,9 +39,9 @@
 | 🎯 **Mission** | **Build AI systems that protect India's digital infrastructure** |
 | 🗺️ **Roadmap** | **8 Coursera Courses · 10 Layers · 610 Steps · 3 AWS Certifications · 20 Projects** |
 
-> **I'm not following a bootcamp. I'm executing a 610-step engineering roadmap — building 20 production-grade AI + security projects from scratch before I graduate.**
->
-> **Every project with a v2 is a living project — it starts simple and upgrades automatically as each new layer completes. One codebase. Growing smarter with every layer.**
+***I'm not following a bootcamp. I'm executing a 610-step engineering roadmap — building 20 production-grade AI + security projects from scratch before I graduate.***
+
+***Every project with a v2 is a living project — it starts simple and upgrades automatically as each new layer completes. One codebase. Growing smarter with every layer.***
 
 ---
 
