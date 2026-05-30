@@ -48,9 +48,7 @@
 ## 🚦 CURRENT STATUS
 
 **🐍 Python Progress So Far:** Setup, Variables, Loops, Functions, Strings  
-**🎯 Currently Learning:** Layer 1 — Step 57 / 610 *(Python For Everybody)*
-
-**📊 Mission Progress:** https://img.shields.io/badge/dynamic/json?color=22C55E&label=Completed&query=%24.progress&url=https%3A%2F%2Fprogress-bar-api.vercel.app%2Fapi%2F610%2F57&style=for-the-badge
+**🎯 Currently Learning:** Layer 1 — Step 57 / 610 *(Python For Everybody)* **📊 Mission Progress:** <img src="https://img.shields.io/badge/dynamic/json?color=22C55E&label=Completed&query=%24.progress&url=https%3A%2F%2Fprogress-bar-api.vercel.app%2Fapi%2F610%2F57&style=for-the-badge" alt="Progress"/>
 
 # 🗺️ THE PLAN — 1 Year Mission <br>          ( 8 Courses · 10 Layers · 610 Steps · 20 Projects · 3 AWS Certifications )</br>
 
