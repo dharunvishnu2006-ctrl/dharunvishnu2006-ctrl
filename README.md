@@ -138,7 +138,7 @@
 
 </details>
 
-### 🔥 The Golden Rule
+### 🔥 ***The Golden Rule***
 
 ***90% effort → 18 ecosystem projects (the foundation) 10% effort → KING + QUEEN (the flagships). Never rewrite. Same skill — bigger impact.***
 
