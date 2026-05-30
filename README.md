@@ -3,7 +3,7 @@
 ═══════════════════════════════════════════════════════════════════ -->
 
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=rect&color=0:8A2BE2,25:1E90FF,50:00CED1,75:FF69B4,100:FF8C42&height=60&text=WELCOME%20TO%20MY%20GITHUB&fontColor=ffffff&fontSize=26&fontAlignY=55" alt="welcome banner"/>
+  <img src="https://capsule-render.vercel.app/api?type=rect&color=0:8A2BE2,25:1E90FF,50:00CED1,75:FF69B4,100:FF8C42&height=60&text=WELCOME%20TO%20MY%20GITHUB%20SPACE&fontColor=ffffff&fontSize=26&fontAlignY=55" alt="welcome banner"/>
 </p>
 
 <!-- ═══════════════════════════════════════════════════════════════════
