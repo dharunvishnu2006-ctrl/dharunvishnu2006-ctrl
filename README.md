@@ -427,8 +427,6 @@
 
 ### 🌟 ***CURRENTLY LEARNING & PRACTICING***
 
-### 🌟 ***CURRENTLY LEARNING & PRACTICING***
-
 <p align="left">
   <img src="https://img.shields.io/badge/Python_3-Learning_&_Practicing-blue?style=flat-square&logo=python">
   <img src="https://img.shields.io/badge/GitHub_Pro-Learning_&_Practicing-black?style=flat-square&logo=github">
