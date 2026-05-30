@@ -91,7 +91,7 @@
 
 # 👑 THE FLAGSHIPS — KING + QUEEN
 
-> Two projects that grow with every single layer. By Step 610, these will be production-grade showcases built from scratch — layer by layer, skill by skill.
+***the Two projects that grow with every single layer. By Step 610, these will be production-grade showcases built from scratch — layer by layer, skill by skill.***
 
 <details>
 <summary><font size="6"><b>👑 KING — CloudShield AI (AI-Powered Cloud Security CSPM Platform)</b></font></summary>
@@ -139,16 +139,13 @@
 
 ### 🔥 The Golden Rule
 
-> **90% effort → 18 ecosystem projects (the foundation)**
-> **10% effort → KING + QUEEN flagships (the showcase)**
-> **Reuse ecosystem code in flagships. Never rewrite. Same skill — bigger impact.**
+***90% effort → 18 ecosystem projects (the foundation) 10% effort → KING + QUEEN (the flagships). Never rewrite. Same skill — bigger impact.***
 
 ---
 
 # 🏗️ THE ECOSYSTEM — 18 LIVING PROJECTS
 
-> Every project is part of one unified AI + Cybersecurity command centre — **SentinelAI India.**
-> None of these are tutorial clones. All connected. All upgraded layer-by-layer.
+***Every project is part of one unified AI + Cybersecurity command centre — SentinelAI India. None of them are isolated; they are all connected. All upgraded layer-by-layer.***
 
 <details>
 <summary><font size="7"><b>🏗️ Click to expand all 18 Ecosystem Projects</b></font></summary>
@@ -421,8 +418,9 @@
 
 ## 🛠️ TECHNOLOGIES & TOOLS
 
-> ### 🚀 MY ONE-YEAR MISSION STATUS (2026-2027)
-> I am on a structured 365-day roadmap to master AI, Cloud, and Cybersecurity. Below is my current progress and the tech-stack I am unlocking layer by layer.
+## 🚀 MY ONE-YEAR MISSION STATUS (2026-2027)
+
+***I am on a structured 365-day roadmap to master AI, Cloud, and Cybersecurity. Below is my current progress, tracking my journey and unlocking layer by layer.***
 
 ### 🌟 CURRENTLY MASTERED & LEARNING 
 <p align="left">
