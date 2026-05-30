@@ -33,11 +33,11 @@
 | | |
 |---|---|
 | 🪪 ***Name*** | ***J. Dharun Vishnu*** |
-| 🎓 **Degree** | **BSc Information Technology (2023 – 2026)** |
-| 🛤️ **Track** | **Future DevSecOps & AI Security Architect** |
-| 📍 **Location** | **India 🇮🇳** |
-| 🎯 **Mission** | **Build AI systems that protect India's digital infrastructure** |
-| 🗺️ **Roadmap** | **8 Coursera Courses · 10 Layers · 610 Steps · 3 AWS Certifications · 20 Projects** |
+| 🎓 ***Degree*** | ***BSc Information Technology (2023 – 2026)*** |
+| 🛤️ ***Track*** | ***Future DevSecOps & AI Security Architect*** |
+| 📍 ***Location*** | ***India 🇮🇳*** |
+| 🎯 ***Mission*** | ***Build AI systems that protect India's digital infrastructure*** |
+| 🗺️ ***Roadmap*** | ***8 Coursera Courses · 10 Layers · 610 Steps · 3 AWS Certifications · 20 Projects*** |
 
 ***I'm not following a bootcamp. I'm executing a 610-step engineering roadmap — building 20 production-grade AI + security projects from scratch before I graduate.***
 
