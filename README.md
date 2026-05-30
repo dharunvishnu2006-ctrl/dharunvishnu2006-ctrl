@@ -18,7 +18,6 @@
 <p align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=26&duration=3000&pause=1500&color=22D3EE&center=true&vCenter=true&multiline=true&weight=900&width=900&height=150&lines=On+a+1+Year+Mission+to+Build+SentinelAI+India+OSS;Mastering+AI%2FML%2C+Cloud+%26+Cybersecurity;Building+Connected+Systems+from+First+Principles" alt="tagline"/>
 </p>
-
 <div align="center">
 
 ![Profile Views](https://komarev.com/ghpvc/?username=dharunvishnu2006-ctrl&color=00CED1&style=for-the-badge&label=PROFILE+VIEWS)
