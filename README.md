@@ -418,7 +418,7 @@
 
 ## 🛠️ TECHNOLOGIES & TOOLS
 
-## 🚀 MY ONE-YEAR MISSION STATUS (2026-2027)
+## 🚀 ***MY ONE-YEAR MISSION STATUS (2026-2027)***
 
 ***I am on a structured 365-day roadmap to master AI, Cloud, and Cybersecurity. Below is my current progress, tracking my journey and unlocking layer by layer.***
 
