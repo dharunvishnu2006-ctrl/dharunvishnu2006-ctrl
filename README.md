@@ -48,7 +48,7 @@
 ## 🚦 CURRENT STATUS
 
 **🐍 Python Progress So Far:** Setup, Variables, Loops, Functions, Strings  
-**🎯 Currently Learning:** Layer 1 — Step 57 / 610 *(Python For Everybody)* **📊 Mission Progress:** ![](https://progress-bar.xyz/9/?scale=100&title=Completed&width=160&color=22C55E&suffix=%25)
+**🎯 Currently Learning:** Layer 1 — Step 444 / 610 *(Python For Everybody)* **📊 Mission Progress:** ![](https://progress-bar.xyz/72/?scale=100&title=Completed&width=160&color=22C55E&suffix=%25)
 
 # 🗺️ THE PLAN — 1 Year Mission <br>          ( 8 Courses · 10 Layers · 610 Steps · 20 Projects · 3 AWS Certifications )</br>
 
