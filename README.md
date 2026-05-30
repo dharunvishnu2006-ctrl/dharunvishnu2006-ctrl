@@ -1,4 +1,12 @@
 <!-- ═══════════════════════════════════════════════════════════════════
+     WELCOME BANNER — Capsule Render (RECT / FLAT)
+═══════════════════════════════════════════════════════════════════ -->
+
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=rect&color=0:8A2BE2,25:1E90FF,50:00CED1,75:FF69B4,100:FF8C42&height=60&text=WELCOME%20TO%20MY%20GITHUB&fontColor=ffffff&fontSize=26&fontAlignY=55" alt="welcome banner"/>
+</p>
+
+<!-- ═══════════════════════════════════════════════════════════════════
      RAINBOW GRADIENT BANNER — Capsule Render (WAVING)
 ═══════════════════════════════════════════════════════════════════ -->
 
@@ -6,12 +14,9 @@
   <img src="https://capsule-render.vercel.app/api?type=waving&color=0:8A2BE2,25:1E90FF,50:00CED1,75:FF69B4,100:FF8C42&height=220&section=header&text=J.%20DHARUN%20VISHNU&fontColor=ffffff&fontSize=55&fontAlignY=32&desc=BSc%20IT%20%E2%80%A2%20Aspiring%20AI%2FML%20and%20DevSecOps%20Architect&descSize=18&descAlignY=52&animation=fadeIn" alt="Dharun Vishnu banner"/>
 </p>
 
-<!-- BOLD FAST TYPING — Bright Cyan, 2 lines -->
+<!-- BOLD FAST TYPING — Bright Cyan, 3 lines -->
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=26&duration=3000&pause=1000&color=22D3EE&center=true&vCenter=true&multiline=true&weight=900&width=900&height=106&lines=On+a+1+year+mission+to+build+SentinelAI+India+OSS;Mastering+AI+Innovations+%26+Production-Grade+Cloud+Security" alt="tagline"/>
-</p>
-<p align="center">
-  <b><i>✨ "While others copy tutorials — I build ecosystems." ✨</i></b>
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=26&duration=3000&pause=1000&color=22D3EE&center=true&vCenter=true&multiline=true&weight=900&width=900&height=130&lines=On+a+1+Year+Mission+to+Build+SentinelAI+India+OSS;Mastering+AI%2FML%2C+Cloud+%26+Cybersecurity;Building+Connected+Systems+from+First+Principles" alt="tagline"/>
 </p>
 
 <div align="center">
@@ -26,20 +31,18 @@
 
 ## ⚡ WHO AM I
 
-
-
-> **I'm not following a bootcamp. I'm executing a 610-step engineering roadmap — building 20 production-grade AI + security projects from scratch before I graduate.**
->
-> **Ever## ⚡ WHO AM I
-
 | | |
 |---|---|
 | 🪪 **Name** | **J. Dharun Vishnu** |
 | 🎓 **Degree** | **BSc Information Technology (2023 – 2026)** |
-| 🎯 **Target Role** | **Future DevSecOps & AI Security Architect** |
+| 🛤️ **Track** | **AI/ML Engineer → Cloud Engineer → Cybersecurity Engineer** |
 | 📍 **Location** | **India 🇮🇳** |
-| 🗺️ **Execution** | **One-Year Mission · 8 coursera courses · 10 Layers · 610 Steps · 20 Living Projects** |
-| 🏆 **Ultimate Goal** | **Build AI systems that protect India's digital infrastructure** |y project with a v2 is a living project — it starts simple and upgrades automatically as each new layer completes. One codebase. Growing smarter with every layer.**
+| 🎯 **Mission** | **Build AI systems that protect India's digital infrastructure** |
+| 🗺️ **Roadmap** | **8 Coursera Courses · 10 Layers · 610 Steps · 3 AWS Certifications · 20 Projects** |
+
+> **I'm not following a bootcamp. I'm executing a 610-step engineering roadmap — building 20 production-grade AI + security projects from scratch before I graduate.**
+>
+> **Every project with a v2 is a living project — it starts simple and upgrades automatically as each new layer completes. One codebase. Growing smarter with every layer.**
 
 ---
 
@@ -468,5 +471,5 @@
 ═══════════════════════════════════════════════════════════════════ -->
 
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:8A2BE2,25:1E90FF,50:00CED1,75:FF69B4,100:FF8C42&height=160&section=footer&text=Commit%20Code%20Every%20Day%20%E2%80%A2%20Build%20Something%20Real%20%E2%80%A2%20Let%20Your%20Work%20Speak&fontColor=ffffff&fontSize=24&fontAlignY=72&animation=fadeIn" alt="footer banner"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:8A2BE2,25:1E90FF,50:00CED1,75:FF69B4,100:FF8C42&height=160&section=footer&text=Commit%20Code%20Every%20Day%20%E2%80%A2%20Build%20Something%20Real%20%E2%80%A2%20Let%20Your%20Work%20Speak&fontColor=ffffff&fontSize=26&fontAlignY=72&animation=fadeIn" alt="footer banner"/>
 </p>
