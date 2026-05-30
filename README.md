@@ -16,7 +16,7 @@
 
 <!-- BOLD FAST TYPING — Bright Cyan, 3 lines -->
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=26&duration=3000&pause=5000&color=22D3EE&center=true&vCenter=true&multiline=true&weight=900&width=900&height=130&lines=On+a+1+Year+Mission+to+Build+SentinelAI+India+OSS;Mastering+AI%2FML%2C+Cloud+%26+Cybersecurity;Building+Connected+Systems+from+First+Principles" alt="tagline"/>
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=26&duration=3000&pause=5000&color=22D3EE&center=true&vCenter=true&multiline=true&weight=900&width=900&height=130&lines=On+a+1+Year+Mission+to+Build+SentinelAI+India+OSS%0AMastering+AI%2FML%2C+Cloud+%26+Cybersecurity%0ABuilding+Connected+Systems+from+First+Principles" alt="tagline"/>
 </p>
 
 <div align="center">
