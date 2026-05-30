@@ -32,7 +32,7 @@
 
 | | |
 |---|---|
-| 🪪 **Name** | **J. Dharun Vishnu** |
+| 🪪 ***Name*** | ***J. Dharun Vishnu*** |
 | 🎓 **Degree** | **BSc Information Technology (2023 – 2026)** |
 | 🛤️ **Track** | **Future DevSecOps & AI Security Architect** |
 | 📍 **Location** | **India 🇮🇳** |
