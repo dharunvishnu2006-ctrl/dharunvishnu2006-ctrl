@@ -434,14 +434,21 @@
 > I am on a structured 365-day roadmap to master AI, Cloud, and Cybersecurity. Below is my current progress and the tech-stack I am unlocking layer by layer.
 
 ### 🌟 CURRENTLY MASTERED & LEARNING 
-<p align="left\">
-  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
-  <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white"/>
-  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
+<p align="left">
+  <img src="https://img.shields.io/badge/Python_3-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
+  <img src="https://img.shields.io/badge/GitHub_Pro-181717?style=for-the-badge&logo=github&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Linux_CLI-FCC624?style=for-the-badge&logo=linux&logoColor=black"/>
+  <br/>
+  <img src="https://img.shields.io/badge/Python_OOP-🎯_Mastered-blue?style=flat-square"/>
+  <img src="https://img.shields.io/badge/REST_APIs_%26_JSON-🌐_Mastered-blue?style=flat-square"/>
+  <img src="https://img.shields.io/badge/Data_Structures-📊_Mastered-blue?style=flat-square"/>
+  <img src="https://img.shields.io/badge/pytest_(Unit_Testing)-🧪_Learning-orange?style=flat-square"/>
+  <img src="https://img.shields.io/badge/Git_%26_GitHub_Actions_CI-🚀_Learning-orange?style=flat-square"/>
 </p>
 
 ### 🎯 TARGET TECH-STACK TO UNLOCK 
-<p align="left\">
+<p align="left">
+  <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white"/>
   <img src="https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white"/>
   <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white"/>
   <img src="https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white"/>
