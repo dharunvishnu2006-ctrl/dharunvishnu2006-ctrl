@@ -417,13 +417,13 @@
 
 ---
 
-## 🛠️ TECHNOLOGIES & TOOLS
+### 🛠️ ***TECHNOLOGIES & TOOLS***
 
-## 🚀 ***MY ONE-YEAR MISSION STATUS (2026-2027)***
+### 🚀 ***MY ONE-YEAR MISSION STATUS (2026-2027)***
 
 ***I am on a structured 365-day roadmap to master AI, Cloud, and Cybersecurity. Below is my current progress, tracking my journey and unlocking layer by layer.***
 
-### 🌟 CURRENTLY MASTERED & LEARNING 
+### 🌟 ***CURRENTLY MASTERED & LEARNING***
 <p align="left">
   <img src="https://img.shields.io/badge/Python_3-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
   <img src="https://img.shields.io/badge/GitHub_Pro-181717?style=for-the-badge&logo=github&logoColor=white"/>
@@ -436,7 +436,7 @@
   <img src="https://img.shields.io/badge/Git_%26_GitHub_Actions_CI-🚀_Learning-orange?style=flat-square"/>
 </p>
 
-### 🎯 TARGET TECH-STACK TO UNLOCK 
+ ### 🎯 ***TARGET TECH-STACK TO UNLOCK***
 <p align="left">
   <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white"/>
   <img src="https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white"/>
@@ -456,7 +456,7 @@
 
 ---
 
-## 📊 GITHUB STATS
+### 📊 ***GITHUB STATS***
 
 <div align="center">
 
@@ -466,7 +466,7 @@
 
 ---
 
-## 🌐 CONNECT
+### 🌐 ***CONNECT***
 
 <div align="center">
 
