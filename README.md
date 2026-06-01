@@ -53,7 +53,7 @@
 
 **🎯 Overall Progress:** All Layers — Step 60 / 610 *(Full Roadmap)* **📊 1 year Mission Progress:** ![](https://progress-bar.xyz/10/?scale=100&title=Completed&width=160&color=22C55E&suffix=%25)
 
-### 📖 ***THE PLAN — 1 Year Mission***
+## 📖 ***THE PLAN — 1 Year Mission***
 ### *( 8 Courses · 10 Layers · 610 Steps · 20 Projects · 3 AWS Certifications )*
 
 <details>
