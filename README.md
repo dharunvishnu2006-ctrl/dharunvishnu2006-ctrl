@@ -49,9 +49,9 @@
 
 **🐍 Python Progress So Far:** Setup, Variables, Loops, Functions, Strings, Pandas, Matplotlib,Web Scraping,  SQLite, NumPy, OOP, CSV Files, Lambda, Dictionaries, Rest Apis  
   
-**🎯 Currently Learning:** Layer 1 — Step 60 / 85 *(Python For Everybody)* **📊 layer Progress:** ![](https://progress-bar.xyz/70/?scale=100&title=Completed&width=160&color=22C55E&suffix=%25)
+**🎯 Currently Learning:** Layer 1 — Step 66 / 85 *(Python For Everybody)* **📊 layer Progress:** ![](https://progress-bar.xyz/78/?scale=100&title=Completed&width=160&color=22C55E&suffix=%25)
 
-**🎯 Overall Progress:** All Layers — Step 60 / 610 *(Full Roadmap)* **📊 1 year Mission Progress:** ![](https://progress-bar.xyz/10/?scale=100&title=Completed&width=160&color=22C55E&suffix=%25)
+**🎯 Overall Progress:** All Layers — Step 66 / 610 *(Full Roadmap)* **📊 1 year Mission Progress:** ![](https://progress-bar.xyz/11/?scale=100&title=Completed&width=160&color=22C55E&suffix=%25)
 
 ### 📖 ***THE PLAN — 1 Year Mission***
 ### *( 8 Courses · 10 Layers · 610 Steps · 20 Projects · 3 AWS Certifications )*
