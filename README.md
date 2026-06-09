@@ -72,7 +72,7 @@
 | 🔴 **Layer 7** | Step 334–413 | **🧠 DEEP LEARNING SPECIALIZATION**<br/>Andrew Ng / DeepLearning.AI · PyTorch · EfficientNet · Transformers · ONNX | 📋 Planned |
 | 🔷 **Layer 8** | Step 414–500 | **💬 GENAI WITH LLMs**<br/>DeepLearning.AI + AWS · LangChain · RAG · CrewAI · LangGraph | 📋 Planned |
 | 🟩 **Layer 9** | Step 501–600 | **⚙️ ML ENGINEERING FOR PRODUCTION**<br/>DeepLearning.AI · MLflow · K8s · ArgoCD · Istio · Terraform | 📋 Planned |
-| 🟥 **Layer 10**|              | **🏆 FINAL POLISH + OSS**<br/>Open Source · AWS ML Specialty · Job Ready | 📋 Planned |
+| 🟥 **Layer 10**|      -        | **🏆 FINAL POLISH + OSS**<br/>Open Source · AWS ML Specialty · Job Ready | 📋 Planned |
 
 </details>
 
