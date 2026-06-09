@@ -104,18 +104,14 @@
 
 > AWS infrastructure auto-scanner with LLM-driven Terraform remediation.
 
-| Version | After Layer | Status | What's Added | Skill Proof |
-|:---:|:---:|:---:|---|:---:|
-| **v1.0** | Layer 1 — Python | 🚧 Building | CLI tool: mocked AWS JSON scan → Streamlit report · OOP classes · pytest · GitHub Actions CI | Python OOP |
-| **v1.1** | Layer 2 — DSA | 📋 Planned | Trie (IAM wildcard parsing) + Graph (lateral movement) · BFS/DFS attack path · NetworkX | DSA |
-| **v1.2** | Layer 3 — SQL | 📋 Planned | PostgreSQL scan history · Window functions · SQLAlchemy ORM · Alembic migrations | SQL |
-| **v1.3** | Layer 4 — Maths | 📋 Planned | CVSS Matrix risk scoring · NumPy · SciPy · Bayesian risk inference (PyMC) | Math + Probability |
-| **v1.4** | Layer 5 — ML | 📋 Planned | Isolation Forest → CloudTrail anomaly · XGBoost threat classifier · SHAP · MLflow · Optuna | ML Production |
-| **v1.5** | Layer 6 — AWS | 📋 Planned | AWS Lambda + API Gateway · FastAPI backend · Docker · Cloud Practitioner applied | AWS + Docker |
-| **v1.6** | Layer 7 — DL | 📋 Planned | Autoencoder (PyTorch) → zero-day detection · EfficientNet · ONNX export | Deep Learning |
-| **v1.7** | Layer 8 — GenAI | 📋 Planned | LLM Agent → auto Terraform fix · CrewAI multi-agent remediation · LangGraph | Agentic AI |
-| **v1.8** | Layer 9 — MLOps | 📋 Planned | AWS EKS + Helm · ArgoCD GitOps · Istio mTLS · Terraform IaC · MLflow registry | ML Engineering |
-| **v1.9** | Layer 10 — Final | 📋 Planned | 🏆 Enterprise-grade open-source CSPM platform · Full OSS release on PyPI | Step 600 |
+| Version | Milestone | Day |
+|:---:|---|:---:|
+| **v1.0** | Python Foundations | Day 43 |
+| **v2.0** | SQL Upgrade | Day 89 |
+| **v3.0** | Math + ML | Day 142 |
+| **v4.0** | Deep Learning | Day 221 |
+| **v5.0** | GenAI & Agentic | Day 294 |
+| **v6.0** | Final Polish | Day 359 |
 
 </details>
 
@@ -126,18 +122,14 @@
 
 > Auto train · evaluate · deploy · monitor · drift detect · retrain · redeploy — designed to reach zero human intervention by Layer 10.
 
-| Version | After Layer | Status | What's Added | Skill Proof |
-|:---:|:---:|:---:|---|:---:|
-| **v1.0** | Layer 1 — Python | 🚧 Building | CSV read + model metrics auto-log · OOP pipeline class · Streamlit dashboard · pytest | Python OOP |
-| **v1.1** | Layer 2 — DSA | 📋 Planned | Min-Heap model ranker · LRU cache for predictions · NetworkX pipeline graph | DSA |
-| **v1.2** | Layer 3 — SQL | 📋 Planned | PostgreSQL model registry + hyperparameter history · SQLAlchemy · Alembic · Window functions | SQL |
-| **v1.3** | Layer 4 — Maths | 📋 Planned | KS Test + PSI drift detection from scratch · NumPy · SciPy · Bayesian uncertainty (PyMC) | Math + Probability |
-| **v1.4** | Layer 5 — ML | 📋 Planned | Auto hyperparameter optimizer (Optuna) · XGBoost + SHAP · sklearn pipeline · MLflow | ML Production |
-| **v1.5** | Layer 6 — AWS | 📋 Planned | FastAPI model serving on AWS Lambda · Docker · API Gateway · SageMaker endpoint | AWS + Docker |
-| **v1.6** | Layer 7 — DL | 📋 Planned | Knowledge Distillation pipeline · PyTorch training loop · EfficientNet · ONNX export | Deep Learning |
-| **v1.7** | Layer 8 — GenAI | 📋 Planned | LLM MLOps Copilot → drift interpret + auto-retrain · LangChain RAG · CrewAI · LangGraph | Agentic AI |
-| **v1.8** | Layer 9 — MLOps | 📋 Planned | MLflow + SageMaker · canary rollout + auto rollback · ArgoCD · Istio · K8s Helm · Terraform | ML Engineering |
-| **v1.9** | Layer 10 — Final | 📋 Planned | 🏆 Level-4 autonomous self-healing ML platform · Full OSS release on PyPI | Step 600 |
+| Version | Milestone | Day |
+|:---:|---|:---:|
+| **v1.0** | Python Foundations | Day 46 |
+| **v2.0** | SQL Upgrade | Day 102 |
+| **v3.0** | ML Core | Day 168 |
+| **v4.0** | Deep Learning | Day 244 |
+| **v5.0** | MLOps Engine | Day 325 |
+| **v6.0** | Final Polish | Day 362 |
 
 </details>
 
@@ -148,18 +140,14 @@
 
 > Unified command centre integrating all flagship capabilities — India's AI-native security platform.
 
-| Version | After Layer | Status | What's Added | Skill Proof |
-|:---:|:---:|:---:|---|:---:|
-| **v1.0** | Layer 1 — Python | 🚧 Building | CLI foundation · Streamlit dashboard · OOP core engine · pytest · GitHub Actions CI | Python OOP |
-| **v1.1** | Layer 2 — DSA | 📋 Planned | Graph-based threat topology · attack path algorithms · NetworkX | DSA |
-| **v1.2** | Layer 3 — SQL | 📋 Planned | PostgreSQL central intel DB · unified incident storage · SQLAlchemy | SQL |
-| **v1.3** | Layer 4 — Maths | 📋 Planned | Bayesian risk engine · unified risk scoring · NumPy + PyMC | Math + Probability |
-| **v1.4** | Layer 5 — ML | 📋 Planned | Unified ML threat detection · XGBoost ensemble · SHAP · MLflow | ML Production |
-| **v1.5** | Layer 6 — AWS | 📋 Planned | AWS Lambda orchestration · API Gateway · Docker · Cloud deployment | AWS + Docker |
-| **v1.6** | Layer 7 — DL | 📋 Planned | Deep learning threat fusion · PyTorch · ONNX · autoencoder anomaly | Deep Learning |
-| **v1.7** | Layer 8 — GenAI | 📋 Planned | LLM command centre · CrewAI multi-agent SOC · LangGraph orchestration | Agentic AI |
-| **v1.8** | Layer 9 — MLOps | 📋 Planned | Production K8s · ArgoCD GitOps · Istio mTLS · Terraform IaC · full platform | ML Engineering |
-| **v1.9** | Layer 10 — Final | 📋 Planned | 🏆 India's unified AI security platform · OSS launch · `pip install sentinelai` | Step 600 |
+| Version | Milestone | Day |
+|:---:|---|:---:|
+| **v1.0** | DSA Foundations | Day 76 |
+| **v2.0** | Math + ML | Day 124 |
+| **v3.0** | ML Agents | Day 190 |
+| **v4.0** | Agentic AI | Day 271 |
+| **v5.0** | MLOps + GenAI | Day 353 |
+| **v6.0** | Masterpiece Release | Day 365 |
 
 </details>
 
