@@ -63,16 +63,16 @@
 
 | Layer | Steps | Course | Status |
 |:---:|:---:|---|:---:|
-| 🔵 **Layer 1** | Step 1–85 | **🐍 PYTHON FOR EVERYBODY**<br/>University of Michigan · Python · OOP · Git · GitHub · Streamlit · pytest | 🚧 **In Progress** |
-| 🟠 **Layer 2** | Step 86–140 | **🔶 DSA SPECIALIZATION**<br/>UC San Diego · Data Structures & Algorithms · LeetCode · NetworkX · Docker | 📋 Planned |
-| 🟡 **Layer 3** | Step 141–180 | **🗄️ SQL FOR DATA SCIENCE**<br/>UC Davis · PostgreSQL · SQLAlchemy · Alembic · Window Functions | 📋 Planned |
-| 🟢 **Layer 4** | Step 181–250 | **📐 MATHEMATICS FOR ML**<br/>DeepLearning.AI · NumPy · PyMC · SciPy · Bayesian Inference | 📋 Planned |
-| 🟣 **Layer 5** | Step 251–325 | **🤖 ML SPECIALIZATION**<br/>Andrew Ng / DeepLearning.AI · sklearn · XGBoost · SHAP · MLflow · Optuna | 📋 Planned |
-| 🩵 **Layer 6** | Step 326–340 | **☁️ AWS CLOUD PRACTITIONER**<br/>AWS · FastAPI · Docker · API Gateway | 📋 Planned |
-| 🔴 **Layer 7** | Step 341–420 | **🧠 DEEP LEARNING SPECIALIZATION**<br/>Andrew Ng / DeepLearning.AI · PyTorch · EfficientNet · Transformers · ONNX | 📋 Planned |
-| 🔷 **Layer 8** | Step 421–510 | **💬 GENAI WITH LLMs**<br/>DeepLearning.AI + AWS · LangChain · RAG · CrewAI · LangGraph | 📋 Planned |
-| 🟩 **Layer 9** | Step 511–590 | **⚙️ ML ENGINEERING FOR PRODUCTION**<br/>DeepLearning.AI · MLflow · K8s · ArgoCD · Istio · Terraform | 📋 Planned |
-| 🟥 **Layer 10** | Step 591–600 | **🏆 FINAL POLISH + OSS**<br/>Open Source · AWS ML Specialty · Job Ready | 📋 Planned |
+| 🔵 **Layer 1** | Step 1–80 | **🐍 PYTHON FOR EVERYBODY**<br/>University of Michigan · Python · OOP · Git · GitHub · Streamlit · pytest | 🚧 **In Progress** |
+| 🟠 **Layer 2** | Step 81–133 | **🔶 DSA SPECIALIZATION**<br/>UC San Diego · Data Structures & Algorithms · LeetCode · NetworkX · Docker | 📋 Planned |
+| 🟡 **Layer 3** | Step 134–173 | **🗄️ SQL FOR DATA SCIENCE**<br/>UC Davis · PostgreSQL · SQLAlchemy · Alembic · Window Functions | 📋 Planned |
+| 🟢 **Layer 4** | Step 174–240 | **📐 MATHEMATICS FOR ML**<br/>DeepLearning.AI · NumPy · PyMC · SciPy · Bayesian Inference | 📋 Planned |
+| 🟣 **Layer 5** | Step 241–318 | **🤖 ML SPECIALIZATION**<br/>Andrew Ng / DeepLearning.AI · sklearn · XGBoost · SHAP · MLflow · Optuna | 📋 Planned |
+| 🩵 **Layer 6** | Step 319–333 | **☁️ AWS CLOUD PRACTITIONER**<br/>AWS · FastAPI · Docker · API Gateway | 📋 Planned |
+| 🔴 **Layer 7** | Step 334–413 | **🧠 DEEP LEARNING SPECIALIZATION**<br/>Andrew Ng / DeepLearning.AI · PyTorch · EfficientNet · Transformers · ONNX | 📋 Planned |
+| 🔷 **Layer 8** | Step 414–500 | **💬 GENAI WITH LLMs**<br/>DeepLearning.AI + AWS · LangChain · RAG · CrewAI · LangGraph | 📋 Planned |
+| 🟩 **Layer 9** | Step 501–600 | **⚙️ ML ENGINEERING FOR PRODUCTION**<br/>DeepLearning.AI · MLflow · K8s · ArgoCD · Istio · Terraform | 📋 Planned |
+| 🟥 **Layer 10**| **🏆 FINAL POLISH + OSS**<br/>Open Source · AWS ML Specialty · Job Ready | 📋 Planned |
 
 </details>
 
