@@ -104,14 +104,14 @@
 
 > AWS infrastructure auto-scanner with LLM-driven Terraform remediation.
 
-| Version | Milestone | Day |
-|:---:|---|:---:|
-| **v1.0** | Python Foundations | Day 43 |
-| **v2.0** | SQL Upgrade | Day 89 |
-| **v3.0** | Math + ML | Day 142 |
-| **v4.0** | Deep Learning | Day 221 |
-| **v5.0** | GenAI & Agentic | Day 294 |
-| **v6.0** | Final Polish | Day 359 |
+| Version | Milestone | Day | Status |
+|:---:|---|:---:|:---:|
+| **v1.0** | Python Foundations | Day 43 | Planned |
+| **v2.0** | SQL Upgrade | Day 89 | Planned |
+| **v3.0** | Math + ML | Day 142 | Planned |
+| **v4.0** | Deep Learning | Day 221 | Planned |
+| **v5.0** | GenAI & Agentic | Day 294 | Planned |
+| **v6.0** | Final Polish | Day 359 | Planned |
 
 </details>
 
@@ -122,14 +122,14 @@
 
 > Auto train · evaluate · deploy · monitor · drift detect · retrain · redeploy — designed to reach zero human intervention by Layer 10.
 
-| Version | Milestone | Day |
-|:---:|---|:---:|
-| **v1.0** | Python Foundations | Day 46 |
-| **v2.0** | SQL Upgrade | Day 102 |
-| **v3.0** | ML Core | Day 168 |
-| **v4.0** | Deep Learning | Day 244 |
-| **v5.0** | MLOps Engine | Day 325 |
-| **v6.0** | Final Polish | Day 362 |
+| Version | Milestone | Day | Status |
+|:---:|---|:---:|:---:|
+| **v1.0** | Python Foundations | Day 46 | Planned |
+| **v2.0** | SQL Upgrade | Day 102 | Planned |
+| **v3.0** | ML Core | Day 168 | Planned |
+| **v4.0** | Deep Learning | Day 244 | Planned |
+| **v5.0** | MLOps Engine | Day 325 | Planned |
+| **v6.0** | Final Polish | Day 362 | Planned |
 
 </details>
 
@@ -140,14 +140,14 @@
 
 > Unified command centre integrating all flagship capabilities — India's AI-native security platform.
 
-| Version | Milestone | Day |
-|:---:|---|:---:|
-| **v1.0** | DSA Foundations | Day 76 |
-| **v2.0** | Math + ML | Day 124 |
-| **v3.0** | ML Agents | Day 190 |
-| **v4.0** | Agentic AI | Day 271 |
-| **v5.0** | MLOps + GenAI | Day 353 |
-| **v6.0** | Masterpiece Release | Day 365 |
+| Version | Milestone | Day | Status |
+|:---:|---|:---:|:---:|
+| **v1.0** | DSA Foundations | Day 76 | Planned |
+| **v2.0** | Math + ML | Day 124 | Planned |
+| **v3.0** | ML Agents | Day 190 | Planned |
+| **v4.0** | Agentic AI | Day 271 | Planned | 
+| **v5.0** | MLOps + GenAI | Day 353 | Planned |
+| **v6.0** | Masterpiece Release | Day 365 | Planned |
 
 </details>
 
