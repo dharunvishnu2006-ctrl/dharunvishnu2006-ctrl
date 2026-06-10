@@ -47,9 +47,9 @@
 
 ### 🚦 ***CURRENT STATUS*** 
   
-**🎯 Currently Learning:** Layer 1 — Step 69 / 85 *(Python For Everybody)* **📊 layer Progress:** ![](https://progress-bar.xyz/81/?scale=100&title=Completed&width=160&color=22C55E&suffix=%25)
+**🎯 Currently Learning:** Layer 1 — Step 78 / 85 *(Python For Everybody)* **📊 layer Progress:** ![](https://progress-bar.xyz/92/?scale=100&title=Completed&width=160&color=22C55E&suffix=%25)
 
-**🎯 Overall Progress:** All Layers — Step 69 / 600 *(Full Roadmap)* **📊 1 year Mission Progress:** ![](https://progress-bar.xyz/12/?scale=100&title=Completed&width=160&color=22C55E&suffix=%25)
+**🎯 Overall Progress:** All Layers — Step 78 / 600 *(Full Roadmap)* **📊 1 year Mission Progress:** ![](https://progress-bar.xyz/13/?scale=100&title=Completed&width=160&color=22C55E&suffix=%25)
 
 ### 📖 ***THE PLAN — 1 Year Mission***
 ### *( 8 Courses + 1 API Layer + 1 Final Polish = 10 Layers · 600 Steps · 3 Projects · 3 AWS Certifications )*
