@@ -45,9 +45,7 @@
 
 ---
 
-### 🚦 ***CURRENT STATUS***
-
-**🐍 Python Progress So Far:** Setup, Loops, Pandas, SQLite, NumPy, OOP, CSV Files, Lambda, Rest Apis  
+### 🚦 ***CURRENT STATUS*** 
   
 **🎯 Currently Learning:** Layer 1 — Step 69 / 85 *(Python For Everybody)* **📊 layer Progress:** ![](https://progress-bar.xyz/81/?scale=100&title=Completed&width=160&color=22C55E&suffix=%25)
 
