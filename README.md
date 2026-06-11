@@ -16,7 +16,7 @@
 
 <!-- BOLD FAST TYPING — Bright Cyan, 3 lines -->
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=26&duration=3000&pause=1500&color=22D3EE&center=true&vCenter=true&multiline=true&weight=900&width=900&height=150&lines=On+a+365-Day+Mission+to+Master+AI%2FML+%26+Cybersecurity;Building+3+Production-Grade+AI+Systems+Layer+by+Layer;From+First+Principles+%E2%80%94+No+Bootcamp%2C+Just+Pure+Engineering" alt="tagline"/>
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=26&duration=3000&pause=1500&color=22D3EE&center=true&vCenter=true&multiline=true&weight=900&width=900&height=150&lines=On+a+365-Day+Mission+to+Master+AI%2FML+%26+Cybersecurity;Building+3+Production-Grade+AI+Systems+Layer+by+Layer;Learning+by+Building%2C+Engineering+from+First+Principles" alt="tagline"/>
 </p>
 <div align="center">
 
