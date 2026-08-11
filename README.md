@@ -37,6 +37,6 @@
 | 🛤️ ***Track*** | ***Future DevSecOps & AI Security Architect*** |
 | 📍 ***Location*** | ***India 🇮🇳*** |
 | 🎯 ***Mission*** | ***Build AI systems that protect India's digital infrastructure*** |
-| 🗺️ ***Roadmap*** | ***8 Courses + 1 API Layer + 1 Final Polish = 10 Layers · 600 Steps · 3 AWS Certifications · 3 Projects*** |
+| 🗺️ ***Roadmap*** | ***8 Courses + 1 API Layer + 1 Final Polish = 10 Layers · 600 Steps · 3 Projects*** |
 
 ***I'm Dharun Vishnu — a BSc IT graduate, not following a bootcamp but executing a structured 365-day engineering roadmap. Building 3 production-grade AI + Security systems from scratch, one layer at a time. Every skill I learn gets wired directly into a live project. Want to see my live progress, projects, and study status in real-time? 👉 Visit My Portfolio → https://dharun-portfolio-ruby.vercel.app***
