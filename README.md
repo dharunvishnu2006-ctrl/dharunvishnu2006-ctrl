@@ -26,7 +26,7 @@
 🏥 AAROGYA X → AI-Powered Hospital Platform  
     https://github.com/dharunvishnu2006-ctrl/AAROGYA-v1
 
-☁️ CloudShield X  → Enterprise Cloud Security . CSPM platform          
+☁️ CloudShield X  → Enterprise Cloud Security & CSPM platform          
     https://github.com/dharunvishnu2006-ctrl/Cloudshield-X
 
 🤖 AutoPilot ML X  → Self-healing MLOps platform         
