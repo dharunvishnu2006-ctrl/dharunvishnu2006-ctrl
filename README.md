@@ -23,7 +23,8 @@
 
 🛠️ 4 FLAGSHIP PROJECTS
 
-🏥 AAROGYA X → AI-Powered Hospital Platform (EMR, Imaging AI, Care Agents)  → https://github.com/dharunvishnu2006-ctrl/AAROGYA-v1
+🏥 AAROGYA X → AI-Powered Hospital Platform (EMR, Imaging AI, Care Agents)  
+→ https://github.com/dharunvishnu2006-ctrl/AAROGYA-v1
 
 ☁️ CloudShield X  → Enterprise Cloud Security . CSPM platform          → https://github.com/dharunvishnu2006-ctrl/Cloudshield-X
 
