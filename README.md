@@ -23,7 +23,7 @@
 
 🛠️ 4 FLAGSHIP PROJECTS
 
-🏥 AAROGYA X               Repo → https://github.com/dharunvishnu2006-ctrl/AAROGYA-v1
+🏥 AAROGYA X                → https://github.com/dharunvishnu2006-ctrl/AAROGYA-v1
 
 ☁️ CloudShield X           Repo → https://github.com/dharunvishnu2006-ctrl/Cloudshield-X
 
