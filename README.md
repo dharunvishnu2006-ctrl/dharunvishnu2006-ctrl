@@ -23,11 +23,11 @@
 
 🛠️ 4 FLAGSHIP PROJECTS
 
-🏥 AAROGYA X   https://github.com/dharunvishnu2006-ctrl/AAROGYA-v1
+🏥 AAROGYA X               Repo → https://github.com/dharunvishnu2006-ctrl/AAROGYA-v1
 
-☁️ CloudShield X 
+☁️ CloudShield X           Repo → https://github.com/dharunvishnu2006-ctrl/Cloudshield-X
 
-🤖 AutoPilot ML X 
+🤖 AutoPilot ML X          Repo → https://github.com/dharunvishnu2006-ctrl/autopilot-ml-x
 
 🛡️ Sentinel AI India 
 
