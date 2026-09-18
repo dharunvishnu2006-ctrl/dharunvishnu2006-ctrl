@@ -7,15 +7,7 @@
   <img src="https://capsule-render.vercel.app/api?type=waving&color=0:8A2BE2,25:1E90FF,50:00CED1,75:FF69B4,100:FF8C42&height=220&section=header&text=J.%20DHARUN%20VISHNU&fontColor=ffffff&fontSize=55&fontAlignY=32&desc=BSc%20IT%20%E2%80%A2%20Aspiring%20AI%2FML%20and%20DevSecOps%20Architect&descSize=18&descAlignY=52&animation=fadeIn" alt="Dharun Vishnu banner"/>
 </p>
 
-<!-- BOLD FAST TYPING — Bright Cyan, 3 lines -->
-<p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=26&duration=3000&pause=1500&color=22D3EE&center=true&vCenter=true&multiline=true&weight=900&width=900&height=150&lines=On+a+365-Day+Mission+to+Master+AI%2FML+%26+Cybersecurity;Building+3+Production-Grade+AI+Systems+Layer+by+Layer;Learning+by+Building%2C+Engineering+from+First+Principles" alt="tagline"/>
-</p>
-<div align="center">
 
-![Profile Views](https://komarev.com/ghpvc/?username=dharunvishnu2006-ctrl&color=00CED1&style=for-the-badge&label=PROFILE+VIEWS)
-![Followers](https://img.shields.io/github/followers/dharunvishnu2006-ctrl?style=for-the-badge&color=FF69B4&labelColor=8A2BE2)
-![Stars](https://img.shields.io/github/stars/dharunvishnu2006-ctrl?style=for-the-badge&color=FF8C42&labelColor=1E90FF)
 
 </div>
 
