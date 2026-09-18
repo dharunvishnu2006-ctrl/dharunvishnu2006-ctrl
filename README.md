@@ -30,6 +30,7 @@
 🤖 AutoPilot ML X          Repo → https://github.com/dharunvishnu2006-ctrl/autopilot-ml-x
 
 🛡️ Sentinel AI India 
+https://github.com/dharunvishnu2006-ctrl/sentinel-ai-india
 
 </td> </tr> </table>
 ***I'm Dharun Vishnu — a BSc IT graduate, not following a bootcamp but executing a structured 365-day engineering roadmap. Building 4 production-grade AI + Security systems from scratch, one layer at a time. Every skill I learn gets wired directly into a live project. Want to see my live progress, projects, and study status in real-time? 👉 Visit My Portfolio → https://dharun-portfolio-ruby.vercel.app***
