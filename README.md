@@ -23,13 +23,13 @@
 
 🛠️ 4 FLAGSHIP PROJECTS
 
-🏥 AAROGYA X                → https://github.com/dharunvishnu2006-ctrl/AAROGYA-v1
+🏥 AAROGYA X → AI-Powered Hospital Platform (EMR, Imaging AI, Care Agents)  → https://github.com/dharunvishnu2006-ctrl/AAROGYA-v1
 
-☁️ CloudShield X  → → Enterprise Cloud Security . CSPM platform          → https://github.com/dharunvishnu2006-ctrl/Cloudshield-X
+☁️ CloudShield X  → Enterprise Cloud Security . CSPM platform          → https://github.com/dharunvishnu2006-ctrl/Cloudshield-X
 
-🤖 AutoPilot ML X  → → Self-healing MLOps platform         → https://github.com/dharunvishnu2006-ctrl/autopilot-ml-x
+🤖 AutoPilot ML X  → Self-healing MLOps platform         → https://github.com/dharunvishnu2006-ctrl/autopilot-ml-x
 
-🛡️ Sentinel AI India   → → Multi-Agent Command Centre      → https://github.com/dharunvishnu2006-ctrl/sentinel-ai-india     
+🛡️ Sentinel AI India  → Multi-Agent Command Centre      → https://github.com/dharunvishnu2006-ctrl/sentinel-ai-india     
 
 
 </td> </tr> </table>
