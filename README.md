@@ -25,11 +25,11 @@
 
 🏥 AAROGYA X                → https://github.com/dharunvishnu2006-ctrl/AAROGYA-v1
 
-☁️ CloudShield X           Repo → https://github.com/dharunvishnu2006-ctrl/Cloudshield-X
+☁️ CloudShield X            → https://github.com/dharunvishnu2006-ctrl/Cloudshield-X
 
-🤖 AutoPilot ML X          Repo → https://github.com/dharunvishnu2006-ctrl/autopilot-ml-x
+🤖 AutoPilot ML X           → https://github.com/dharunvishnu2006-ctrl/autopilot-ml-x
 
-🛡️ Sentinel AI India       Repo → https://github.com/dharunvishnu2006-ctrl/sentinel-ai-india     
+🛡️ Sentinel AI India        → https://github.com/dharunvishnu2006-ctrl/sentinel-ai-india     
 
 
 </td> </tr> </table>
