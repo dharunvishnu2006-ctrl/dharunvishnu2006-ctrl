@@ -27,11 +27,11 @@
    **Live demo:** https://aarogya-x.streamlit.app
    **Repository:** https://github.com/dharunvishnu2006-ctrl/AAROGYA-X
 
-☁️ CloudShield X  → Enterprise Cloud Security & CSPM platform 
+☁️ CloudShield X  → Enterprise Cloud Security & CSPM platform <br>
    **Live demo:** https://lnkd.in/gCZBQyb7
    **Repository:** https://github.com/dharunvishnu2006-ctrl/Cloudshield-X
 
-🤖 AutoPilot ML X  → Self-healing MLOps platform
+🤖 AutoPilot ML X  → Self-healing MLOps platform <br>
    **Live demo:** https://lnkd.in/gEMi-zsC
    **Repository:** https://github.com/dharunvishnu2006-ctrl/autopilot-ml-x
 
