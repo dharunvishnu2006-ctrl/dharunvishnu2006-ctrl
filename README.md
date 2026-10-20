@@ -34,7 +34,7 @@
 
 🛡️ Sentinel AI India  → Multi-Agent Command Centre      
     https://github.com/dharunvishnu2006-ctrl/sentinel-ai-india     
-
+    **Live demo:** https://sentinel-ai-india.streamlit.app
 
 </td> </tr> </table>
 ***I'm Dharun Vishnu — a BSc IT graduate, not following a bootcamp but executing a structured 365-day engineering roadmap. Building 4 production-grade AI + Security systems from scratch, one layer at a time. Every skill I learn gets wired directly into a live project. Want to see my live progress, projects, and study status in real-time? 👉 Visit My Portfolio → https://dharun-portfolio-ruby.vercel.app
