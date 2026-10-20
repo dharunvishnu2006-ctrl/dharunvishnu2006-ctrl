@@ -24,7 +24,8 @@
 🛠️ 4 FLAGSHIP PROJECTS
 
 🏥 AAROGYA X → AI-Powered Hospital Platform  
-    https://github.com/dharunvishnu2006-ctrl/AAROGYA-X
+   **Live demo:** https://aarogya-x.streamlit.app
+   **Repository:** https://github.com/dharunvishnu2006-ctrl/AAROGYA-X
 
 ☁️ CloudShield X  → Enterprise Cloud Security & CSPM platform          
     https://github.com/dharunvishnu2006-ctrl/Cloudshield-X
@@ -32,9 +33,9 @@
 🤖 AutoPilot ML X  → Self-healing MLOps platform         
     https://github.com/dharunvishnu2006-ctrl/autopilot-ml-x
 
-🛡️ Sentinel AI India  → Multi-Agent Command Centre      
-    https://github.com/dharunvishnu2006-ctrl/sentinel-ai-india     
+🛡️ Sentinel AI India  → Multi-Agent Command Centre         
     **Live demo:** https://sentinel-ai-india.streamlit.app
-
+    **Repository:** https://github.com/dharunvishnu2006-ctrl/sentinel-ai-india
+    
 </td> </tr> </table>
 ***I'm Dharun Vishnu — a BSc IT graduate, not following a bootcamp but executing a structured 365-day engineering roadmap. Building 4 production-grade AI + Security systems from scratch, one layer at a time. Every skill I learn gets wired directly into a live project. Want to see my live progress, projects, and study status in real-time? 👉 Visit My Portfolio → https://dharun-portfolio-ruby.vercel.app
