@@ -28,10 +28,10 @@
    **Repository:** https://github.com/dharunvishnu2006-ctrl/AAROGYA-X
 
 ☁️ CloudShield X  → Enterprise Cloud Security & CSPM platform          
-    https://github.com/dharunvishnu2006-ctrl/Cloudshield-X
+    **Repository:** https://github.com/dharunvishnu2006-ctrl/Cloudshield-X
 
 🤖 AutoPilot ML X  → Self-healing MLOps platform         
-    https://github.com/dharunvishnu2006-ctrl/autopilot-ml-x
+    **Repository:** https://github.com/dharunvishnu2006-ctrl/autopilot-ml-x
 
 🛡️ Sentinel AI India  → Multi-Agent Command Centre         
     **Live demo:** https://sentinel-ai-india.streamlit.app
