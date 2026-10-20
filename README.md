@@ -27,11 +27,13 @@
    **Live demo:** https://aarogya-x.streamlit.app
    **Repository:** https://github.com/dharunvishnu2006-ctrl/AAROGYA-X
 
-☁️ CloudShield X  → Enterprise Cloud Security & CSPM platform          
+☁️ CloudShield X  → Enterprise Cloud Security & CSPM platform
+    **Live demo:** https://lnkd.in/gCZBQyb7
     **Repository:** https://github.com/dharunvishnu2006-ctrl/Cloudshield-X
 
-🤖 AutoPilot ML X  → Self-healing MLOps platform         
-    **Repository:** https://github.com/dharunvishnu2006-ctrl/autopilot-ml-x
+🤖 AutoPilot ML X  → Self-healing MLOps platform
+   **Live demo:** https://lnkd.in/gEMi-zsC
+   **Repository:** https://github.com/dharunvishnu2006-ctrl/autopilot-ml-x
 
 🛡️ Sentinel AI India  → Multi-Agent Command Centre         
     **Live demo:** https://sentinel-ai-india.streamlit.app
