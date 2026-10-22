@@ -32,7 +32,7 @@
    **Repository:** https://github.com/dharunvishnu2006-ctrl/Cloudshield-X
 
 🤖 AutoPilot ML X  → Self-healing MLOps platform <br>
-   **Live demo:** https://lnkd.in/gEMi-zsC
+   **Live demo:** https://autopilot-ml-x.streamlit.app
    **Repository:** https://github.com/dharunvishnu2006-ctrl/autopilot-ml-x
 
 🛡️ Sentinel AI India  → Multi-Agent Command Centre         
